@@ -71,218 +71,287 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020604,WPG,R,2024-01-05,1,0,{'default': 'Jets'},{'default': 'Ducks'},1,1,1,1,0,0,1,15,0,0,ANA,0,11:35,8482149,Cole,Perfetti
 2023020601,WPG,R,2024-01-04,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,0,0,0,0,0,1,15,0,0,SJS,0,16:16,8482149,Cole,Perfetti
 2023020580,WPG,H,2024-01-02,0,1,{'default': 'Jets'},{'default': 'Lightning'},1,1,0,0,0,0,3,17,0,0,TBL,0,16:25,8482149,Cole,Perfetti
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,21,0,0,MTL,0,17:09,8471218,Blake,Wheeler
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,13,0,0,CHI,5,12:40,8471218,Blake,Wheeler
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-3,0,0,0,0,2,22,0,0,CAR,2,15:33,8471218,Blake,Wheeler
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,14,0,0,MTL,0,10:32,8474009,Nick,Bonino
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,15,0,0,CHI,0,13:21,8474009,Nick,Bonino
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,18,0,0,CAR,0,14:24,8474009,Nick,Bonino
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,6,25,0,0,MTL,2,19:33,8475184,Chris,Kreider
-2023020591,NYR,H,2024-01-04,1,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,-1,1,1,1,0,3,18,0,0,CHI,0,16:02,8475184,Chris,Kreider
-2023020575,NYR,H,2024-01-02,1,0,{'default': 'Rangers'},{'default': 'Hurricanes'},1,-1,0,0,0,0,5,22,0,0,CAR,0,16:50,8475184,Chris,Kreider
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,12,0,0,CAR,2,6:58,8475752,Tyler,Pitlick
-2023020610,NYR,R,2024-01-06,1,1,{'default': 'Rangers'},{'default': 'Canadiens'},2,1,0,0,0,0,4,26,0,0,MTL,0,24:21,8476389,Vincent,Trocheck
-2023020591,NYR,H,2024-01-04,0,3,{'default': 'Rangers'},{'default': 'Blackhawks'},3,2,0,1,0,0,2,22,0,0,CHI,0,20:59,8476389,Vincent,Trocheck
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,5,24,0,0,CAR,0,22:40,8476389,Vincent,Trocheck
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,6,24,0,0,MTL,0,22:29,8476459,Mika,Zibanejad
-2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,-1,0,1,0,0,0,19,0,0,CHI,0,15:37,8476459,Mika,Zibanejad
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,1,22,0,0,CAR,0,17:17,8476459,Mika,Zibanejad
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,3,17,0,0,MTL,0,11:50,8476624,Barclay,Goodrow
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,16,0,0,CHI,0,13:38,8476624,Barclay,Goodrow
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,15,0,0,CAR,0,11:52,8476624,Barclay,Goodrow
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,3,23,0,0,MTL,0,22:00,8476885,Jacob,Trouba
-2023020591,NYR,H,2024-01-04,1,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,0,0,0,0,0,2,23,0,0,CHI,0,22:22,8476885,Jacob,Trouba
-2023020575,NYR,H,2024-01-02,0,1,{'default': 'Rangers'},{'default': 'Hurricanes'},1,0,0,0,0,0,4,26,0,0,CAR,2,22:11,8476885,Jacob,Trouba
-2023020610,NYR,R,2024-01-06,0,1,{'default': 'Rangers'},{'default': 'Canadiens'},1,0,0,0,0,0,2,19,0,0,MTL,0,14:18,8476918,Jimmy,Vesey
-2023020591,NYR,H,2024-01-04,1,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,16,0,0,CHI,0,13:04,8476918,Jimmy,Vesey
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,16,0,0,CAR,0,11:58,8476918,Jimmy,Vesey
-2023020610,NYR,R,2024-01-06,0,1,{'default': 'Rangers'},{'default': 'Canadiens'},1,1,0,0,0,0,1,20,0,0,MTL,0,16:27,8476979,Erik,Gustafsson
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,2,0,0,0,0,1,20,0,0,CHI,0,17:13,8476979,Erik,Gustafsson
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,1,20,0,0,CAR,0,16:08,8476979,Erik,Gustafsson
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,0,13,0,0,MTL,0,9:05,8477380,Jonny,Brodzinski
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,12,0,0,CHI,0,9:20,8477380,Jonny,Brodzinski
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,17,0,0,CAR,0,13:38,8477380,Jonny,Brodzinski
-2023020610,NYR,R,2024-01-06,1,1,{'default': 'Rangers'},{'default': 'Canadiens'},2,0,0,0,0,0,8,23,0,0,MTL,0,24:09,8478550,Artemi,Panarin
-2023020591,NYR,H,2024-01-04,1,1,{'default': 'Rangers'},{'default': 'Blackhawks'},2,2,0,0,0,0,4,17,0,0,CHI,0,18:08,8478550,Artemi,Panarin
-2023020575,NYR,H,2024-01-02,0,1,{'default': 'Rangers'},{'default': 'Hurricanes'},1,0,0,0,0,0,2,21,0,0,CAR,0,19:19,8478550,Artemi,Panarin
-2023020610,NYR,R,2024-01-06,1,0,{'default': 'Rangers'},{'default': 'Canadiens'},1,-1,0,0,0,0,3,25,0,0,MTL,0,25:37,8479323,Adam,Fox
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,1,0,0,0,0,2,24,0,0,CHI,4,20:15,8479323,Adam,Fox
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,1,26,0,0,CAR,0,21:48,8479323,Adam,Fox
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,2,21,0,0,MTL,0,18:52,8479324,Ryan,Lindgren
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,26,0,0,CHI,0,22:19,8479324,Ryan,Lindgren
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,1,24,0,0,CAR,0,19:51,8479324,Ryan,Lindgren
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,1,27,0,0,MTL,2,23:35,8480817,K'Andre,Miller
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,21,0,0,CHI,2,20:10,8480817,K'Andre,Miller
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,3,26,0,0,CAR,0,21:40,8480817,K'Andre,Miller
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,2,16,0,0,MTL,0,13:00,8482073,Braden,Schneider
-2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,22,0,0,CHI,0,17:10,8482073,Braden,Schneider
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,18,0,0,CAR,0,12:30,8482073,Braden,Schneider
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,1,0,0,0,0,4,22,0,0,MTL,0,20:20,8482109,Alexis,Lafrenière
-2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,2,0,0,0,0,4,18,0,0,CHI,0,18:12,8482109,Alexis,Lafrenière
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,3,22,0,0,CAR,2,17:19,8482109,Alexis,Lafrenière
-2023020610,NYR,R,2024-01-06,0,1,{'default': 'Rangers'},{'default': 'Canadiens'},1,0,0,0,0,0,2,15,0,0,MTL,0,12:27,8482157,Will,Cuylle
-2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,15,0,0,CHI,0,11:04,8482157,Will,Cuylle
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,17,0,0,CAR,0,12:20,8482157,Will,Cuylle
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,0,9,0,0,MTL,0,7:16,8482747,Brennan,Othmann
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,5,16,0,0,CHI,0,12:26,8482747,Brennan,Othmann
+2023020624,BOS,R,2024-01-08,2,0,{'default': 'Bruins'},{'default': 'Avalanche'},2,1,1,1,0,0,2,32,0,0,COL,2,20:21,8473419,Brad,Marchand
 2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,0,0,0,0,0,0,20,0,0,TBL,0,16:54,8473419,Brad,Marchand
 2023020589,BOS,H,2024-01-04,2,0,{'default': 'Bruins'},{'default': 'Penguins'},2,1,0,0,0,0,4,29,1,1,PIT,0,20:23,8473419,Brad,Marchand
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,23,0,0,CBJ,0,18:30,8473419,Brad,Marchand
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,-1,0,0,0,0,2,21,0,0,COL,0,13:46,8474031,Kevin,Shattenkirk
 2023020607,BOS,H,2024-01-06,0,1,{'default': 'Bruins'},{'default': 'Lightning'},1,1,0,1,0,0,1,20,0,0,TBL,0,14:52,8474031,Kevin,Shattenkirk
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,-2,0,0,0,0,1,22,0,0,PIT,0,13:28,8474031,Kevin,Shattenkirk
 2023020574,BOS,R,2024-01-02,1,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,1,0,0,0,0,1,22,0,0,CBJ,0,15:31,8474031,Kevin,Shattenkirk
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,-2,0,0,0,0,2,20,0,0,PIT,0,12:23,8474037,James,van Riemsdyk
 2023020574,BOS,R,2024-01-02,1,2,{'default': 'Bruins'},{'default': 'Blue Jackets'},3,2,1,1,1,0,2,22,0,0,CBJ,0,12:43,8474037,James,van Riemsdyk
+2023020624,BOS,R,2024-01-08,0,1,{'default': 'Bruins'},{'default': 'Avalanche'},1,1,0,0,0,0,4,31,0,0,COL,2,17:54,8475745,Charlie,Coyle
 2023020607,BOS,H,2024-01-06,1,0,{'default': 'Bruins'},{'default': 'Lightning'},1,-1,0,0,0,0,2,23,0,0,TBL,0,16:41,8475745,Charlie,Coyle
 2023020589,BOS,H,2024-01-04,0,1,{'default': 'Bruins'},{'default': 'Penguins'},1,0,0,0,0,0,1,29,0,1,PIT,0,19:19,8475745,Charlie,Coyle
 2023020574,BOS,R,2024-01-02,0,1,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,0,0,0,0,0,2,24,0,0,CBJ,0,15:34,8475745,Charlie,Coyle
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,1,36,0,0,COL,2,26:05,8476854,Hampus,Lindholm
 2023020607,BOS,H,2024-01-06,0,2,{'default': 'Bruins'},{'default': 'Lightning'},2,-2,0,1,0,0,1,27,0,0,TBL,0,21:28,8476854,Hampus,Lindholm
 2023020589,BOS,H,2024-01-04,0,1,{'default': 'Bruins'},{'default': 'Penguins'},1,2,0,0,0,0,2,29,0,0,PIT,0,29:13,8476854,Hampus,Lindholm
 2023020574,BOS,R,2024-01-02,0,1,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,1,0,1,0,0,1,29,0,0,CBJ,0,22:12,8476854,Hampus,Lindholm
+2023020624,BOS,R,2024-01-08,0,1,{'default': 'Bruins'},{'default': 'Avalanche'},1,0,0,0,0,0,0,32,0,0,COL,2,21:08,8476891,Matt,Grzelcyk
 2023020607,BOS,H,2024-01-06,0,1,{'default': 'Bruins'},{'default': 'Lightning'},1,3,0,0,0,0,0,24,0,0,TBL,2,18:10,8476891,Matt,Grzelcyk
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,0,0,0,0,0,2,31,0,0,PIT,0,20:52,8476891,Matt,Grzelcyk
 2023020574,BOS,R,2024-01-02,0,1,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,1,0,0,0,0,1,28,0,0,CBJ,2,19:19,8476891,Matt,Grzelcyk
+2023020624,BOS,R,2024-01-08,0,1,{'default': 'Bruins'},{'default': 'Avalanche'},1,-2,0,1,0,0,4,27,0,0,COL,0,21:52,8477956,David,Pastrnak
 2023020607,BOS,H,2024-01-06,1,1,{'default': 'Bruins'},{'default': 'Lightning'},2,1,0,0,1,0,4,20,0,0,TBL,0,19:56,8477956,David,Pastrnak
 2023020589,BOS,H,2024-01-04,1,2,{'default': 'Bruins'},{'default': 'Penguins'},3,3,0,0,0,0,7,23,0,0,PIT,0,23:39,8477956,David,Pastrnak
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,20,0,0,CBJ,0,20:09,8477956,David,Pastrnak
+2023020624,BOS,R,2024-01-08,0,1,{'default': 'Bruins'},{'default': 'Avalanche'},1,1,0,0,0,0,2,20,0,0,COL,2,14:48,8478046,Danton,Heinen
 2023020607,BOS,H,2024-01-06,0,1,{'default': 'Bruins'},{'default': 'Lightning'},1,2,0,0,0,0,6,19,0,0,TBL,0,15:30,8478046,Danton,Heinen
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,-2,0,0,0,0,0,21,0,0,PIT,0,14:42,8478046,Danton,Heinen
 2023020574,BOS,R,2024-01-02,1,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,1,0,0,0,0,4,25,0,0,CBJ,0,14:42,8478046,Danton,Heinen
+2023020624,BOS,R,2024-01-08,0,1,{'default': 'Bruins'},{'default': 'Avalanche'},1,-2,0,1,0,0,4,30,0,0,COL,0,21:52,8478401,Pavel,Zacha
 2023020607,BOS,H,2024-01-06,0,1,{'default': 'Bruins'},{'default': 'Lightning'},1,1,0,0,0,0,2,23,0,0,TBL,0,18:39,8478401,Pavel,Zacha
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,2,0,0,0,0,1,26,0,0,PIT,0,21:41,8478401,Pavel,Zacha
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,19,0,0,CBJ,0,17:17,8478401,Pavel,Zacha
+2023020624,BOS,R,2024-01-08,0,1,{'default': 'Bruins'},{'default': 'Avalanche'},1,1,0,0,0,0,0,14,0,0,COL,0,11:50,8478443,Brandon,Carlo
 2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,-2,0,0,0,0,0,27,0,0,TBL,0,19:09,8478443,Brandon,Carlo
 2023020589,BOS,H,2024-01-04,0,1,{'default': 'Bruins'},{'default': 'Penguins'},1,1,0,0,0,0,0,27,0,0,PIT,2,18:32,8478443,Brandon,Carlo
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,1,0,0,0,0,1,29,0,0,CBJ,0,19:17,8478443,Brandon,Carlo
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,1,28,0,0,COL,0,20:48,8478450,Parker,Wotherspoon
 2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,2,0,0,0,0,0,20,0,0,TBL,0,16:56,8478450,Parker,Wotherspoon
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,1,0,0,0,0,2,29,0,0,COL,0,15:34,8478498,Jake,DeBrusk
 2023020607,BOS,H,2024-01-06,1,0,{'default': 'Bruins'},{'default': 'Lightning'},1,-1,0,0,0,0,2,22,1,1,TBL,0,15:12,8478498,Jake,DeBrusk
 2023020589,BOS,H,2024-01-04,1,0,{'default': 'Bruins'},{'default': 'Penguins'},1,-2,0,0,0,0,3,28,0,0,PIT,0,17:36,8478498,Jake,DeBrusk
 2023020574,BOS,R,2024-01-02,0,1,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,1,0,1,0,0,1,24,0,0,CBJ,0,15:15,8478498,Jake,DeBrusk
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,2,37,0,0,COL,2,30:50,8479325,Charlie,McAvoy
 2023020607,BOS,H,2024-01-06,1,0,{'default': 'Bruins'},{'default': 'Lightning'},1,4,0,0,0,0,1,23,0,0,TBL,0,24:15,8479325,Charlie,McAvoy
 2023020589,BOS,H,2024-01-04,0,2,{'default': 'Bruins'},{'default': 'Penguins'},2,1,0,0,0,0,1,31,0,0,PIT,4,26:27,8479325,Charlie,McAvoy
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,29,0,0,CBJ,0,23:33,8479325,Charlie,McAvoy
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,0,22,0,0,COL,0,15:21,8479365,Trent,Frederic
 2023020607,BOS,H,2024-01-06,2,0,{'default': 'Bruins'},{'default': 'Lightning'},2,3,1,1,0,0,3,20,0,0,TBL,0,16:44,8479365,Trent,Frederic
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,-2,0,0,0,0,2,25,0,0,PIT,0,14:11,8479365,Trent,Frederic
 2023020574,BOS,R,2024-01-02,1,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,2,0,0,0,0,1,23,0,0,CBJ,0,15:38,8479365,Trent,Frederic
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,0,11,0,0,COL,0,7:04,8479546,Oskar,Steen
 2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,0,0,0,0,0,0,14,0,0,TBL,0,10:46,8479546,Oskar,Steen
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,0,0,0,0,0,0,11,0,0,PIT,0,6:45,8479546,Oskar,Steen
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,16,0,0,CBJ,0,11:29,8479546,Oskar,Steen
-2023020607,BOS,H,2024-01-06,1,0,{'default': 'Bruins'},{'default': 'Lightning'},1,0,0,0,0,0,4,19,0,0,TBL,4,16:59,8479987,Morgan,Geekie
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,-1,0,0,0,0,1,21,0,0,COL,0,15:34,8479987,Morgan,Geekie
+2023020607,BOS,H,2024-01-06,1,0,{'default': 'Bruins'},{'default': 'Lightning'},1,0,0,0,0,0,3,19,0,0,TBL,4,16:59,8479987,Morgan,Geekie
 2023020589,BOS,H,2024-01-04,1,2,{'default': 'Bruins'},{'default': 'Penguins'},3,3,0,0,0,0,2,23,0,0,PIT,0,18:21,8479987,Morgan,Geekie
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,17,0,0,CBJ,0,16:20,8479987,Morgan,Geekie
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,1,0,0,0,0,0,12,0,0,COL,0,7:30,8480003,Jesper,Boqvist
 2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,1,0,0,0,0,1,15,0,0,TBL,2,11:22,8480003,Jesper,Boqvist
 2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,0,0,0,0,0,0,10,0,0,TBL,0,7:26,8480880,Jakub,Lauko
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,16,0,0,CBJ,0,11:33,8480880,Jakub,Lauko
+2023020624,BOS,R,2024-01-08,1,0,{'default': 'Bruins'},{'default': 'Avalanche'},1,0,0,0,0,0,1,19,0,0,COL,0,9:16,8481556,John,Beecher
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,-1,0,0,0,0,0,11,0,0,PIT,0,6:10,8481556,John,Beecher
 2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},0,-3,0,0,0,0,1,14,0,0,PIT,0,8:29,8482511,Mason,Lohrei
 2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,24,0,0,CBJ,2,14:50,8482511,Mason,Lohrei
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,0,17,0,0,COL,0,12:38,8483505,Matthew,Poitras
 2023020607,BOS,H,2024-01-06,0,2,{'default': 'Bruins'},{'default': 'Lightning'},2,2,0,0,0,0,0,16,0,0,TBL,0,11:01,8483505,Matthew,Poitras
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,-1,0,0,0,0,0,24,0,0,NYR,0,20:15,8474013,Ian,Cole
 2023020611,VAN,R,2024-01-06,0,1,{'default': 'Canucks'},{'default': 'Devils'},1,-1,0,0,0,0,0,29,0,0,NJD,0,17:45,8474013,Ian,Cole
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,0,19,0,0,STL,0,15:39,8474013,Ian,Cole
 2023020584,VAN,H,2024-01-02,1,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,0,0,0,0,0,1,26,0,0,OTT,0,19:51,8474013,Ian,Cole
+2023020621,VAN,R,2024-01-08,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,1,0,0,0,0,2,24,0,0,NYR,0,19:25,8474574,Tyler,Myers
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,0,0,0,0,0,2,30,0,0,NJD,0,20:54,8474574,Tyler,Myers
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,1,23,0,0,STL,2,19:35,8474574,Tyler,Myers
 2023020584,VAN,H,2024-01-02,0,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,2,0,0,0,0,0,29,0,0,OTT,0,18:32,8474574,Tyler,Myers
+2023020621,VAN,R,2024-01-08,1,0,{'default': 'Canucks'},{'default': 'Rangers'},1,2,0,0,0,0,1,28,0,0,NYR,0,19:25,8476468,J.T.,Miller
 2023020611,VAN,R,2024-01-06,2,1,{'default': 'Canucks'},{'default': 'Devils'},3,5,0,0,0,0,2,27,0,0,NJD,0,18:29,8476468,J.T.,Miller
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,1,26,0,0,STL,0,21:15,8476468,J.T.,Miller
 2023020584,VAN,H,2024-01-02,1,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,1,0,1,1,0,2,26,0,0,OTT,0,18:13,8476468,J.T.,Miller
 2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,3,0,0,OTT,0,2:13,8476858,Phillip,Di Giuseppe
+2023020621,VAN,R,2024-01-08,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,0,0,0,0,0,3,25,0,0,NYR,0,15:35,8476927,Teddy,Blueger
 2023020611,VAN,R,2024-01-06,0,1,{'default': 'Canucks'},{'default': 'Devils'},1,1,0,0,0,0,3,25,0,0,NJD,0,15:36,8476927,Teddy,Blueger
 2023020596,VAN,R,2024-01-04,0,1,{'default': 'Canucks'},{'default': 'Blues'},1,0,0,0,0,0,2,21,0,0,STL,0,14:39,8476927,Teddy,Blueger
 2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,3,24,0,0,OTT,0,16:48,8476927,Teddy,Blueger
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,1,0,0,0,0,0,25,0,0,NYR,0,18:46,8477369,Carson,Soucy
 2023020611,VAN,R,2024-01-06,0,1,{'default': 'Canucks'},{'default': 'Devils'},1,2,0,0,0,0,1,30,0,0,NJD,0,20:19,8477369,Carson,Soucy
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,-1,0,0,0,0,2,25,0,0,NYR,0,18:49,8477507,Nikita,Zadorov
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,5,23,0,0,STL,0,21:19,8477507,Nikita,Zadorov
 2023020584,VAN,H,2024-01-02,0,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,3,0,0,0,0,0,30,0,0,OTT,0,19:14,8477507,Nikita,Zadorov
+2023020621,VAN,R,2024-01-08,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,1,0,0,0,0,0,18,0,0,NYR,0,10:32,8478043,Sam,Lafferty
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-2,0,0,0,0,1,20,0,0,NJD,0,12:28,8478043,Sam,Lafferty
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,0,20,0,0,STL,0,12:42,8478043,Sam,Lafferty
 2023020584,VAN,H,2024-01-02,0,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,1,0,0,0,0,1,20,0,0,OTT,2,13:52,8478043,Sam,Lafferty
-2023020611,VAN,R,2024-01-06,1,1,{'default': 'Canucks'},{'default': 'Devils'},2,1,0,0,0,0,4,24,0,0,NJD,2,13:24,8478057,Dakota,Joshua
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,-1,0,0,0,0,1,25,0,0,NYR,0,16:02,8478057,Dakota,Joshua
+2023020611,VAN,R,2024-01-06,1,1,{'default': 'Canucks'},{'default': 'Devils'},2,1,0,0,0,0,5,24,0,0,NJD,2,13:24,8478057,Dakota,Joshua
 2023020596,VAN,R,2024-01-04,0,1,{'default': 'Canucks'},{'default': 'Blues'},1,0,0,0,0,0,1,20,0,0,STL,0,13:47,8478057,Dakota,Joshua
 2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,1,25,0,0,OTT,0,18:05,8478057,Dakota,Joshua
+2023020621,VAN,R,2024-01-08,1,2,{'default': 'Canucks'},{'default': 'Rangers'},3,3,0,0,0,0,5,26,0,0,NYR,0,19:22,8478444,Brock,Boeser
 2023020611,VAN,R,2024-01-06,0,2,{'default': 'Canucks'},{'default': 'Devils'},2,4,0,0,0,0,3,26,0,0,NJD,0,17:45,8478444,Brock,Boeser
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,2,24,0,0,STL,0,20:34,8478444,Brock,Boeser
 2023020584,VAN,H,2024-01-02,0,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,1,0,0,0,0,1,25,0,0,OTT,0,18:52,8478444,Brock,Boeser
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-1,0,0,0,0,0,28,0,0,NJD,0,15:22,8478454,Noah,Juulsen
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,-1,0,0,0,0,0,15,0,0,STL,0,11:32,8478454,Noah,Juulsen
 2023020584,VAN,H,2024-01-02,0,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,1,0,0,0,0,0,26,0,0,OTT,0,17:41,8478454,Noah,Juulsen
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,-1,0,0,0,0,3,22,0,0,NYR,0,13:35,8478856,Conor,Garland
 2023020611,VAN,R,2024-01-06,1,0,{'default': 'Canucks'},{'default': 'Devils'},1,0,0,0,0,0,3,23,0,0,NJD,0,13:02,8478856,Conor,Garland
 2023020596,VAN,R,2024-01-04,1,0,{'default': 'Canucks'},{'default': 'Blues'},1,0,0,0,0,0,2,22,0,0,STL,0,16:01,8478856,Conor,Garland
 2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,1,23,0,0,OTT,0,15:13,8478856,Conor,Garland
+2023020621,VAN,R,2024-01-08,0,2,{'default': 'Canucks'},{'default': 'Rangers'},2,4,0,0,0,0,2,25,0,0,NYR,2,21:19,8479425,Filip,Hronek
 2023020611,VAN,R,2024-01-06,0,1,{'default': 'Canucks'},{'default': 'Devils'},1,3,0,0,0,0,1,30,0,0,NJD,0,20:09,8479425,Filip,Hronek
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,2,27,0,0,STL,0,22:53,8479425,Filip,Hronek
 2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,24,0,0,OTT,0,21:01,8479425,Filip,Hronek
+2023020621,VAN,R,2024-01-08,2,2,{'default': 'Canucks'},{'default': 'Rangers'},4,3,0,0,1,0,3,28,0,0,NYR,0,19:06,8480012,Elias,Pettersson
 2023020611,VAN,R,2024-01-06,2,1,{'default': 'Canucks'},{'default': 'Devils'},3,4,0,0,1,0,4,27,0,0,NJD,0,19:51,8480012,Elias,Pettersson
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,1,25,0,0,STL,0,17:21,8480012,Elias,Pettersson
 2023020584,VAN,H,2024-01-02,2,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,1,1,1,0,0,5,25,0,0,OTT,0,17:17,8480012,Elias,Pettersson
+2023020621,VAN,R,2024-01-08,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,1,0,0,0,0,0,25,0,0,NYR,0,14:11,8480459,Pius,Suter
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-1,0,0,0,0,3,22,0,0,NJD,0,14:40,8480459,Pius,Suter
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,5,25,0,0,STL,0,18:17,8480459,Pius,Suter
 2023020584,VAN,H,2024-01-02,2,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",3,4,0,0,0,0,5,23,0,0,OTT,0,16:10,8480459,Pius,Suter
+2023020621,VAN,R,2024-01-08,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,4,0,0,0,0,0,26,0,0,NYR,0,21:49,8480800,Quinn,Hughes
 2023020611,VAN,R,2024-01-06,0,3,{'default': 'Canucks'},{'default': 'Devils'},3,1,0,0,0,0,2,29,0,0,NJD,0,23:38,8480800,Quinn,Hughes
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,-1,0,0,0,0,2,24,0,0,STL,0,27:43,8480800,Quinn,Hughes
 2023020584,VAN,H,2024-01-02,0,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,-1,0,1,0,0,1,25,0,0,OTT,0,23:22,8480800,Quinn,Hughes
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,-1,0,0,0,0,0,14,0,0,STL,0,9:17,8481024,Linus,Karlsson
+2023020621,VAN,R,2024-01-08,2,0,{'default': 'Canucks'},{'default': 'Rangers'},2,2,0,0,0,0,2,16,0,0,NYR,0,10:13,8481535,Nils,Hoglander
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-2,0,0,0,0,1,18,0,0,NJD,0,11:10,8481535,Nils,Hoglander
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,-1,0,0,0,0,0,17,0,0,STL,0,12:01,8481535,Nils,Hoglander
 2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,21,0,0,OTT,0,13:20,8481535,Nils,Hoglander
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,0,0,0,0,0,2,24,0,0,NYR,0,14:58,8481624,Ilya,Mikheyev
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-1,0,0,0,0,3,22,0,0,NJD,0,15:15,8481624,Ilya,Mikheyev
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,0,24,0,0,STL,0,14:03,8481624,Ilya,Mikheyev
 2023020584,VAN,H,2024-01-02,0,1,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,0,0,0,0,0,3,23,0,0,OTT,0,16:28,8481624,Ilya,Mikheyev
+2023020621,VAN,R,2024-01-08,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,1,0,0,0,0,0,16,0,0,NYR,2,10:22,8482496,Nils,Aman
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-2,0,0,0,0,3,18,0,0,NJD,2,11:29,8482496,Nils,Aman
 2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,-1,0,0,0,0,2,16,0,0,STL,2,10:39,8482496,Nils,Aman
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,1,0,0,0,0,0,21,0,0,NYR,0,12:54,8483808,Andrei,Kuzmenko
 2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-1,0,0,0,0,6,19,0,0,NJD,0,14:44,8483808,Andrei,Kuzmenko
 2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,1,0,0,0,0,0,15,0,0,OTT,0,11:48,8483808,Andrei,Kuzmenko
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,1,22,0,0,BOS,2,13:37,8471677,Jack,Johnson
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,0,0,0,0,0,2,21,0,0,FLA,0,16:52,8471677,Jack,Johnson
 2023020593,COL,R,2024-01-04,0,2,{'default': 'Avalanche'},{'default': 'Stars'},2,0,0,0,0,0,0,21,0,0,DAL,4,15:50,8471677,Jack,Johnson
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,-1,0,0,0,0,1,20,0,0,NYI,0,13:59,8471677,Jack,Johnson
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,20,0,0,BOS,2,10:29,8471699,Andrew,Cogliano
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,0,0,0,0,0,1,24,0,0,FLA,0,15:16,8471699,Andrew,Cogliano
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,-1,0,0,0,0,1,16,0,0,DAL,0,8:15,8471699,Andrew,Cogliano
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,0,0,0,0,0,0,20,0,0,NYI,2,10:26,8471699,Andrew,Cogliano
+2023020624,COL,H,2024-01-08,0,1,{'default': 'Avalanche'},{'default': 'Bruins'},1,1,0,0,0,0,2,20,0,0,BOS,0,11:10,8475793,Ryan,Johansen
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,-2,0,0,0,0,0,19,0,0,FLA,0,13:04,8475793,Ryan,Johansen
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,-1,0,0,0,0,0,21,0,0,DAL,0,12:48,8475793,Ryan,Johansen
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,-1,0,0,0,0,0,22,0,0,NYI,0,14:11,8475793,Ryan,Johansen
 2023020606,COL,H,2024-01-06,1,0,{'default': 'Avalanche'},{'default': 'Panthers'},1,-2,0,0,0,0,3,20,0,0,FLA,0,16:49,8476312,Josh,Manson
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,-1,0,0,0,0,1,24,0,0,DAL,0,18:20,8476312,Josh,Manson
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,0,0,0,0,0,5,21,0,0,NYI,0,17:48,8476312,Josh,Manson
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,-1,0,0,0,0,0,8,0,0,BOS,0,4:53,8477073,Kurtis,MacDermid
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,0,0,0,0,0,0,8,0,0,FLA,2,4:29,8477073,Kurtis,MacDermid
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,0,5,0,0,DAL,0,4:48,8477073,Kurtis,MacDermid
 2023020593,COL,R,2024-01-04,0,1,{'default': 'Avalanche'},{'default': 'Stars'},1,-1,0,0,0,0,3,21,0,0,DAL,0,15:31,8477425,Miles,Wood
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,-1,0,0,0,0,2,21,0,0,NYI,0,13:46,8477425,Miles,Wood
+2023020624,COL,H,2024-01-08,0,1,{'default': 'Avalanche'},{'default': 'Bruins'},1,-1,0,1,0,0,4,31,0,0,BOS,0,30:22,8477492,Nathan,MacKinnon
 2023020606,COL,H,2024-01-06,0,1,{'default': 'Avalanche'},{'default': 'Panthers'},1,-3,0,0,0,0,3,24,0,0,FLA,0,19:50,8477492,Nathan,MacKinnon
 2023020593,COL,R,2024-01-04,2,1,{'default': 'Avalanche'},{'default': 'Stars'},3,4,0,1,1,1,7,28,0,0,DAL,0,26:47,8477492,Nathan,MacKinnon
 2023020582,COL,H,2024-01-02,1,2,{'default': 'Avalanche'},{'default': 'Islanders'},3,-1,1,2,1,1,7,27,0,0,NYI,2,23:09,8477492,Nathan,MacKinnon
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,1,28,0,0,BOS,0,28:16,8477494,Jonathan,Drouin
 2023020606,COL,H,2024-01-06,1,0,{'default': 'Avalanche'},{'default': 'Panthers'},1,-3,0,0,0,0,1,25,0,0,FLA,0,21:05,8477494,Jonathan,Drouin
 2023020593,COL,R,2024-01-04,2,0,{'default': 'Avalanche'},{'default': 'Stars'},2,2,1,1,0,0,4,24,0,0,DAL,0,24:57,8477494,Jonathan,Drouin
 2023020582,COL,H,2024-01-02,1,1,{'default': 'Avalanche'},{'default': 'Islanders'},2,1,0,0,0,0,1,24,0,0,NYI,0,21:38,8477494,Jonathan,Drouin
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,1,0,0,0,0,6,30,0,0,BOS,0,26:55,8477501,Valeri,Nichushkin
 2023020606,COL,H,2024-01-06,1,1,{'default': 'Avalanche'},{'default': 'Panthers'},2,-2,1,1,0,0,6,24,0,0,FLA,0,18:41,8477501,Valeri,Nichushkin
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,5,25,0,0,DAL,0,24:16,8477501,Valeri,Nichushkin
 2023020582,COL,H,2024-01-02,2,0,{'default': 'Avalanche'},{'default': 'Islanders'},2,0,1,1,0,0,4,24,0,0,NYI,0,20:54,8477501,Valeri,Nichushkin
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,8,0,0,BOS,0,4:43,8478028,Fredrik,Olofsson
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,0,0,0,0,0,0,13,0,0,FLA,2,8:43,8478028,Fredrik,Olofsson
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,0,10,0,0,DAL,0,9:32,8478028,Fredrik,Olofsson
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,0,0,0,0,0,1,14,0,0,NYI,0,8:58,8478028,Fredrik,Olofsson
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,-1,0,0,0,0,1,32,0,0,BOS,0,29:50,8478038,Devon,Toews
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,-2,0,0,0,0,1,28,0,0,FLA,0,24:28,8478038,Devon,Toews
 2023020593,COL,R,2024-01-04,0,2,{'default': 'Avalanche'},{'default': 'Stars'},2,1,0,1,0,0,2,30,0,0,DAL,0,23:29,8478038,Devon,Toews
 2023020582,COL,H,2024-01-02,1,0,{'default': 'Avalanche'},{'default': 'Islanders'},1,1,0,0,0,0,4,27,0,0,NYI,0,22:25,8478038,Devon,Toews
+2023020624,COL,H,2024-01-08,1,0,{'default': 'Avalanche'},{'default': 'Bruins'},1,-2,1,1,0,0,4,29,0,0,BOS,0,30:23,8478420,Mikko,Rantanen
 2023020606,COL,H,2024-01-06,0,2,{'default': 'Avalanche'},{'default': 'Panthers'},2,-3,0,1,0,0,2,24,0,0,FLA,0,20:42,8478420,Mikko,Rantanen
 2023020593,COL,R,2024-01-04,1,0,{'default': 'Avalanche'},{'default': 'Stars'},1,2,0,0,0,0,4,26,0,0,DAL,0,28:29,8478420,Mikko,Rantanen
 2023020582,COL,H,2024-01-02,0,2,{'default': 'Avalanche'},{'default': 'Islanders'},2,0,0,1,0,0,4,27,0,0,NYI,0,24:23,8478420,Mikko,Rantanen
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,15,0,0,BOS,0,11:06,8478452,Caleb,Jones
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,0,0,0,0,0,1,17,0,0,FLA,0,13:09,8478452,Caleb,Jones
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,1,0,0,0,0,5,29,0,0,BOS,0,18:34,8479398,Samuel,Girard
 2023020606,COL,H,2024-01-06,0,1,{'default': 'Avalanche'},{'default': 'Panthers'},1,-1,0,0,0,0,0,23,0,0,FLA,2,17:38,8479398,Samuel,Girard
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,1,0,0,0,0,0,26,0,0,DAL,0,20:32,8479398,Samuel,Girard
 2023020582,COL,H,2024-01-02,0,1,{'default': 'Avalanche'},{'default': 'Islanders'},1,0,0,0,0,0,2,23,0,0,NYI,0,16:58,8479398,Samuel,Girard
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,1,0,0,0,0,2,20,0,0,BOS,0,13:17,8479525,Ross,Colton
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,0,0,0,0,0,0,20,0,0,FLA,4,13:30,8479525,Ross,Colton
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,-2,0,0,0,0,2,19,0,0,DAL,2,12:11,8479525,Ross,Colton
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,1,0,0,0,0,1,17,0,0,NYI,0,12:45,8479525,Ross,Colton
+2023020624,COL,H,2024-01-08,0,1,{'default': 'Avalanche'},{'default': 'Bruins'},1,-1,0,1,0,0,5,32,0,0,BOS,0,31:17,8480069,Cale,Makar
 2023020606,COL,H,2024-01-06,1,1,{'default': 'Avalanche'},{'default': 'Panthers'},2,-2,0,1,0,0,4,26,0,0,FLA,0,26:25,8480069,Cale,Makar
 2023020593,COL,R,2024-01-04,0,1,{'default': 'Avalanche'},{'default': 'Stars'},1,0,0,0,0,0,3,29,0,0,DAL,0,27:38,8480069,Cale,Makar
 2023020582,COL,H,2024-01-02,0,3,{'default': 'Avalanche'},{'default': 'Islanders'},3,0,0,2,0,0,2,27,0,0,NYI,0,26:11,8480069,Cale,Makar
+2023020624,COL,H,2024-01-08,1,0,{'default': 'Avalanche'},{'default': 'Bruins'},1,1,0,0,0,0,1,23,0,0,BOS,2,16:25,8481186,Logan,O'Connor
 2023020606,COL,H,2024-01-06,0,1,{'default': 'Avalanche'},{'default': 'Panthers'},1,0,0,0,0,0,1,22,0,0,FLA,2,19:41,8481186,Logan,O'Connor
 2023020593,COL,R,2024-01-04,0,1,{'default': 'Avalanche'},{'default': 'Stars'},1,1,0,0,0,0,2,20,0,0,DAL,0,11:39,8481186,Logan,O'Connor
 2023020582,COL,H,2024-01-02,0,1,{'default': 'Avalanche'},{'default': 'Islanders'},1,1,0,0,0,0,3,18,0,0,NYI,0,13:05,8481186,Logan,O'Connor
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,-1,0,0,0,0,0,17,0,0,DAL,0,12:54,8481524,Bowen ,Byram
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,0,0,0,0,0,1,23,0,0,NYI,0,18:56,8481524,Bowen ,Byram
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,3,17,0,0,BOS,0,9:02,8481641,Joel,Kiviranta
 2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},0,-1,0,0,0,0,0,18,0,0,FLA,0,12:36,8481641,Joel,Kiviranta
 2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,0,10,0,0,DAL,0,9:39,8481641,Joel,Kiviranta
 2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,0,0,0,0,0,0,16,0,0,NYI,0,8:29,8481641,Joel,Kiviranta
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,6,0,0,BOS,0,4:22,8484255,Jason,Polin
+2023020624,COL,H,2024-01-08,1,0,{'default': 'Avalanche'},{'default': 'Bruins'},1,1,0,0,0,0,1,23,0,0,BOS,0,15:20,8484258,Sam,Malinski
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-1,0,0,0,0,2,21,0,0,VAN,0,15:34,8471218,Blake,Wheeler
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,21,0,0,MTL,0,17:09,8471218,Blake,Wheeler
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,13,0,0,CHI,5,12:40,8471218,Blake,Wheeler
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-3,0,0,0,0,2,22,0,0,CAR,2,15:33,8471218,Blake,Wheeler
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-1,0,0,0,0,0,13,0,0,VAN,0,9:33,8474009,Nick,Bonino
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,14,0,0,MTL,0,10:32,8474009,Nick,Bonino
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,15,0,0,CHI,0,13:21,8474009,Nick,Bonino
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,18,0,0,CAR,0,14:24,8474009,Nick,Bonino
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-2,0,0,0,0,6,24,0,0,VAN,0,22:07,8475184,Chris,Kreider
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,6,25,0,0,MTL,2,19:33,8475184,Chris,Kreider
+2023020591,NYR,H,2024-01-04,1,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,-1,1,1,1,0,3,18,0,0,CHI,0,16:02,8475184,Chris,Kreider
+2023020575,NYR,H,2024-01-02,1,0,{'default': 'Rangers'},{'default': 'Hurricanes'},1,-1,0,0,0,0,5,22,0,0,CAR,0,16:50,8475184,Chris,Kreider
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,12,0,0,CAR,2,6:58,8475752,Tyler,Pitlick
+2023020621,NYR,H,2024-01-08,2,0,{'default': 'Rangers'},{'default': 'Canucks'},2,-2,1,1,0,0,5,22,0,0,VAN,0,20:29,8476389,Vincent,Trocheck
+2023020610,NYR,R,2024-01-06,1,1,{'default': 'Rangers'},{'default': 'Canadiens'},2,1,0,0,0,0,4,26,0,0,MTL,0,24:21,8476389,Vincent,Trocheck
+2023020591,NYR,H,2024-01-04,0,3,{'default': 'Rangers'},{'default': 'Blackhawks'},3,2,0,1,0,0,2,22,0,0,CHI,0,20:59,8476389,Vincent,Trocheck
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,5,24,0,0,CAR,0,22:40,8476389,Vincent,Trocheck
+2023020621,NYR,H,2024-01-08,0,1,{'default': 'Rangers'},{'default': 'Canucks'},1,-1,0,1,0,0,0,24,0,0,VAN,0,22:51,8476459,Mika,Zibanejad
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,6,24,0,0,MTL,0,22:29,8476459,Mika,Zibanejad
+2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,-1,0,1,0,0,0,19,0,0,CHI,0,15:37,8476459,Mika,Zibanejad
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,1,22,0,0,CAR,0,17:17,8476459,Mika,Zibanejad
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-1,0,0,0,0,0,17,0,0,VAN,0,12:37,8476624,Barclay,Goodrow
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,3,17,0,0,MTL,0,11:50,8476624,Barclay,Goodrow
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,16,0,0,CHI,0,13:38,8476624,Barclay,Goodrow
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,15,0,0,CAR,0,11:52,8476624,Barclay,Goodrow
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-2,0,0,0,0,7,24,0,0,VAN,0,19:39,8476885,Jacob,Trouba
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,3,23,0,0,MTL,0,22:00,8476885,Jacob,Trouba
+2023020591,NYR,H,2024-01-04,1,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,0,0,0,0,0,2,23,0,0,CHI,0,22:22,8476885,Jacob,Trouba
+2023020575,NYR,H,2024-01-02,0,1,{'default': 'Rangers'},{'default': 'Hurricanes'},1,0,0,0,0,0,4,26,0,0,CAR,2,22:11,8476885,Jacob,Trouba
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-1,0,0,0,0,3,15,0,0,VAN,0,12:04,8476918,Jimmy,Vesey
+2023020610,NYR,R,2024-01-06,0,1,{'default': 'Rangers'},{'default': 'Canadiens'},1,0,0,0,0,0,2,19,0,0,MTL,0,14:18,8476918,Jimmy,Vesey
+2023020591,NYR,H,2024-01-04,1,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,16,0,0,CHI,0,13:04,8476918,Jimmy,Vesey
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,16,0,0,CAR,0,11:58,8476918,Jimmy,Vesey
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-2,0,0,0,0,2,22,0,0,VAN,0,16:15,8476979,Erik,Gustafsson
+2023020610,NYR,R,2024-01-06,0,1,{'default': 'Rangers'},{'default': 'Canadiens'},1,1,0,0,0,0,1,20,0,0,MTL,0,16:27,8476979,Erik,Gustafsson
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,2,0,0,0,0,1,20,0,0,CHI,0,17:13,8476979,Erik,Gustafsson
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,1,20,0,0,CAR,0,16:08,8476979,Erik,Gustafsson
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,0,0,0,0,0,0,13,0,0,VAN,0,9:47,8477380,Jonny,Brodzinski
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,0,13,0,0,MTL,0,9:05,8477380,Jonny,Brodzinski
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,12,0,0,CHI,0,9:20,8477380,Jonny,Brodzinski
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,17,0,0,CAR,0,13:38,8477380,Jonny,Brodzinski
+2023020621,NYR,H,2024-01-08,1,1,{'default': 'Rangers'},{'default': 'Canucks'},2,-2,0,1,0,0,5,25,0,0,VAN,0,22:48,8478550,Artemi,Panarin
+2023020610,NYR,R,2024-01-06,1,1,{'default': 'Rangers'},{'default': 'Canadiens'},2,0,0,0,0,0,8,23,0,0,MTL,0,24:09,8478550,Artemi,Panarin
+2023020591,NYR,H,2024-01-04,1,1,{'default': 'Rangers'},{'default': 'Blackhawks'},2,2,0,0,0,0,4,17,0,0,CHI,0,18:08,8478550,Artemi,Panarin
+2023020575,NYR,H,2024-01-02,0,1,{'default': 'Rangers'},{'default': 'Hurricanes'},1,0,0,0,0,0,2,21,0,0,CAR,0,19:19,8478550,Artemi,Panarin
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-1,0,0,0,0,2,23,0,0,VAN,0,24:05,8479323,Adam,Fox
+2023020610,NYR,R,2024-01-06,1,0,{'default': 'Rangers'},{'default': 'Canadiens'},1,-1,0,0,0,0,3,25,0,0,MTL,0,25:37,8479323,Adam,Fox
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,1,0,0,0,0,2,24,0,0,CHI,4,20:15,8479323,Adam,Fox
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,1,26,0,0,CAR,0,21:48,8479323,Adam,Fox
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,1,0,0,0,0,2,19,0,0,VAN,0,20:04,8479324,Ryan,Lindgren
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,2,21,0,0,MTL,0,18:52,8479324,Ryan,Lindgren
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,26,0,0,CHI,0,22:19,8479324,Ryan,Lindgren
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,1,24,0,0,CAR,0,19:51,8479324,Ryan,Lindgren
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-3,0,0,0,0,0,25,0,0,VAN,0,20:54,8480817,K'Andre,Miller
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,1,27,0,0,MTL,2,23:35,8480817,K'Andre,Miller
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,21,0,0,CHI,2,20:10,8480817,K'Andre,Miller
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,3,26,0,0,CAR,0,21:40,8480817,K'Andre,Miller
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,0,0,0,0,0,1,19,0,0,VAN,0,14:52,8482073,Braden,Schneider
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,0,0,0,0,0,2,16,0,0,MTL,0,13:00,8482073,Braden,Schneider
+2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,22,0,0,CHI,0,17:10,8482073,Braden,Schneider
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,18,0,0,CAR,0,12:30,8482073,Braden,Schneider
+2023020621,NYR,H,2024-01-08,0,2,{'default': 'Rangers'},{'default': 'Canucks'},2,-2,0,0,0,0,3,23,0,0,VAN,0,18:34,8482109,Alexis,Lafrenière
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,1,0,0,0,0,4,22,0,0,MTL,0,20:20,8482109,Alexis,Lafrenière
+2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,2,0,0,0,0,4,18,0,0,CHI,0,18:12,8482109,Alexis,Lafrenière
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,3,22,0,0,CAR,2,17:19,8482109,Alexis,Lafrenière
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,-1,0,0,0,0,3,14,0,0,VAN,0,10:59,8482157,Will,Cuylle
+2023020610,NYR,R,2024-01-06,0,1,{'default': 'Rangers'},{'default': 'Canadiens'},1,0,0,0,0,0,2,15,0,0,MTL,0,12:27,8482157,Will,Cuylle
+2023020591,NYR,H,2024-01-04,0,1,{'default': 'Rangers'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,15,0,0,CHI,0,11:04,8482157,Will,Cuylle
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,17,0,0,CAR,0,12:20,8482157,Will,Cuylle
 2023020606,FLA,R,2024-01-06,1,0,{'default': 'Panthers'},{'default': 'Avalanche'},1,1,0,0,0,0,1,24,0,0,COL,0,18:09,8475171,Oliver,Ekman-Larsson
 2023020599,FLA,R,2024-01-04,0,1,{'default': 'Panthers'},{'default': 'Golden Knights'},1,0,0,1,0,0,2,20,0,0,VGK,0,15:31,8475171,Oliver,Ekman-Larsson
 2023020581,FLA,R,2024-01-02,0,0,{'default': 'Panthers'},{'default': 'Coyotes'},0,-1,0,0,0,0,2,26,0,0,ARI,2,16:36,8475171,Oliver,Ekman-Larsson
@@ -337,7 +406,79 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020606,FLA,R,2024-01-06,0,0,{'default': 'Panthers'},{'default': 'Avalanche'},0,1,0,0,0,0,2,24,0,0,COL,0,17:32,8482113,Anton,Lundell
 2023020599,FLA,R,2024-01-04,0,0,{'default': 'Panthers'},{'default': 'Golden Knights'},0,0,0,0,0,0,3,27,0,0,VGK,0,19:34,8482113,Anton,Lundell
 2023020581,FLA,R,2024-01-02,0,0,{'default': 'Panthers'},{'default': 'Coyotes'},0,0,0,0,0,0,4,20,0,0,ARI,0,14:04,8482113,Anton,Lundell
-2023020616,VGK,H,2024-01-06,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},0,2,0,0,0,0,1,25,0,0,NYI,0,19:22,8474166,Alec,Martinez
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,2,0,0,0,0,1,24,0,0,MIN,0,18:14,8470600,Ryan,Suter
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,0,23,0,0,NSH,0,20:19,8470600,Ryan,Suter
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,1,26,0,0,COL,0,19:30,8470600,Ryan,Suter
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,0,19,0,0,MTL,0,18:53,8470600,Ryan,Suter
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,0,0,0,0,0,1,19,0,0,MIN,0,14:39,8470794,Joe,Pavelski
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,0,21,0,0,NSH,0,18:30,8470794,Joe,Pavelski
+2023020593,DAL,H,2024-01-04,1,0,{'default': 'Stars'},{'default': 'Avalanche'},1,-1,1,1,0,0,5,24,0,0,COL,0,18:26,8470794,Joe,Pavelski
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,1,0,0,0,0,4,19,0,0,MTL,2,20:13,8470794,Joe,Pavelski
+2023020623,DAL,R,2024-01-08,0,1,{'default': 'Stars'},{'default': 'Wild'},1,0,0,1,0,0,0,21,0,0,MIN,0,13:43,8473994,Jamie,Benn
+2023020614,DAL,H,2024-01-06,1,0,{'default': 'Stars'},{'default': 'Predators'},1,-1,1,1,0,0,2,21,0,0,NSH,0,16:14,8473994,Jamie,Benn
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,2,24,0,0,COL,0,15:41,8473994,Jamie,Benn
+2023020577,DAL,H,2024-01-02,1,0,{'default': 'Stars'},{'default': 'Canadiens'},1,0,0,0,0,0,3,19,0,0,MTL,4,15:32,8473994,Jamie,Benn
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,0,0,0,0,0,0,16,0,0,MIN,0,11:34,8474149,Evgenii,Dadonov
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,2,18,0,0,NSH,0,11:31,8474149,Evgenii,Dadonov
+2023020593,DAL,H,2024-01-04,1,0,{'default': 'Stars'},{'default': 'Avalanche'},1,0,0,0,0,0,1,19,0,0,COL,2,14:10,8474149,Evgenii,Dadonov
+2023020577,DAL,H,2024-01-02,0,1,{'default': 'Stars'},{'default': 'Canadiens'},1,1,0,0,0,0,3,17,0,0,MTL,0,13:13,8474149,Evgenii,Dadonov
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,1,0,0,0,0,0,18,0,0,MIN,0,14:37,8475168,Matt,Duchene
+2023020614,DAL,H,2024-01-06,0,1,{'default': 'Stars'},{'default': 'Predators'},1,0,0,0,0,0,1,23,0,0,NSH,0,17:31,8475168,Matt,Duchene
+2023020593,DAL,H,2024-01-04,0,2,{'default': 'Stars'},{'default': 'Avalanche'},2,0,0,1,0,0,1,21,0,0,COL,0,18:08,8475168,Matt,Duchene
+2023020577,DAL,H,2024-01-02,0,1,{'default': 'Stars'},{'default': 'Canadiens'},1,0,0,0,0,0,4,22,0,0,MTL,0,20:18,8475168,Matt,Duchene
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,0,0,0,0,0,1,16,0,0,MIN,2,9:49,8475225,Craig,Smith
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,1,16,0,0,NSH,0,10:59,8475225,Craig,Smith
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,1,11,0,0,COL,0,8:31,8475225,Craig,Smith
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,2,11,0,0,MTL,0,7:26,8475225,Craig,Smith
+2023020623,DAL,R,2024-01-08,1,1,{'default': 'Stars'},{'default': 'Wild'},2,2,0,0,0,0,3,24,0,1,MIN,2,16:50,8475794,Tyler,Seguin
+2023020614,DAL,H,2024-01-06,1,0,{'default': 'Stars'},{'default': 'Predators'},1,0,0,0,0,0,3,22,0,0,NSH,0,19:07,8475794,Tyler,Seguin
+2023020593,DAL,H,2024-01-04,2,0,{'default': 'Stars'},{'default': 'Avalanche'},2,0,0,0,0,0,5,23,0,0,COL,0,16:56,8475794,Tyler,Seguin
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,1,20,0,0,MTL,0,17:07,8475794,Tyler,Seguin
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,1,0,0,0,0,0,21,0,0,MIN,0,22:40,8475825,Jani,Hakanpää
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-2,0,0,0,0,0,25,0,0,NSH,0,19:04,8475825,Jani,Hakanpää
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-2,0,0,0,0,1,22,0,0,COL,0,21:14,8475825,Jani,Hakanpää
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,3,21,0,0,MTL,0,16:36,8475825,Jani,Hakanpää
+2023020623,DAL,R,2024-01-08,1,0,{'default': 'Stars'},{'default': 'Wild'},1,1,0,0,0,0,1,23,1,1,MIN,0,16:21,8476889,Radek,Faksa
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,2,16,0,0,NSH,0,11:26,8476889,Radek,Faksa
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,1,19,0,0,COL,0,13:11,8476889,Radek,Faksa
+2023020623,DAL,R,2024-01-08,0,1,{'default': 'Stars'},{'default': 'Wild'},1,1,0,0,0,0,1,21,0,0,MIN,0,22:11,8476902,Esa,Lindell
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-3,0,0,0,0,2,27,0,0,NSH,2,17:35,8476902,Esa,Lindell
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,3,27,0,0,COL,0,26:14,8476902,Esa,Lindell
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,0,23,0,0,MTL,0,16:31,8476902,Esa,Lindell
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,0,0,0,0,0,1,21,0,0,MIN,0,15:54,8477810,Joel,Hanley
+2023020614,DAL,H,2024-01-06,0,1,{'default': 'Stars'},{'default': 'Predators'},1,1,0,0,0,0,0,22,0,0,NSH,0,14:32,8477810,Joel,Hanley
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,1,0,0,0,0,0,17,0,0,COL,0,11:46,8477810,Joel,Hanley
+2023020623,DAL,R,2024-01-08,1,1,{'default': 'Stars'},{'default': 'Wild'},2,1,0,1,1,0,3,25,1,1,MIN,0,16:16,8478449,Roope,Hintz
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,0,23,0,0,NSH,0,18:06,8478449,Roope,Hintz
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-2,0,0,0,0,2,26,0,0,COL,2,19:57,8478449,Roope,Hintz
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,1,0,0,0,0,2,21,0,0,MTL,0,20:24,8478449,Roope,Hintz
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,1,0,0,0,0,1,18,0,0,MIN,0,11:56,8478975,Mason,Marchment
+2023020614,DAL,H,2024-01-06,0,1,{'default': 'Stars'},{'default': 'Predators'},1,1,0,0,0,0,6,20,0,0,NSH,0,16:12,8478975,Mason,Marchment
+2023020593,DAL,H,2024-01-04,0,2,{'default': 'Stars'},{'default': 'Avalanche'},2,1,0,0,0,0,0,18,0,0,COL,0,15:11,8478975,Mason,Marchment
+2023020577,DAL,H,2024-01-02,0,2,{'default': 'Stars'},{'default': 'Canadiens'},2,1,0,0,0,0,1,20,0,0,MTL,0,17:59,8478975,Mason,Marchment
+2023020623,DAL,R,2024-01-08,0,1,{'default': 'Stars'},{'default': 'Wild'},1,1,0,0,0,0,2,22,0,1,MIN,0,15:33,8479351,Sam,Steel
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,2,16,0,0,NSH,0,13:06,8479351,Sam,Steel
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,0,15,0,0,COL,0,11:15,8479351,Sam,Steel
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,14,0,0,MTL,0,9:35,8479351,Sam,Steel
+2023020623,DAL,R,2024-01-08,1,0,{'default': 'Stars'},{'default': 'Wild'},1,0,1,1,0,0,3,19,0,0,MIN,2,14:50,8480027,Jason,Robertson
+2023020614,DAL,H,2024-01-06,1,1,{'default': 'Stars'},{'default': 'Predators'},2,-1,0,1,0,0,6,22,0,0,NSH,0,18:35,8480027,Jason,Robertson
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-1,0,0,0,0,2,21,0,0,COL,0,17:37,8480027,Jason,Robertson
+2023020577,DAL,H,2024-01-02,1,0,{'default': 'Stars'},{'default': 'Canadiens'},1,1,0,0,0,0,2,18,0,0,MTL,0,21:16,8480027,Jason,Robertson
+2023020593,DAL,H,2024-01-04,0,1,{'default': 'Stars'},{'default': 'Avalanche'},1,0,0,1,0,0,2,17,0,0,COL,0,14:38,8480036,Miro,Heiskanen
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,3,24,0,0,MTL,0,27:32,8480036,Miro,Heiskanen
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,13,0,0,MTL,0,8:46,8480848,Ty,Dellandrea
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,1,0,0,0,0,0,23,0,0,MIN,2,16:23,8480878,Nils,Lundkvist
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,0,26,0,0,NSH,0,18:59,8480878,Nils,Lundkvist
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,19,0,0,MTL,0,13:45,8480878,Nils,Lundkvist
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,1,0,0,0,0,1,26,0,0,MIN,0,23:10,8481581,Thomas,Harley
+2023020614,DAL,H,2024-01-06,0,2,{'default': 'Stars'},{'default': 'Predators'},2,0,0,1,0,0,1,25,0,0,NSH,0,24:23,8481581,Thomas,Harley
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,1,0,0,0,0,3,27,0,0,COL,2,24:30,8481581,Thomas,Harley
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,2,22,0,0,MTL,0,20:45,8481581,Thomas,Harley
+2023020623,DAL,R,2024-01-08,0,0,{'default': 'Stars'},{'default': 'Wild'},0,0,0,0,0,0,1,20,0,0,MIN,4,13:20,8482740,Wyatt,Johnston
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,1,20,0,0,NSH,0,13:50,8482740,Wyatt,Johnston
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,2,26,0,0,COL,0,18:34,8482740,Wyatt,Johnston
+2023020577,DAL,H,2024-01-02,1,1,{'default': 'Stars'},{'default': 'Canadiens'},2,1,0,0,0,0,1,20,0,0,MTL,0,15:25,8482740,Wyatt,Johnston
+2023020616,VGK,H,2024-01-06,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},0,2,0,0,0,0,2,25,0,0,NYI,0,19:22,8474166,Alec,Martinez
 2023020599,VGK,H,2024-01-04,0,0,{'default': 'Golden Knights'},{'default': 'Panthers'},0,-1,0,0,0,0,4,22,0,0,FLA,0,18:05,8474166,Alec,Martinez
 2023020573,VGK,R,2024-01-01,0,0,{'default': 'Golden Knights'},{'default': 'Kraken'},0,0,0,0,0,0,3,26,0,0,SEA,0,19:30,8474166,Alec,Martinez
 2023020616,VGK,H,2024-01-06,0,1,{'default': 'Golden Knights'},{'default': 'Islanders'},1,2,0,0,0,0,2,25,0,0,NYI,0,19:13,8474565,Alex,Pietrangelo
@@ -391,60 +532,6 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020616,VGK,H,2024-01-06,1,0,{'default': 'Golden Knights'},{'default': 'Islanders'},1,1,0,0,0,0,1,16,0,0,NYI,0,12:23,8481604,Pavel,Dorofeyev
 2023020599,VGK,H,2024-01-04,1,0,{'default': 'Golden Knights'},{'default': 'Panthers'},1,0,0,0,0,0,2,18,0,0,FLA,0,13:56,8481604,Pavel,Dorofeyev
 2023020616,VGK,H,2024-01-06,0,1,{'default': 'Golden Knights'},{'default': 'Islanders'},1,1,0,1,0,0,1,25,0,0,NYI,0,19:46,8482141,Lukas,Cormier
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,0,23,0,0,NSH,0,20:19,8470600,Ryan,Suter
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,1,26,0,0,COL,0,19:30,8470600,Ryan,Suter
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,0,19,0,0,MTL,0,18:53,8470600,Ryan,Suter
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,0,21,0,0,NSH,0,18:30,8470794,Joe,Pavelski
-2023020593,DAL,H,2024-01-04,1,0,{'default': 'Stars'},{'default': 'Avalanche'},1,-1,1,1,0,0,5,24,0,0,COL,0,18:26,8470794,Joe,Pavelski
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,1,0,0,0,0,4,19,0,0,MTL,2,20:13,8470794,Joe,Pavelski
-2023020614,DAL,H,2024-01-06,1,0,{'default': 'Stars'},{'default': 'Predators'},1,-1,1,1,0,0,2,21,0,0,NSH,0,16:14,8473994,Jamie,Benn
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,2,24,0,0,COL,0,15:41,8473994,Jamie,Benn
-2023020577,DAL,H,2024-01-02,1,0,{'default': 'Stars'},{'default': 'Canadiens'},1,0,0,0,0,0,3,19,0,0,MTL,4,15:32,8473994,Jamie,Benn
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,2,18,0,0,NSH,0,11:31,8474149,Evgenii,Dadonov
-2023020593,DAL,H,2024-01-04,1,0,{'default': 'Stars'},{'default': 'Avalanche'},1,0,0,0,0,0,1,19,0,0,COL,2,14:10,8474149,Evgenii,Dadonov
-2023020577,DAL,H,2024-01-02,0,1,{'default': 'Stars'},{'default': 'Canadiens'},1,1,0,0,0,0,3,17,0,0,MTL,0,13:13,8474149,Evgenii,Dadonov
-2023020614,DAL,H,2024-01-06,0,1,{'default': 'Stars'},{'default': 'Predators'},1,0,0,0,0,0,1,23,0,0,NSH,0,17:31,8475168,Matt,Duchene
-2023020593,DAL,H,2024-01-04,0,2,{'default': 'Stars'},{'default': 'Avalanche'},2,0,0,1,0,0,1,21,0,0,COL,0,18:08,8475168,Matt,Duchene
-2023020577,DAL,H,2024-01-02,0,1,{'default': 'Stars'},{'default': 'Canadiens'},1,0,0,0,0,0,4,22,0,0,MTL,0,20:18,8475168,Matt,Duchene
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,1,16,0,0,NSH,0,10:59,8475225,Craig,Smith
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,1,11,0,0,COL,0,8:31,8475225,Craig,Smith
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,2,11,0,0,MTL,0,7:26,8475225,Craig,Smith
-2023020614,DAL,H,2024-01-06,1,0,{'default': 'Stars'},{'default': 'Predators'},1,0,0,0,0,0,3,22,0,0,NSH,0,19:07,8475794,Tyler,Seguin
-2023020593,DAL,H,2024-01-04,2,0,{'default': 'Stars'},{'default': 'Avalanche'},2,0,0,0,0,0,5,23,0,0,COL,0,16:56,8475794,Tyler,Seguin
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,1,20,0,0,MTL,0,17:07,8475794,Tyler,Seguin
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-2,0,0,0,0,0,25,0,0,NSH,0,19:04,8475825,Jani,Hakanpää
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-2,0,0,0,0,1,22,0,0,COL,0,21:14,8475825,Jani,Hakanpää
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,3,21,0,0,MTL,0,16:36,8475825,Jani,Hakanpää
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,2,16,0,0,NSH,0,11:26,8476889,Radek,Faksa
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,1,19,0,0,COL,0,13:11,8476889,Radek,Faksa
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-3,0,0,0,0,2,27,0,0,NSH,2,17:35,8476902,Esa,Lindell
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,3,27,0,0,COL,0,26:14,8476902,Esa,Lindell
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,0,23,0,0,MTL,0,16:31,8476902,Esa,Lindell
-2023020614,DAL,H,2024-01-06,0,1,{'default': 'Stars'},{'default': 'Predators'},1,1,0,0,0,0,0,22,0,0,NSH,0,14:32,8477810,Joel,Hanley
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,1,0,0,0,0,0,17,0,0,COL,0,11:46,8477810,Joel,Hanley
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,0,23,0,0,NSH,0,18:06,8478449,Roope,Hintz
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-2,0,0,0,0,2,26,0,0,COL,2,19:57,8478449,Roope,Hintz
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,1,0,0,0,0,2,21,0,0,MTL,0,20:24,8478449,Roope,Hintz
-2023020614,DAL,H,2024-01-06,0,1,{'default': 'Stars'},{'default': 'Predators'},1,1,0,0,0,0,6,20,0,0,NSH,0,16:12,8478975,Mason,Marchment
-2023020593,DAL,H,2024-01-04,0,2,{'default': 'Stars'},{'default': 'Avalanche'},2,1,0,0,0,0,0,18,0,0,COL,0,15:11,8478975,Mason,Marchment
-2023020577,DAL,H,2024-01-02,0,2,{'default': 'Stars'},{'default': 'Canadiens'},2,1,0,0,0,0,1,20,0,0,MTL,0,17:59,8478975,Mason,Marchment
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,2,16,0,0,NSH,0,13:06,8479351,Sam,Steel
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,0,15,0,0,COL,0,11:15,8479351,Sam,Steel
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,14,0,0,MTL,0,9:35,8479351,Sam,Steel
-2023020614,DAL,H,2024-01-06,1,1,{'default': 'Stars'},{'default': 'Predators'},2,-1,0,1,0,0,6,22,0,0,NSH,0,18:35,8480027,Jason,Robertson
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-1,0,0,0,0,2,21,0,0,COL,0,17:37,8480027,Jason,Robertson
-2023020577,DAL,H,2024-01-02,1,0,{'default': 'Stars'},{'default': 'Canadiens'},1,1,0,0,0,0,2,18,0,0,MTL,0,21:16,8480027,Jason,Robertson
-2023020593,DAL,H,2024-01-04,0,1,{'default': 'Stars'},{'default': 'Avalanche'},1,0,0,1,0,0,2,17,0,0,COL,0,14:38,8480036,Miro,Heiskanen
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,3,24,0,0,MTL,0,27:32,8480036,Miro,Heiskanen
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,13,0,0,MTL,0,8:46,8480848,Ty,Dellandrea
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,0,26,0,0,NSH,0,18:59,8480878,Nils,Lundkvist
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,19,0,0,MTL,0,13:45,8480878,Nils,Lundkvist
-2023020614,DAL,H,2024-01-06,0,2,{'default': 'Stars'},{'default': 'Predators'},2,0,0,1,0,0,1,25,0,0,NSH,0,24:23,8481581,Thomas,Harley
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,1,0,0,0,0,3,27,0,0,COL,2,24:30,8481581,Thomas,Harley
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,0,0,0,0,0,2,22,0,0,MTL,0,20:45,8481581,Thomas,Harley
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,1,20,0,0,NSH,0,13:50,8482740,Wyatt,Johnston
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,0,0,0,0,0,2,26,0,0,COL,0,18:34,8482740,Wyatt,Johnston
-2023020577,DAL,H,2024-01-02,1,1,{'default': 'Stars'},{'default': 'Canadiens'},2,1,0,0,0,0,1,20,0,0,MTL,0,15:25,8482740,Wyatt,Johnston
 2023020608,CAR,H,2024-01-06,0,0,{'default': 'Hurricanes'},{'default': 'Blues'},0,0,0,0,0,0,1,25,0,0,STL,0,23:35,8470613,Brent,Burns
 2023020603,CAR,R,2024-01-05,2,1,{'default': 'Hurricanes'},{'default': 'Capitals'},3,2,1,2,0,0,6,23,0,0,WSH,0,22:07,8470613,Brent,Burns
 2023020575,CAR,R,2024-01-02,0,1,{'default': 'Hurricanes'},{'default': 'Rangers'},1,1,0,1,0,0,1,25,0,0,NYR,0,21:11,8470613,Brent,Burns
@@ -548,7 +635,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020613,TOR,R,2024-01-06,0,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},0,0,0,0,0,0,1,18,0,0,SJS,0,12:57,8482259,Bobby,McMann
 2023020588,TOR,R,2024-01-03,0,0,{'default': 'Maple Leafs'},{'default': 'Ducks'},0,0,0,0,0,0,0,8,0,0,ANA,20,6:36,8482259,Bobby,McMann
 2023020585,TOR,R,2024-01-02,0,0,{'default': 'Maple Leafs'},{'default': 'Kings'},0,0,0,0,0,0,1,15,0,0,LAK,0,12:50,8482259,Bobby,McMann
-2023020613,TOR,R,2024-01-06,0,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},0,0,0,0,0,0,1,16,0,0,SJS,0,15:30,8482720,Matthew,Knies
+2023020613,TOR,R,2024-01-06,0,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},0,0,0,0,0,0,0,16,0,0,SJS,0,15:30,8482720,Matthew,Knies
 2023020588,TOR,R,2024-01-03,0,0,{'default': 'Maple Leafs'},{'default': 'Ducks'},0,0,0,0,0,0,3,18,0,0,ANA,0,15:44,8482720,Matthew,Knies
 2023020585,TOR,R,2024-01-02,0,0,{'default': 'Maple Leafs'},{'default': 'Kings'},0,0,0,0,0,0,0,18,0,0,LAK,0,12:10,8482720,Matthew,Knies
 2023020618,LAK,R,2024-01-07,0,1,{'default': 'Kings'},{'default': 'Capitals'},1,-1,0,1,0,0,2,23,0,0,WSH,0,18:31,8471685,Anze,Kopitar
@@ -605,59 +692,6 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020600,LAK,H,2024-01-04,0,2,{'default': 'Kings'},{'default': 'Red Wings'},2,2,0,0,0,0,2,19,0,0,DET,0,15:20,8482155,Alex,Laferriere
 2023020585,LAK,H,2024-01-02,0,0,{'default': 'Kings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,15,0,0,TOR,2,10:33,8482155,Alex,Laferriere
 2023020618,LAK,R,2024-01-07,0,0,{'default': 'Kings'},{'default': 'Capitals'},0,-1,0,0,0,0,1,20,0,0,WSH,0,15:43,8482730,Brandt,Clarke
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,15,0,0,CBJ,2,11:59,8471686,Marc,Staal
-2023020583,PHI,R,2024-01-02,1,0,{'default': 'Flyers'},{'default': 'Oilers'},1,1,0,0,0,0,2,11,0,0,EDM,0,6:52,8471686,Marc,Staal
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,3,21,0,0,CGY,0,15:56,8474715,Cam,Atkinson
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,3,23,0,0,EDM,2,19:31,8474715,Cam,Atkinson
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,0,7,0,0,CGY,0,3:36,8475235,Nicolas,Deslauriers
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,9,0,0,CBJ,2,7:10,8475235,Nicolas,Deslauriers
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,0,0,0,0,0,1,27,0,0,CGY,2,18:25,8476372,Nick,Seeler
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,4,23,0,0,CBJ,0,16:28,8476372,Nick,Seeler
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,0,21,0,0,EDM,0,15:01,8476372,Nick,Seeler
-2023020605,PHI,H,2024-01-06,1,0,{'default': 'Flyers'},{'default': 'Flames'},1,0,1,1,0,0,8,29,0,0,CGY,0,24:01,8476461,Sean,Couturier
-2023020592,PHI,H,2024-01-04,0,2,{'default': 'Flyers'},{'default': 'Blue Jackets'},2,2,0,0,0,0,2,27,0,0,CBJ,0,23:36,8476461,Sean,Couturier
-2023020583,PHI,R,2024-01-02,0,1,{'default': 'Flyers'},{'default': 'Oilers'},1,1,0,0,0,0,2,23,0,0,EDM,0,17:48,8476461,Sean,Couturier
-2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,0,0,0,0,0,1,24,0,1,CGY,2,17:38,8476872,Scott,Laughton
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,2,23,0,0,CBJ,4,18:08,8476872,Scott,Laughton
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,6,21,0,0,EDM,0,14:01,8476872,Scott,Laughton
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,1,20,0,0,CGY,0,13:36,8477499,Rasmus,Ristolainen
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,4,19,0,0,CBJ,0,15:10,8477499,Rasmus,Ristolainen
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,2,0,0,0,0,1,22,0,0,EDM,0,14:11,8477499,Rasmus,Ristolainen
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,1,17,0,0,CGY,4,10:16,8477903,Garnet,Hathaway
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,1,22,0,0,CBJ,0,15:31,8477903,Garnet,Hathaway
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,2,16,0,0,EDM,0,10:04,8477903,Garnet,Hathaway
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,1,0,0,0,0,1,31,0,0,CGY,0,21:56,8477948,Travis,Sanheim
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,1,0,0,0,0,2,32,0,0,CBJ,0,24:16,8477948,Travis,Sanheim
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,1,28,0,0,EDM,0,19:36,8477948,Travis,Sanheim
-2023020605,PHI,H,2024-01-06,1,0,{'default': 'Flyers'},{'default': 'Flames'},1,1,0,0,1,0,5,27,1,1,CGY,2,23:31,8478439,Travis,Konecny
-2023020592,PHI,H,2024-01-04,2,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},2,2,0,0,0,0,7,28,0,0,CBJ,0,26:18,8478439,Travis,Konecny
-2023020583,PHI,R,2024-01-02,1,1,{'default': 'Flyers'},{'default': 'Oilers'},2,0,0,0,0,0,5,25,0,0,EDM,2,15:29,8478439,Travis,Konecny
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,4,23,0,0,CGY,0,21:48,8480015,Owen,Tippett
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,7,22,0,0,CBJ,0,18:45,8480015,Owen,Tippett
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,0,22,0,0,EDM,0,18:28,8480015,Owen,Tippett
-2023020605,PHI,H,2024-01-06,1,1,{'default': 'Flyers'},{'default': 'Flames'},2,1,0,1,0,0,4,19,0,0,CGY,0,13:51,8480028,Morgan,Frost
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,2,21,0,0,EDM,0,17:07,8480028,Morgan,Frost
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,1,13,0,0,CGY,0,9:06,8480068,Ryan,Poehling
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,25,0,0,CBJ,0,15:10,8480068,Ryan,Poehling
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,0,19,0,0,EDM,0,13:12,8480068,Ryan,Poehling
-2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,0,0,0,0,0,3,26,0,0,CGY,2,16:57,8480336,Sean,Walker
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,24,0,0,CBJ,0,15:58,8480336,Sean,Walker
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,1,24,0,0,EDM,0,16:50,8480336,Sean,Walker
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,CGY,17,16:54,8480797,Joel,Farabee
-2023020592,PHI,H,2024-01-04,0,2,{'default': 'Flyers'},{'default': 'Blue Jackets'},2,2,0,0,0,0,4,23,0,0,CBJ,0,20:29,8480797,Joel,Farabee
-2023020583,PHI,R,2024-01-02,0,2,{'default': 'Flyers'},{'default': 'Oilers'},2,0,0,0,0,0,3,25,0,0,EDM,0,18:20,8480797,Joel,Farabee
-2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,-1,0,1,0,0,3,23,0,0,CGY,0,20:25,8481178,Egor,Zamula
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,15,0,0,CBJ,0,14:58,8481178,Egor,Zamula
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,2,21,0,0,EDM,2,16:25,8481178,Egor,Zamula
-2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,1,0,0,0,0,1,29,0,1,CGY,0,21:18,8481546,Cam,York
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,30,0,0,CBJ,2,22:38,8481546,Cam,York
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,2,28,0,0,EDM,0,23:11,8481546,Cam,York
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,1,0,0,0,0,2,11,0,0,CGY,0,9:36,8481553,Bobby,Brink
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,16,0,0,CBJ,0,12:39,8481553,Bobby,Brink
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,2,20,0,0,EDM,0,17:27,8481553,Bobby,Brink
-2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,1,0,0,0,0,2,17,0,0,CGY,0,15:10,8482159,Tyson,Foerster
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,3,23,0,0,CBJ,0,18:27,8482159,Tyson,Foerster
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,3,24,0,0,EDM,2,19:53,8482159,Tyson,Foerster
 2023020616,NYI,R,2024-01-06,0,0,{'default': 'Islanders'},{'default': 'Golden Knights'},0,1,0,0,0,0,0,21,0,0,VGK,0,14:37,8473504,Cal,Clutterbuck
 2023020597,NYI,R,2024-01-04,0,0,{'default': 'Islanders'},{'default': 'Coyotes'},0,0,0,0,0,0,2,22,0,0,ARI,2,14:30,8473504,Cal,Clutterbuck
 2023020582,NYI,R,2024-01-02,0,1,{'default': 'Islanders'},{'default': 'Avalanche'},1,-1,0,0,0,0,0,23,0,0,COL,0,15:16,8473504,Cal,Clutterbuck
@@ -686,7 +720,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020597,NYI,R,2024-01-04,0,0,{'default': 'Islanders'},{'default': 'Coyotes'},0,0,0,0,0,0,1,25,0,0,ARI,0,17:03,8476429,Scott,Mayfield
 2023020582,NYI,R,2024-01-02,0,0,{'default': 'Islanders'},{'default': 'Avalanche'},0,-2,0,0,0,0,2,34,0,0,COL,4,23:43,8476429,Scott,Mayfield
 2023020582,NYI,R,2024-01-02,0,0,{'default': 'Islanders'},{'default': 'Avalanche'},0,-1,0,0,0,0,1,17,0,0,COL,0,10:41,8477392,Hudson,Fasching
-2023020616,NYI,R,2024-01-06,0,1,{'default': 'Islanders'},{'default': 'Golden Knights'},1,-2,0,0,0,0,4,22,0,0,VGK,0,18:32,8477500,Bo,Horvat
+2023020616,NYI,R,2024-01-06,0,1,{'default': 'Islanders'},{'default': 'Golden Knights'},1,-2,0,0,0,0,3,22,0,0,VGK,0,18:32,8477500,Bo,Horvat
 2023020597,NYI,R,2024-01-04,2,1,{'default': 'Islanders'},{'default': 'Coyotes'},3,2,1,1,0,0,3,23,0,0,ARI,0,18:14,8477500,Bo,Horvat
 2023020582,NYI,R,2024-01-02,0,0,{'default': 'Islanders'},{'default': 'Avalanche'},0,1,0,0,0,0,2,20,0,0,COL,0,17:05,8477500,Bo,Horvat
 2023020616,NYI,R,2024-01-06,0,0,{'default': 'Islanders'},{'default': 'Golden Knights'},0,0,0,0,0,0,2,20,0,0,VGK,0,15:10,8478115,Pierre,Engvall
@@ -712,6 +746,80 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020616,NYI,R,2024-01-06,0,0,{'default': 'Islanders'},{'default': 'Golden Knights'},0,-1,0,0,0,0,2,20,0,0,VGK,0,11:25,8481601,Simon,Holmstrom
 2023020597,NYI,R,2024-01-04,0,1,{'default': 'Islanders'},{'default': 'Coyotes'},1,1,0,0,0,0,0,18,0,0,ARI,0,11:20,8481601,Simon,Holmstrom
 2023020582,NYI,R,2024-01-02,1,0,{'default': 'Islanders'},{'default': 'Avalanche'},1,0,0,0,0,0,1,23,0,0,COL,0,13:32,8481601,Simon,Holmstrom
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,15,0,0,CBJ,2,11:59,8471686,Marc,Staal
+2023020583,PHI,R,2024-01-02,1,0,{'default': 'Flyers'},{'default': 'Oilers'},1,1,0,0,0,0,2,11,0,0,EDM,0,6:52,8471686,Marc,Staal
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-2,0,0,0,0,2,20,0,0,PIT,2,14:20,8474715,Cam,Atkinson
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,3,21,0,0,CGY,0,15:56,8474715,Cam,Atkinson
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,3,23,0,0,EDM,2,19:31,8474715,Cam,Atkinson
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-1,0,0,0,0,2,13,0,0,PIT,0,7:43,8475235,Nicolas,Deslauriers
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,0,7,0,0,CGY,0,3:36,8475235,Nicolas,Deslauriers
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,9,0,0,CBJ,2,7:10,8475235,Nicolas,Deslauriers
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,0,0,0,0,0,2,26,0,0,PIT,2,18:21,8476372,Nick,Seeler
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,0,0,0,0,0,1,27,0,0,CGY,2,18:25,8476372,Nick,Seeler
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,4,23,0,0,CBJ,0,16:28,8476372,Nick,Seeler
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,0,21,0,0,EDM,0,15:01,8476372,Nick,Seeler
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,0,0,0,0,0,4,22,0,0,PIT,2,20:01,8476461,Sean,Couturier
+2023020605,PHI,H,2024-01-06,1,0,{'default': 'Flyers'},{'default': 'Flames'},1,0,1,1,0,0,8,29,0,0,CGY,0,24:01,8476461,Sean,Couturier
+2023020592,PHI,H,2024-01-04,0,2,{'default': 'Flyers'},{'default': 'Blue Jackets'},2,2,0,0,0,0,2,27,0,0,CBJ,0,23:36,8476461,Sean,Couturier
+2023020583,PHI,R,2024-01-02,0,1,{'default': 'Flyers'},{'default': 'Oilers'},1,1,0,0,0,0,2,23,0,0,EDM,0,17:48,8476461,Sean,Couturier
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-1,0,0,0,0,1,21,0,0,PIT,2,16:29,8476872,Scott,Laughton
+2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,0,0,0,0,0,1,24,0,1,CGY,2,17:38,8476872,Scott,Laughton
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,2,23,0,0,CBJ,4,18:08,8476872,Scott,Laughton
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,6,21,0,0,EDM,0,14:01,8476872,Scott,Laughton
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-2,0,0,0,0,3,23,0,0,PIT,0,19:15,8477499,Rasmus,Ristolainen
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,1,20,0,0,CGY,0,13:36,8477499,Rasmus,Ristolainen
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,4,19,0,0,CBJ,0,15:10,8477499,Rasmus,Ristolainen
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,2,0,0,0,0,1,22,0,0,EDM,0,14:11,8477499,Rasmus,Ristolainen
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-1,0,0,0,0,1,15,0,0,PIT,4,9:32,8477903,Garnet,Hathaway
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,1,17,0,0,CGY,4,10:16,8477903,Garnet,Hathaway
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,1,22,0,0,CBJ,0,15:31,8477903,Garnet,Hathaway
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,2,16,0,0,EDM,0,10:04,8477903,Garnet,Hathaway
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-1,0,0,0,0,4,29,0,0,PIT,2,21:18,8477948,Travis,Sanheim
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,1,0,0,0,0,1,31,0,0,CGY,0,21:56,8477948,Travis,Sanheim
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,1,0,0,0,0,2,32,0,0,CBJ,0,24:16,8477948,Travis,Sanheim
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,1,28,0,0,EDM,0,19:36,8477948,Travis,Sanheim
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,0,0,0,0,0,6,22,0,0,PIT,0,22:16,8478439,Travis,Konecny
+2023020605,PHI,H,2024-01-06,1,0,{'default': 'Flyers'},{'default': 'Flames'},1,1,0,0,1,0,5,27,1,1,CGY,2,23:31,8478439,Travis,Konecny
+2023020592,PHI,H,2024-01-04,2,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},2,2,0,0,0,0,7,28,0,0,CBJ,0,26:18,8478439,Travis,Konecny
+2023020583,PHI,R,2024-01-02,1,1,{'default': 'Flyers'},{'default': 'Oilers'},2,0,0,0,0,0,5,25,0,0,EDM,2,15:29,8478439,Travis,Konecny
+2023020622,PHI,H,2024-01-08,1,0,{'default': 'Flyers'},{'default': 'Penguins'},1,-2,1,1,0,0,3,20,0,0,PIT,0,14:29,8480015,Owen,Tippett
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,4,23,0,0,CGY,0,21:48,8480015,Owen,Tippett
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,7,22,0,0,CBJ,0,18:45,8480015,Owen,Tippett
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,0,22,0,0,EDM,0,18:28,8480015,Owen,Tippett
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,0,0,0,0,0,1,17,0,0,PIT,0,11:53,8480028,Morgan,Frost
+2023020605,PHI,H,2024-01-06,1,1,{'default': 'Flyers'},{'default': 'Flames'},2,1,0,1,0,0,4,19,0,0,CGY,0,13:51,8480028,Morgan,Frost
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,2,21,0,0,EDM,0,17:07,8480028,Morgan,Frost
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-2,0,0,0,0,1,19,0,0,PIT,2,12:52,8480068,Ryan,Poehling
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,1,13,0,0,CGY,0,9:06,8480068,Ryan,Poehling
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,25,0,0,CBJ,0,15:10,8480068,Ryan,Poehling
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,0,19,0,0,EDM,0,13:12,8480068,Ryan,Poehling
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,0,0,0,0,0,2,26,0,0,PIT,0,20:18,8480336,Sean,Walker
+2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,0,0,0,0,0,3,26,0,0,CGY,2,16:57,8480336,Sean,Walker
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,24,0,0,CBJ,0,15:58,8480336,Sean,Walker
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,1,24,0,0,EDM,0,16:50,8480336,Sean,Walker
+2023020622,PHI,H,2024-01-08,0,1,{'default': 'Flyers'},{'default': 'Penguins'},1,0,0,1,0,0,2,20,0,0,PIT,0,17:46,8480797,Joel,Farabee
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,CGY,17,16:54,8480797,Joel,Farabee
+2023020592,PHI,H,2024-01-04,0,2,{'default': 'Flyers'},{'default': 'Blue Jackets'},2,2,0,0,0,0,4,23,0,0,CBJ,0,20:29,8480797,Joel,Farabee
+2023020583,PHI,R,2024-01-02,0,2,{'default': 'Flyers'},{'default': 'Oilers'},2,0,0,0,0,0,3,25,0,0,EDM,0,18:20,8480797,Joel,Farabee
+2023020622,PHI,H,2024-01-08,0,1,{'default': 'Flyers'},{'default': 'Penguins'},1,-2,0,1,0,0,1,23,0,0,PIT,0,19:11,8481178,Egor,Zamula
+2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,-1,0,1,0,0,3,23,0,0,CGY,0,20:25,8481178,Egor,Zamula
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,15,0,0,CBJ,0,14:58,8481178,Egor,Zamula
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,2,21,0,0,EDM,2,16:25,8481178,Egor,Zamula
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,-1,0,0,0,0,0,28,0,0,PIT,0,20:20,8481546,Cam,York
+2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,1,0,0,0,0,1,29,0,1,CGY,0,21:18,8481546,Cam,York
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,30,0,0,CBJ,2,22:38,8481546,Cam,York
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-2,0,0,0,0,2,28,0,0,EDM,0,23:11,8481546,Cam,York
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,0,0,0,0,0,1,13,0,0,PIT,0,9:45,8481553,Bobby,Brink
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,1,0,0,0,0,2,11,0,0,CGY,0,9:36,8481553,Bobby,Brink
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,16,0,0,CBJ,0,12:39,8481553,Bobby,Brink
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,-1,0,0,0,0,2,20,0,0,EDM,0,17:27,8481553,Bobby,Brink
+2023020620,ANA,H,2024-01-07,0,1,{'default': 'Ducks'},{'default': 'Red Wings'},1,0,0,0,0,0,1,21,0,0,DET,0,20:35,8482142,Jamie,Drysdale
+2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,-1,0,0,0,0,5,24,0,0,WPG,0,24:18,8482142,Jamie,Drysdale
+2023020588,ANA,H,2024-01-03,0,1,{'default': 'Ducks'},{'default': 'Maple Leafs'},1,1,0,0,0,0,2,25,0,1,TOR,4,21:35,8482142,Jamie,Drysdale
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},0,0,0,0,0,0,1,17,0,0,PIT,0,14:04,8482159,Tyson,Foerster
+2023020605,PHI,H,2024-01-06,0,1,{'default': 'Flyers'},{'default': 'Flames'},1,1,0,0,0,0,2,17,0,0,CGY,0,15:10,8482159,Tyson,Foerster
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,3,23,0,0,CBJ,0,18:27,8482159,Tyson,Foerster
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,3,24,0,0,EDM,2,19:53,8482159,Tyson,Foerster
 2023020614,NSH,R,2024-01-06,0,0,{'default': 'Predators'},{'default': 'Stars'},0,1,0,0,0,0,1,27,0,0,DAL,0,23:16,8474151,Ryan,McDonagh
 2023020595,NSH,H,2024-01-04,0,0,{'default': 'Predators'},{'default': 'Flames'},0,-2,0,0,0,0,1,24,0,0,CGY,0,20:58,8474151,Ryan,McDonagh
 2023020579,NSH,H,2024-01-02,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,27,0,0,CHI,0,23:45,8474151,Ryan,McDonagh
@@ -891,40 +999,130 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020618,WSH,H,2024-01-07,0,0,{'default': 'Capitals'},{'default': 'Kings'},0,0,0,0,0,0,0,10,0,0,LAK,0,7:55,8482148,Hendrix,Lapierre
 2023020603,WSH,H,2024-01-05,0,0,{'default': 'Capitals'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,17,0,0,CAR,0,12:46,8482148,Hendrix,Lapierre
 2023020576,WSH,R,2024-01-02,0,1,{'default': 'Capitals'},{'default': 'Penguins'},1,1,0,0,0,0,0,12,0,0,PIT,0,8:27,8482148,Hendrix,Lapierre
+2023020622,PIT,R,2024-01-08,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,1,0,0,0,0,1,21,0,0,PHI,0,14:05,8470604,Jeff,Carter
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,2,16,0,0,BUF,0,12:08,8470604,Jeff,Carter
+2023020589,PIT,R,2024-01-04,1,0,{'default': 'Penguins'},{'default': 'Bruins'},1,0,0,0,0,0,2,19,0,0,BOS,0,10:31,8470604,Jeff,Carter
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,1,17,0,0,WSH,2,10:19,8470604,Jeff,Carter
+2023020622,PIT,R,2024-01-08,1,1,{'default': 'Penguins'},{'default': 'Flyers'},2,2,0,1,0,0,4,19,0,0,PHI,2,16:43,8471215,Evgeni,Malkin
+2023020612,PIT,H,2024-01-06,0,1,{'default': 'Penguins'},{'default': 'Sabres'},1,0,0,1,0,0,2,21,0,0,BUF,0,20:51,8471215,Evgeni,Malkin
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,-2,0,0,0,0,1,23,0,0,BOS,0,16:38,8471215,Evgeni,Malkin
+2023020576,PIT,H,2024-01-02,0,1,{'default': 'Penguins'},{'default': 'Capitals'},1,-2,0,1,0,0,6,22,0,0,WSH,0,22:02,8471215,Evgeni,Malkin
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,0,0,0,0,0,6,26,0,0,PHI,0,20:52,8471675,Sidney,Crosby
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-1,0,0,0,0,2,22,0,0,BUF,2,20:46,8471675,Sidney,Crosby
+2023020589,PIT,R,2024-01-04,1,2,{'default': 'Penguins'},{'default': 'Bruins'},3,1,1,1,1,0,3,28,0,0,BOS,0,18:39,8471675,Sidney,Crosby
+2023020576,PIT,H,2024-01-02,1,1,{'default': 'Penguins'},{'default': 'Capitals'},2,2,1,1,0,0,1,23,0,0,WSH,0,22:24,8471675,Sidney,Crosby
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,0,0,0,0,0,0,24,0,0,PHI,2,19:24,8471724,Kris,Letang
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-1,0,0,0,0,2,27,0,0,BUF,0,26:26,8471724,Kris,Letang
+2023020589,PIT,R,2024-01-04,0,3,{'default': 'Penguins'},{'default': 'Bruins'},3,-1,0,0,0,0,3,26,0,0,BOS,2,24:04,8471724,Kris,Letang
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,4,26,0,0,WSH,0,24:55,8471724,Kris,Letang
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,0,0,0,0,0,2,25,0,0,PHI,0,15:53,8474189,Lars,Eller
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,2,21,0,0,BUF,0,13:59,8474189,Lars,Eller
+2023020589,PIT,R,2024-01-04,1,1,{'default': 'Penguins'},{'default': 'Bruins'},2,1,0,0,0,0,3,25,0,0,BOS,0,15:25,8474189,Lars,Eller
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,3,17,0,0,WSH,0,12:23,8474189,Lars,Eller
+2023020622,PIT,R,2024-01-08,1,0,{'default': 'Penguins'},{'default': 'Flyers'},1,1,0,0,1,0,2,26,0,0,PHI,0,22:24,8474578,Erik,Karlsson
+2023020612,PIT,H,2024-01-06,0,1,{'default': 'Penguins'},{'default': 'Sabres'},1,-3,0,1,0,0,1,26,0,0,BUF,0,23:11,8474578,Erik,Karlsson
+2023020589,PIT,R,2024-01-04,0,2,{'default': 'Penguins'},{'default': 'Bruins'},2,0,0,1,0,0,0,28,0,0,BOS,0,20:28,8474578,Erik,Karlsson
+2023020576,PIT,H,2024-01-02,0,1,{'default': 'Penguins'},{'default': 'Capitals'},1,0,0,0,0,0,2,25,0,0,WSH,0,27:01,8474578,Erik,Karlsson
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,0,0,0,0,0,3,21,0,0,PHI,0,17:21,8475191,Reilly,Smith
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,6,16,0,0,BUF,0,13:14,8475191,Reilly,Smith
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,-2,0,0,0,0,1,22,0,0,BOS,0,14:13,8475191,Reilly,Smith
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,1,22,0,0,WSH,0,16:06,8475191,Reilly,Smith
+2023020622,PIT,R,2024-01-08,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,2,0,0,0,0,2,22,0,0,PHI,0,16:05,8475810,Bryan,Rust
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,4,23,0,0,BUF,0,17:02,8475810,Bryan,Rust
+2023020589,PIT,R,2024-01-04,0,1,{'default': 'Penguins'},{'default': 'Bruins'},1,-2,0,0,0,0,2,24,0,0,BOS,0,17:16,8475810,Bryan,Rust
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,1,24,0,0,WSH,0,16:47,8475810,Bryan,Rust
+2023020622,PIT,R,2024-01-08,1,0,{'default': 'Penguins'},{'default': 'Flyers'},1,0,1,1,0,0,4,23,0,0,PHI,0,18:10,8476483,Rickard,Rakell
+2023020612,PIT,H,2024-01-06,1,0,{'default': 'Penguins'},{'default': 'Sabres'},1,-3,1,1,0,0,4,22,0,0,BUF,0,20:22,8476483,Rickard,Rakell
+2023020589,PIT,R,2024-01-04,0,1,{'default': 'Penguins'},{'default': 'Bruins'},1,1,0,0,0,0,3,26,0,0,BOS,0,17:18,8476483,Rickard,Rakell
+2023020576,PIT,H,2024-01-02,1,1,{'default': 'Penguins'},{'default': 'Capitals'},2,1,0,0,0,0,3,23,0,0,WSH,0,22:27,8476483,Rickard,Rakell
+2023020622,PIT,R,2024-01-08,1,0,{'default': 'Penguins'},{'default': 'Flyers'},1,2,0,0,0,0,1,22,0,0,PHI,0,15:32,8477244,Chad,Ruhwedel
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,2,17,0,0,BUF,0,11:53,8477244,Chad,Ruhwedel
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,1,0,0,0,0,0,19,0,0,BOS,0,14:28,8477244,Chad,Ruhwedel
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,2,16,0,0,WSH,0,11:18,8477244,Chad,Ruhwedel
+2023020622,PIT,R,2024-01-08,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,0,0,1,0,0,3,26,0,0,PHI,0,19:45,8477404,Jake,Guentzel
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-2,0,0,0,0,4,23,0,0,BUF,0,22:23,8477404,Jake,Guentzel
+2023020589,PIT,R,2024-01-04,1,0,{'default': 'Penguins'},{'default': 'Bruins'},1,1,0,0,0,0,4,29,0,0,BOS,0,19:30,8477404,Jake,Guentzel
+2023020576,PIT,H,2024-01-02,1,1,{'default': 'Penguins'},{'default': 'Capitals'},2,1,0,1,0,0,5,23,0,0,WSH,0,23:16,8477404,Jake,Guentzel
+2023020622,PIT,R,2024-01-08,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,2,0,0,0,0,2,22,0,0,PHI,0,17:33,8477435,Ryan,Graves
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,1,15,0,0,BUF,0,11:52,8477435,Ryan,Graves
+2023020589,PIT,R,2024-01-04,1,0,{'default': 'Penguins'},{'default': 'Bruins'},1,1,0,0,0,0,1,18,0,0,BOS,0,15:26,8477435,Ryan,Graves
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-2,0,0,0,0,2,16,0,0,WSH,0,12:42,8477435,Ryan,Graves
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,0,0,0,0,0,1,26,0,0,PHI,0,19:48,8477969,Marcus,Pettersson
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,3,25,0,0,BUF,0,23:18,8477969,Marcus,Pettersson
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,-1,0,0,0,0,2,27,0,0,BOS,0,25:23,8477969,Marcus,Pettersson
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,1,25,0,0,WSH,0,22:03,8477969,Marcus,Pettersson
+2023020622,PIT,R,2024-01-08,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,1,0,0,0,0,1,14,0,0,PHI,4,8:25,8478424,Jansen,Harkins
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-1,0,0,0,0,2,14,0,0,BUF,2,9:39,8478424,Jansen,Harkins
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,0,0,0,0,0,1,18,0,0,BOS,0,10:31,8478424,Jansen,Harkins
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,0,15,0,0,WSH,0,8:50,8478424,Jansen,Harkins
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,1,0,0,0,0,2,23,0,0,PHI,0,13:41,8478569,Noel,Acciari
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-2,0,0,0,0,0,19,0,0,BUF,2,13:22,8478569,Noel,Acciari
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,0,0,0,0,0,4,26,0,0,BOS,0,17:09,8478569,Noel,Acciari
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,2,19,0,0,WSH,0,12:09,8478569,Noel,Acciari
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,1,0,0,0,0,0,23,0,0,PHI,0,16:08,8480058,Pierre-Olivier,Joseph
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-2,0,0,0,0,0,24,0,0,BUF,0,16:22,8480058,Pierre-Olivier,Joseph
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,0,0,0,0,0,2,25,0,0,BOS,2,16:56,8480058,Pierre-Olivier,Joseph
+2023020576,PIT,H,2024-01-02,0,1,{'default': 'Penguins'},{'default': 'Capitals'},1,1,0,0,0,0,1,24,0,0,WSH,0,16:21,8480058,Pierre-Olivier,Joseph
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},0,0,0,0,0,0,1,16,0,0,PHI,0,10:44,8481703,Valtteri,Puustinen
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,1,9,0,0,BUF,0,5:31,8481703,Valtteri,Puustinen
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,1,0,0,0,0,1,12,0,0,BOS,0,7:37,8481703,Valtteri,Puustinen
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,0,12,0,0,WSH,2,7:37,8481703,Valtteri,Puustinen
+2023020622,PIT,R,2024-01-08,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,2,0,0,0,0,4,20,0,0,PHI,0,15:11,8482055,Drew,O'Connor
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,3,19,0,0,BUF,0,13:23,8482055,Drew,O'Connor
+2023020589,PIT,R,2024-01-04,1,1,{'default': 'Penguins'},{'default': 'Bruins'},2,1,0,0,0,0,2,21,0,0,BOS,0,14:28,8482055,Drew,O'Connor
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,0,14,0,0,WSH,0,10:18,8482055,Drew,O'Connor
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,0,22,0,0,ANA,0,17:12,8473507,Jeff,Petry
 2023020600,DET,R,2024-01-04,1,0,{'default': 'Red Wings'},{'default': 'Kings'},1,1,0,0,0,0,3,25,0,0,LAK,2,19:28,8473507,Jeff,Petry
+2023020620,DET,R,2024-01-07,0,1,{'default': 'Red Wings'},{'default': 'Ducks'},1,-1,0,1,0,0,4,22,0,0,ANA,0,16:44,8474102,David,Perron
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,0,0,0,0,0,3,24,0,0,LAK,0,18:26,8474102,David,Perron
 2023020586,DET,R,2024-01-02,2,0,{'default': 'Red Wings'},{'default': 'Sharks'},2,2,1,1,1,0,3,25,0,0,SJS,0,16:42,8474102,David,Perron
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,5,23,0,0,ANA,2,18:04,8474141,Patrick,Kane
 2023020600,DET,R,2024-01-04,0,1,{'default': 'Red Wings'},{'default': 'Kings'},1,0,0,0,0,0,3,23,0,0,LAK,0,20:09,8474141,Patrick,Kane
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,0,0,0,0,0,3,21,0,0,SJS,0,15:40,8474141,Patrick,Kane
+2023020620,DET,R,2024-01-07,0,1,{'default': 'Red Wings'},{'default': 'Ducks'},1,0,0,0,0,0,1,23,0,0,ANA,0,16:27,8475279,Ben,Chiarot
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,1,0,0,0,0,0,25,0,0,LAK,0,20:59,8475279,Ben,Chiarot
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,-2,0,0,0,0,2,22,0,0,SJS,0,20:39,8475279,Ben,Chiarot
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,-2,0,0,0,0,0,18,0,0,LAK,0,14:27,8475718,Justin,Holl
 2023020586,DET,R,2024-01-02,0,1,{'default': 'Red Wings'},{'default': 'Sharks'},1,0,0,0,0,0,2,19,0,0,SJS,2,11:46,8475718,Justin,Holl
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,0,19,0,0,ANA,0,14:18,8476874,Olli,Maatta
 2023020600,DET,R,2024-01-04,0,1,{'default': 'Red Wings'},{'default': 'Kings'},1,-1,0,0,0,0,0,18,0,0,LAK,0,13:28,8476874,Olli,Maatta
 2023020586,DET,R,2024-01-02,0,1,{'default': 'Red Wings'},{'default': 'Sharks'},1,1,0,0,0,0,2,21,0,0,SJS,0,17:18,8476874,Olli,Maatta
+2023020620,DET,R,2024-01-07,0,1,{'default': 'Red Wings'},{'default': 'Ducks'},1,0,0,1,0,0,0,21,0,0,ANA,0,17:58,8476906,Shayne,Gostisbehere
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,1,0,0,0,0,1,16,0,0,LAK,0,12:51,8476906,Shayne,Gostisbehere
 2023020586,DET,R,2024-01-02,0,1,{'default': 'Red Wings'},{'default': 'Sharks'},1,-3,0,1,0,0,0,23,0,0,SJS,0,19:03,8476906,Shayne,Gostisbehere
+2023020620,DET,R,2024-01-07,0,1,{'default': 'Red Wings'},{'default': 'Ducks'},1,0,0,0,0,0,0,19,0,0,ANA,0,15:26,8477429,Andrew,Copp
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,-3,0,0,0,0,2,19,0,0,SJS,0,14:22,8477429,Andrew,Copp
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,4,27,0,0,ANA,2,19:59,8477456,J.T.,Compher
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,-1,0,0,0,0,1,27,0,0,LAK,0,23:04,8477456,J.T.,Compher
 2023020586,DET,R,2024-01-02,1,0,{'default': 'Red Wings'},{'default': 'Sharks'},1,1,0,0,0,0,1,23,0,0,SJS,0,17:48,8477456,J.T.,Compher
+2023020620,DET,R,2024-01-07,1,0,{'default': 'Red Wings'},{'default': 'Ducks'},1,-1,1,1,0,0,5,25,0,0,ANA,0,17:53,8477946,Dylan,Larkin
 2023020600,DET,R,2024-01-04,0,1,{'default': 'Red Wings'},{'default': 'Kings'},1,0,0,0,0,0,4,29,0,0,LAK,0,25:58,8477946,Dylan,Larkin
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,1,0,0,0,0,3,25,0,0,SJS,2,20:17,8477946,Dylan,Larkin
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,0,18,0,0,ANA,0,15:41,8477952,Robby,Fabbri
 2023020600,DET,R,2024-01-04,2,0,{'default': 'Red Wings'},{'default': 'Kings'},2,2,0,0,0,0,3,13,0,0,LAK,0,11:43,8477952,Robby,Fabbri
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,0,0,0,0,0,0,15,0,0,SJS,0,12:47,8477952,Robby,Fabbri
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,1,24,0,0,ANA,0,20:02,8478013,Jake,Walman
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,-1,0,0,0,0,0,23,0,0,LAK,0,19:44,8478013,Jake,Walman
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,2,0,0,0,0,1,24,0,0,SJS,0,20:31,8478013,Jake,Walman
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,0,10,0,0,ANA,0,7:22,8478432,Christian,Fischer
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,1,0,0,0,0,1,12,0,0,LAK,0,8:34,8478432,Christian,Fischer
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,1,0,0,0,0,0,14,0,0,SJS,0,10:29,8478432,Christian,Fischer
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,-1,0,0,0,0,1,13,0,0,ANA,0,11:46,8478466,Daniel,Sprong
 2023020600,DET,R,2024-01-04,0,2,{'default': 'Red Wings'},{'default': 'Kings'},2,1,0,0,0,0,4,14,0,0,LAK,0,11:14,8478466,Daniel,Sprong
 2023020586,DET,R,2024-01-02,1,1,{'default': 'Red Wings'},{'default': 'Sharks'},2,0,1,2,0,0,6,15,0,0,SJS,0,11:59,8478466,Daniel,Sprong
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},0,0,0,0,0,0,2,22,0,0,ANA,2,15:48,8479337,Alex,DeBrincat
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,0,0,0,0,0,2,25,0,0,LAK,0,22:20,8479337,Alex,DeBrincat
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,0,0,0,0,0,2,21,0,0,SJS,0,15:26,8479337,Alex,DeBrincat
+2023020620,DET,R,2024-01-07,1,0,{'default': 'Red Wings'},{'default': 'Ducks'},1,1,0,0,1,0,1,18,0,0,ANA,0,11:50,8479992,Michael,Rasmussen
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,-1,0,0,0,0,0,22,0,0,LAK,0,15:17,8479992,Michael,Rasmussen
 2023020586,DET,R,2024-01-02,1,0,{'default': 'Red Wings'},{'default': 'Sharks'},1,-2,0,0,0,0,2,18,0,0,SJS,0,14:33,8479992,Michael,Rasmussen
+2023020620,DET,R,2024-01-07,1,0,{'default': 'Red Wings'},{'default': 'Ducks'},1,2,0,0,0,0,2,18,0,0,ANA,0,12:38,8480813,Joe,Veleno
 2023020600,DET,R,2024-01-04,0,1,{'default': 'Red Wings'},{'default': 'Kings'},1,0,0,0,0,0,0,18,0,0,LAK,0,12:40,8480813,Joe,Veleno
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,-2,0,0,0,0,1,18,0,0,SJS,0,13:49,8480813,Joe,Veleno
+2023020620,DET,R,2024-01-07,0,1,{'default': 'Red Wings'},{'default': 'Ducks'},1,0,0,0,0,0,2,27,0,0,ANA,2,24:27,8481542,Moritz,Seider
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,0,0,0,0,0,2,24,0,0,LAK,2,20:32,8481542,Moritz,Seider
 2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,2,0,0,0,0,1,25,0,0,SJS,0,24:18,8481542,Moritz,Seider
+2023020620,DET,R,2024-01-07,0,1,{'default': 'Red Wings'},{'default': 'Ducks'},1,0,0,0,0,0,0,23,0,0,ANA,0,18:25,8482078,Lucas,Raymond
 2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},0,-1,0,0,0,0,0,27,0,0,LAK,0,20:06,8482078,Lucas,Raymond
 2023020586,DET,R,2024-01-02,0,3,{'default': 'Red Wings'},{'default': 'Sharks'},3,1,0,2,0,0,0,25,0,0,SJS,2,16:33,8482078,Lucas,Raymond
 2023020607,TBL,R,2024-01-06,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,-3,0,0,0,0,3,19,0,0,BOS,0,19:13,8474564,Steven,Stamkos
@@ -978,62 +1176,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020607,TBL,R,2024-01-06,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,0,0,0,0,0,0,24,0,0,BOS,0,18:09,8480246,Nick,Perbix
 2023020594,TBL,R,2024-01-04,0,0,{'default': 'Lightning'},{'default': 'Wild'},0,0,0,0,0,0,0,29,0,0,MIN,0,21:01,8480246,Nick,Perbix
 2023020580,TBL,R,2024-01-02,0,0,{'default': 'Lightning'},{'default': 'Jets'},0,-1,0,0,0,0,2,32,0,0,WPG,2,26:17,8480246,Nick,Perbix
-2023020607,TBL,R,2024-01-06,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,0,0,0,0,0,1,14,0,0,BOS,0,11:39,8482144,Jack,Thompson
 2023020607,TBL,R,2024-01-06,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,-2,0,0,0,0,0,18,0,0,BOS,0,11:48,8482929,Emil,Martinsen Lilleberg
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,2,16,0,0,BUF,0,12:08,8470604,Jeff,Carter
-2023020589,PIT,R,2024-01-04,1,0,{'default': 'Penguins'},{'default': 'Bruins'},1,0,0,0,0,0,2,19,0,0,BOS,0,10:31,8470604,Jeff,Carter
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,1,17,0,0,WSH,2,10:19,8470604,Jeff,Carter
-2023020612,PIT,H,2024-01-06,0,1,{'default': 'Penguins'},{'default': 'Sabres'},1,0,0,1,0,0,3,21,0,0,BUF,0,20:51,8471215,Evgeni,Malkin
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,-2,0,0,0,0,1,23,0,0,BOS,0,16:38,8471215,Evgeni,Malkin
-2023020576,PIT,H,2024-01-02,0,1,{'default': 'Penguins'},{'default': 'Capitals'},1,-2,0,1,0,0,6,22,0,0,WSH,0,22:02,8471215,Evgeni,Malkin
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-1,0,0,0,0,2,22,0,0,BUF,2,20:46,8471675,Sidney,Crosby
-2023020589,PIT,R,2024-01-04,1,2,{'default': 'Penguins'},{'default': 'Bruins'},3,1,1,1,1,0,3,28,0,0,BOS,0,18:39,8471675,Sidney,Crosby
-2023020576,PIT,H,2024-01-02,1,1,{'default': 'Penguins'},{'default': 'Capitals'},2,2,1,1,0,0,1,23,0,0,WSH,0,22:24,8471675,Sidney,Crosby
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-1,0,0,0,0,2,27,0,0,BUF,0,26:26,8471724,Kris,Letang
-2023020589,PIT,R,2024-01-04,0,3,{'default': 'Penguins'},{'default': 'Bruins'},3,-1,0,0,0,0,3,26,0,0,BOS,2,24:04,8471724,Kris,Letang
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,4,26,0,0,WSH,0,24:55,8471724,Kris,Letang
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,2,21,0,0,BUF,0,13:59,8474189,Lars,Eller
-2023020589,PIT,R,2024-01-04,1,1,{'default': 'Penguins'},{'default': 'Bruins'},2,1,0,0,0,0,3,25,0,0,BOS,0,15:25,8474189,Lars,Eller
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,3,17,0,0,WSH,0,12:23,8474189,Lars,Eller
-2023020612,PIT,H,2024-01-06,0,1,{'default': 'Penguins'},{'default': 'Sabres'},1,-3,0,1,0,0,1,26,0,0,BUF,0,23:11,8474578,Erik,Karlsson
-2023020589,PIT,R,2024-01-04,0,2,{'default': 'Penguins'},{'default': 'Bruins'},2,0,0,1,0,0,0,28,0,0,BOS,0,20:28,8474578,Erik,Karlsson
-2023020576,PIT,H,2024-01-02,0,1,{'default': 'Penguins'},{'default': 'Capitals'},1,0,0,0,0,0,2,25,0,0,WSH,0,27:01,8474578,Erik,Karlsson
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,6,16,0,0,BUF,0,13:14,8475191,Reilly,Smith
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,-2,0,0,0,0,1,22,0,0,BOS,0,14:13,8475191,Reilly,Smith
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,1,22,0,0,WSH,0,16:06,8475191,Reilly,Smith
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,4,23,0,0,BUF,0,17:02,8475810,Bryan,Rust
-2023020589,PIT,R,2024-01-04,0,1,{'default': 'Penguins'},{'default': 'Bruins'},1,-2,0,0,0,0,2,24,0,0,BOS,0,17:16,8475810,Bryan,Rust
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,1,24,0,0,WSH,0,16:47,8475810,Bryan,Rust
-2023020612,PIT,H,2024-01-06,1,0,{'default': 'Penguins'},{'default': 'Sabres'},1,-3,1,1,0,0,3,22,0,0,BUF,0,20:22,8476483,Rickard,Rakell
-2023020589,PIT,R,2024-01-04,0,1,{'default': 'Penguins'},{'default': 'Bruins'},1,1,0,0,0,0,3,26,0,0,BOS,0,17:18,8476483,Rickard,Rakell
-2023020576,PIT,H,2024-01-02,1,1,{'default': 'Penguins'},{'default': 'Capitals'},2,1,0,0,0,0,3,23,0,0,WSH,0,22:27,8476483,Rickard,Rakell
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,2,17,0,0,BUF,0,11:53,8477244,Chad,Ruhwedel
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,1,0,0,0,0,0,19,0,0,BOS,0,14:28,8477244,Chad,Ruhwedel
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,2,16,0,0,WSH,0,11:18,8477244,Chad,Ruhwedel
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-2,0,0,0,0,4,23,0,0,BUF,0,22:23,8477404,Jake,Guentzel
-2023020589,PIT,R,2024-01-04,1,0,{'default': 'Penguins'},{'default': 'Bruins'},1,1,0,0,0,0,4,29,0,0,BOS,0,19:30,8477404,Jake,Guentzel
-2023020576,PIT,H,2024-01-02,1,1,{'default': 'Penguins'},{'default': 'Capitals'},2,1,0,1,0,0,5,23,0,0,WSH,0,23:16,8477404,Jake,Guentzel
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,1,15,0,0,BUF,0,11:52,8477435,Ryan,Graves
-2023020589,PIT,R,2024-01-04,1,0,{'default': 'Penguins'},{'default': 'Bruins'},1,1,0,0,0,0,1,18,0,0,BOS,0,15:26,8477435,Ryan,Graves
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-2,0,0,0,0,2,16,0,0,WSH,0,12:42,8477435,Ryan,Graves
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,3,25,0,0,BUF,0,23:18,8477969,Marcus,Pettersson
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,-1,0,0,0,0,2,27,0,0,BOS,0,25:23,8477969,Marcus,Pettersson
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,1,25,0,0,WSH,0,22:03,8477969,Marcus,Pettersson
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-1,0,0,0,0,2,14,0,0,BUF,2,9:39,8478424,Jansen,Harkins
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,0,0,0,0,0,1,18,0,0,BOS,0,10:31,8478424,Jansen,Harkins
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,0,15,0,0,WSH,0,8:50,8478424,Jansen,Harkins
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-2,0,0,0,0,0,19,0,0,BUF,2,13:22,8478569,Noel,Acciari
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,0,0,0,0,0,4,26,0,0,BOS,0,17:09,8478569,Noel,Acciari
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,-1,0,0,0,0,2,19,0,0,WSH,0,12:09,8478569,Noel,Acciari
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,-2,0,0,0,0,0,24,0,0,BUF,0,16:22,8480058,Pierre-Olivier,Joseph
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,0,0,0,0,0,2,25,0,0,BOS,2,16:56,8480058,Pierre-Olivier,Joseph
-2023020576,PIT,H,2024-01-02,0,1,{'default': 'Penguins'},{'default': 'Capitals'},1,1,0,0,0,0,1,24,0,0,WSH,0,16:21,8480058,Pierre-Olivier,Joseph
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,1,9,0,0,BUF,0,5:31,8481703,Valtteri,Puustinen
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},0,1,0,0,0,0,1,12,0,0,BOS,0,7:37,8481703,Valtteri,Puustinen
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,0,12,0,0,WSH,2,7:37,8481703,Valtteri,Puustinen
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},0,0,0,0,0,0,3,19,0,0,BUF,0,13:23,8482055,Drew,O'Connor
-2023020589,PIT,R,2024-01-04,1,1,{'default': 'Penguins'},{'default': 'Bruins'},2,1,0,0,0,0,2,21,0,0,BOS,0,14:28,8482055,Drew,O'Connor
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,0,14,0,0,WSH,0,10:18,8482055,Drew,O'Connor
 2023020615,EDM,H,2024-01-06,0,0,{'default': 'Oilers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,5,17,0,0,OTT,4,14:14,8475169,Evander,Kane
 2023020583,EDM,H,2024-01-02,0,0,{'default': 'Oilers'},{'default': 'Flyers'},0,0,0,0,0,0,2,18,0,0,PHI,0,17:14,8475169,Evander,Kane
 2023020615,EDM,H,2024-01-06,0,0,{'default': 'Oilers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,2,24,0,0,OTT,0,20:10,8475218,Mattias,Ekholm
@@ -1252,7 +1395,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020605,CGY,R,2024-01-06,0,0,{'default': 'Flames'},{'default': 'Flyers'},0,1,0,0,0,0,1,26,0,0,PHI,0,21:43,8474150,Mikael,Backlund
 2023020595,CGY,R,2024-01-04,0,1,{'default': 'Flames'},{'default': 'Predators'},1,1,0,0,0,0,7,25,0,0,NSH,0,18:32,8474150,Mikael,Backlund
 2023020578,CGY,R,2024-01-02,0,1,{'default': 'Flames'},{'default': 'Wild'},1,1,0,0,0,0,2,23,0,0,MIN,0,19:41,8474150,Mikael,Backlund
-2023020617,CGY,R,2024-01-07,2,0,{'default': 'Flames'},{'default': 'Blackhawks'},2,2,0,0,0,0,6,21,0,0,CHI,0,18:00,8475172,Nazem,Kadri
+2023020617,CGY,R,2024-01-07,2,0,{'default': 'Flames'},{'default': 'Blackhawks'},2,2,0,0,0,0,5,21,0,0,CHI,0,18:00,8475172,Nazem,Kadri
 2023020605,CGY,R,2024-01-06,0,1,{'default': 'Flames'},{'default': 'Flyers'},1,0,0,0,0,0,0,19,0,0,PHI,0,17:53,8475172,Nazem,Kadri
 2023020595,CGY,R,2024-01-04,1,0,{'default': 'Flames'},{'default': 'Predators'},1,1,0,0,0,0,5,20,0,0,NSH,0,19:31,8475172,Nazem,Kadri
 2023020578,CGY,R,2024-01-02,0,0,{'default': 'Flames'},{'default': 'Wild'},0,0,0,0,0,0,2,20,0,0,MIN,4,16:18,8475172,Nazem,Kadri
@@ -1323,54 +1466,70 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,1,0,0,0,0,0,20,0,0,CBJ,0,18:14,8471274,Alex,Goligoski
 2023020594,MIN,H,2024-01-04,0,1,{'default': 'Wild'},{'default': 'Lightning'},1,0,0,0,0,0,0,20,0,0,TBL,0,18:09,8471274,Alex,Goligoski
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,1,20,0,0,CGY,0,15:04,8471274,Alex,Goligoski
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,2,18,0,0,DAL,0,14:49,8474034,Pat,Maroon
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,1,12,0,0,CBJ,0,10:06,8474034,Pat,Maroon
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,0,16,0,0,TBL,5,14:19,8474034,Pat,Maroon
 2023020578,MIN,H,2024-01-02,1,0,{'default': 'Wild'},{'default': 'Flames'},1,0,0,0,0,0,5,16,0,0,CGY,0,15:11,8474034,Pat,Maroon
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,0,0,0,0,0,2,22,0,0,DAL,0,20:06,8474567,Zach,Bogosian
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,25,0,0,CBJ,0,21:24,8474567,Zach,Bogosian
 2023020594,MIN,H,2024-01-04,1,0,{'default': 'Wild'},{'default': 'Lightning'},1,0,0,0,0,0,1,23,0,0,TBL,0,18:59,8474567,Zach,Bogosian
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,0,0,0,0,0,0,19,0,0,CGY,0,15:14,8474567,Zach,Bogosian
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,0,23,0,0,CGY,0,20:15,8474716,Jared,Spurgeon
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,1,20,0,0,DAL,0,15:59,8475149,Marcus,Johansson
 2023020609,MIN,R,2024-01-06,1,0,{'default': 'Wild'},{'default': 'Blue Jackets'},1,0,0,0,0,0,4,20,0,0,CBJ,0,17:53,8475149,Marcus,Johansson
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,0,18,0,0,TBL,0,17:36,8475149,Marcus,Johansson
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-2,0,0,0,0,1,21,0,0,CGY,0,21:46,8475149,Marcus,Johansson
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,0,0,0,0,0,0,17,0,0,DAL,0,12:44,8475220,Marcus,Foligno
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-2,0,0,0,0,1,20,0,0,DAL,0,24:03,8475692,Mats,Zuccarello
 2023020609,MIN,R,2024-01-06,0,1,{'default': 'Wild'},{'default': 'Blue Jackets'},1,1,0,1,0,0,7,22,0,0,CBJ,0,24:15,8475692,Mats,Zuccarello
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,1,15,0,0,DAL,0,13:22,8475750,Jon,Merrill
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,15,0,0,CBJ,6,11:08,8475750,Jon,Merrill
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,1,19,0,0,TBL,0,17:18,8475750,Jon,Merrill
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,2,19,0,0,DAL,2,16:24,8477451,Ryan,Hartman
 2023020609,MIN,R,2024-01-06,0,1,{'default': 'Wild'},{'default': 'Blue Jackets'},1,0,0,0,0,0,1,19,0,0,CBJ,0,16:49,8477451,Ryan,Hartman
 2023020594,MIN,H,2024-01-04,0,1,{'default': 'Wild'},{'default': 'Lightning'},1,-1,0,0,0,0,1,15,0,0,TBL,0,15:29,8477451,Ryan,Hartman
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,2,16,0,0,CGY,0,17:16,8477451,Ryan,Hartman
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,5,0,0,CBJ,0,4:22,8477464,Nic,Petan
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,0,0,0,0,0,3,17,0,0,TBL,2,15:56,8477464,Nic,Petan
 2023020578,MIN,H,2024-01-02,0,1,{'default': 'Wild'},{'default': 'Flames'},1,1,0,0,0,0,2,17,0,0,CGY,0,14:10,8477464,Nic,Petan
-2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,20,0,0,CBJ,0,13:32,8477541,Dakota,Mermis
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,0,20,0,0,DAL,0,14:30,8477541,Dakota,Mermis
+2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,20,0,0,CBJ,0,13:32,8477541,Dakota,Mermis
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,2,22,0,0,TBL,2,18:02,8477541,Dakota,Mermis
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,1,0,0,0,0,0,17,0,0,CGY,0,13:33,8477541,Dakota,Mermis
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,1,21,0,0,DAL,0,16:09,8477919,Frederick,Gaudreau
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,1,17,0,0,CBJ,0,12:50,8477919,Frederick,Gaudreau
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,2,19,0,0,TBL,2,16:02,8477919,Frederick,Gaudreau
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,1,0,0,0,0,1,15,0,0,CGY,2,15:04,8477919,Frederick,Gaudreau
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,0,0,0,0,0,1,22,0,0,DAL,0,18:25,8478136,Jake,Middleton
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,1,28,0,0,CBJ,0,23:34,8478136,Jake,Middleton
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,0,0,0,0,0,2,24,0,0,TBL,0,21:07,8478136,Jake,Middleton
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,1,27,0,0,CGY,0,21:36,8478136,Jake,Middleton
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,3,21,0,0,DAL,0,19:42,8478493,Joel,Eriksson Ek
 2023020609,MIN,R,2024-01-06,0,1,{'default': 'Wild'},{'default': 'Blue Jackets'},1,0,0,1,0,0,2,25,0,0,CBJ,0,25:30,8478493,Joel,Eriksson Ek
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,5,20,0,0,TBL,0,20:52,8478493,Joel,Eriksson Ek
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,6,22,0,0,CGY,0,24:26,8478493,Joel,Eriksson Ek
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,0,0,0,0,0,1,15,0,0,DAL,0,10:24,8479520,Brandon,Duhaime
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,14,0,0,CBJ,0,11:33,8479520,Brandon,Duhaime
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,1,18,0,0,TBL,0,14:07,8479520,Brandon,Duhaime
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,0,14,0,0,CGY,0,9:15,8479520,Brandon,Duhaime
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,0,0,0,0,0,1,17,0,0,DAL,0,11:04,8480980,Connor,Dewar
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,14,0,0,CBJ,0,10:15,8480980,Connor,Dewar
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,0,0,0,0,0,0,16,0,0,TBL,0,11:46,8480980,Connor,Dewar
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,0,14,0,0,CGY,0,9:21,8480980,Connor,Dewar
-2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,0,0,0,0,0,0,15,0,0,TBL,0,10:40,8481422,Jacob,Lucchini
-2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,0,0,0,0,0,0,11,0,0,CGY,0,10:41,8481422,Jacob,Lucchini
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-2,0,0,0,0,2,18,0,0,DAL,2,20:28,8481557,Matt,Boldy
 2023020609,MIN,R,2024-01-06,2,1,{'default': 'Wild'},{'default': 'Blue Jackets'},3,1,2,2,0,0,7,21,0,0,CBJ,4,22:27,8481557,Matt,Boldy
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,0,17,0,0,TBL,0,16:30,8481557,Matt,Boldy
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,4,20,0,0,CGY,2,22:03,8481557,Matt,Boldy
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-2,0,0,0,0,0,18,0,0,DAL,0,20:38,8482079,Marco,Rossi
 2023020609,MIN,R,2024-01-06,1,0,{'default': 'Wild'},{'default': 'Blue Jackets'},1,1,0,0,1,1,3,21,0,0,CBJ,0,22:37,8482079,Marco,Rossi
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,0,17,0,0,TBL,0,17:30,8482079,Marco,Rossi
 2023020578,MIN,H,2024-01-02,0,1,{'default': 'Wild'},{'default': 'Flames'},1,-1,0,0,0,0,2,16,0,0,CGY,0,16:35,8482079,Marco,Rossi
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,1,19,0,0,DAL,0,16:41,8482094,Daemon,Hunt
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,-1,0,0,0,0,4,25,0,0,DAL,0,24:15,8482122,Brock,Faber
 2023020609,MIN,R,2024-01-06,0,3,{'default': 'Wild'},{'default': 'Blue Jackets'},3,0,0,2,0,0,3,32,0,0,CBJ,0,30:12,8482122,Brock,Faber
 2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},0,-1,0,0,0,0,4,23,0,0,TBL,0,23:14,8482122,Brock,Faber
 2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},0,-1,0,0,0,0,3,28,0,0,CGY,0,26:25,8482122,Brock,Faber
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},0,0,0,0,0,0,0,11,0,0,DAL,0,7:46,8482197,Adam,Raska
 2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,8,0,0,CBJ,0,6:32,8482197,Adam,Raska
 2023020612,BUF,R,2024-01-06,0,0,{'default': 'Sabres'},{'default': 'Penguins'},0,0,0,0,0,0,4,22,0,0,PIT,0,13:52,8473446,Erik,Johnson
 2023020590,BUF,R,2024-01-04,0,0,{'default': 'Sabres'},{'default': 'Canadiens'},0,0,0,0,0,0,0,24,0,0,MTL,0,17:54,8473446,Erik,Johnson
@@ -1448,7 +1607,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020609,CBJ,H,2024-01-06,0,0,{'default': 'Blue Jackets'},{'default': 'Wild'},0,2,0,0,0,0,4,20,0,0,MIN,0,18:16,8482475,Yegor,Chinakhov
 2023020592,CBJ,R,2024-01-04,0,0,{'default': 'Blue Jackets'},{'default': 'Flyers'},0,-1,0,0,0,0,0,17,0,0,PHI,0,14:43,8482475,Yegor,Chinakhov
 2023020574,CBJ,H,2024-01-02,0,0,{'default': 'Blue Jackets'},{'default': 'Bruins'},0,0,0,0,0,0,0,19,0,0,BOS,0,11:23,8482475,Yegor,Chinakhov
-2023020609,CBJ,H,2024-01-06,0,0,{'default': 'Blue Jackets'},{'default': 'Wild'},0,-1,0,0,0,0,1,18,0,0,MIN,0,14:50,8482660,Kent,Johnson
+2023020609,CBJ,H,2024-01-06,0,0,{'default': 'Blue Jackets'},{'default': 'Wild'},0,-1,0,0,0,0,2,18,0,0,MIN,0,14:50,8482660,Kent,Johnson
 2023020592,CBJ,R,2024-01-04,0,0,{'default': 'Blue Jackets'},{'default': 'Flyers'},0,1,0,0,0,0,5,18,0,0,PHI,0,18:00,8482660,Kent,Johnson
 2023020574,CBJ,H,2024-01-02,1,0,{'default': 'Blue Jackets'},{'default': 'Bruins'},1,1,0,0,0,0,2,18,0,0,BOS,0,15:04,8482660,Kent,Johnson
 2023020609,CBJ,H,2024-01-06,3,0,{'default': 'Blue Jackets'},{'default': 'Wild'},3,2,1,1,0,0,5,24,0,0,MIN,0,19:07,8482705,Cole,Sillinger
@@ -1512,39 +1671,55 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020615,OTT,R,2024-01-06,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Oilers'},0,0,0,0,0,0,0,22,0,0,EDM,4,16:56,8482245,Artem,Zub
 2023020598,OTT,R,2024-01-04,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Kraken'},0,0,0,0,0,0,2,23,0,0,SEA,0,18:49,8482245,Artem,Zub
 2023020584,OTT,R,2024-01-02,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Canucks'},0,-1,0,0,0,0,3,26,0,0,VAN,0,20:29,8482245,Artem,Zub
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,-2,0,0,0,0,1,22,0,0,DET,0,19:07,8473986,Alex,Killorn
 2023020604,ANA,H,2024-01-05,0,1,{'default': 'Ducks'},{'default': 'Jets'},1,-1,0,0,0,0,4,20,0,0,WPG,0,19:33,8473986,Alex,Killorn
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,4,24,0,0,TOR,2,18:50,8473986,Alex,Killorn
+2023020620,ANA,H,2024-01-07,0,1,{'default': 'Ducks'},{'default': 'Red Wings'},1,2,0,0,0,0,4,22,0,0,DET,0,16:36,8474641,Adam,Henrique
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,2,21,0,0,WPG,0,19:54,8474641,Adam,Henrique
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,1,27,0,0,TOR,0,20:11,8474641,Adam,Henrique
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,0,0,0,0,0,1,11,0,0,DET,2,7:25,8475164,Jakob,Silfverberg
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,2,15,0,0,WPG,0,13:47,8475164,Jakob,Silfverberg
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,13,0,0,TOR,0,8:53,8475164,Jakob,Silfverberg
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,0,0,0,0,0,3,23,0,0,DET,2,16:22,8475462,Radko,Gudas
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,5,22,0,0,WPG,2,16:05,8475462,Radko,Gudas
+2023020620,ANA,H,2024-01-07,0,1,{'default': 'Ducks'},{'default': 'Red Wings'},1,0,0,0,0,0,2,28,0,0,DET,0,24:40,8475764,Cam,Fowler
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,-1,0,0,0,0,2,23,0,0,WPG,0,25:43,8475764,Cam,Fowler
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,31,0,0,TOR,0,28:40,8475764,Cam,Fowler
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,0,0,0,0,0,0,18,0,0,DET,0,13:33,8475842,Sam,Carrick
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,1,14,0,0,WPG,0,10:54,8475842,Sam,Carrick
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,2,22,0,0,TOR,0,12:51,8475842,Sam,Carrick
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,0,0,0,0,0,1,17,0,0,DET,0,14:38,8476458,Ryan,Strome
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,0,0,0,0,0,0,23,0,0,DET,0,17:19,8476934,Brock,McGinn
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,2,16,0,0,WPG,0,13:46,8476934,Brock,McGinn
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,18,0,0,TOR,0,12:21,8476934,Brock,McGinn
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,0,0,0,0,0,1,9,0,0,DET,0,6:19,8477527,Ross,Johnston
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,0,12,0,0,WPG,0,8:30,8477527,Ross,Johnston
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,-1,0,0,0,0,4,23,0,0,DET,4,18:33,8478366,Frank,Vatrano
 2023020604,ANA,H,2024-01-05,0,1,{'default': 'Ducks'},{'default': 'Jets'},1,-1,0,0,0,0,2,20,0,0,WPG,2,20:31,8478366,Frank,Vatrano
 2023020588,ANA,H,2024-01-03,1,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},1,1,0,0,0,0,5,26,1,1,TOR,2,18:46,8478366,Frank,Vatrano
+2023020620,ANA,H,2024-01-07,0,1,{'default': 'Ducks'},{'default': 'Red Wings'},1,2,0,0,0,0,2,18,0,0,DET,0,17:00,8478873,Troy,Terry
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,0,5,0,0,WPG,0,4:15,8479368,Max,Jones
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,4,21,0,0,TOR,2,14:29,8479368,Max,Jones
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,1,0,0,0,0,2,22,0,0,DET,0,17:37,8480001,Urho,Vaakanainen
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,0,21,0,0,WPG,0,14:03,8480001,Urho,Vaakanainen
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,1,0,0,0,0,1,25,0,0,TOR,0,20:29,8480001,Urho,Vaakanainen
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,0,0,0,0,0,0,16,0,0,DET,0,12:40,8480806,Isac,Lundestrom
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,4,15,0,0,WPG,0,12:54,8480806,Isac,Lundestrom
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,15,0,0,TOR,0,10:43,8480806,Isac,Lundestrom
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,5,19,0,0,WPG,0,15:05,8480870,Bo,Groulx
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,9,0,0,TOR,0,6:12,8480870,Bo,Groulx
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,-1,0,0,0,0,0,22,0,0,DET,0,18:12,8480950,Ilya,Lyubushkin
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,0,19,0,0,WPG,0,17:06,8480950,Ilya,Lyubushkin
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,21,0,0,TOR,17,13:12,8480950,Ilya,Lyubushkin
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,19,0,0,TOR,0,13:24,8481517,Brett,Leason
+2023020620,ANA,H,2024-01-07,2,0,{'default': 'Ducks'},{'default': 'Red Wings'},2,2,0,0,0,0,4,18,0,0,DET,0,17:00,8481533,Trevor,Zegras
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,2,22,0,0,WPG,0,24:01,8481533,Trevor,Zegras
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,3,23,0,0,TOR,0,18:13,8481533,Trevor,Zegras
-2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,-1,0,0,0,0,5,24,0,0,WPG,0,24:18,8482142,Jamie,Drysdale
-2023020588,ANA,H,2024-01-03,0,1,{'default': 'Ducks'},{'default': 'Maple Leafs'},1,1,0,0,0,0,2,25,0,1,TOR,4,21:35,8482142,Jamie,Drysdale
+2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,26,0,0,TOR,0,20:43,8481605,Jackson,LaCombe
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,-2,0,0,0,0,3,22,0,0,DET,2,18:24,8482745,Mason,McTavish
 2023020604,ANA,H,2024-01-05,1,0,{'default': 'Ducks'},{'default': 'Jets'},1,-1,0,0,0,0,1,18,0,0,WPG,0,20:44,8482745,Mason,McTavish
 2023020588,ANA,H,2024-01-03,0,1,{'default': 'Ducks'},{'default': 'Maple Leafs'},1,1,0,0,0,0,3,22,0,1,TOR,0,19:49,8482745,Mason,McTavish
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},0,-1,0,0,0,0,2,18,0,0,DET,0,15:10,8483490,Pavel,Mintyukov
 2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},0,0,0,0,0,0,1,20,0,0,WPG,0,18:27,8483490,Pavel,Mintyukov
 2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,0,21,0,0,TOR,0,13:55,8483490,Pavel,Mintyukov
 2023020602,CHI,R,2024-01-05,0,0,{'default': 'Blackhawks'},{'default': 'Devils'},0,0,0,0,0,0,1,10,0,0,NJD,9,7:26,8473422,Nick,Foligno
@@ -1608,7 +1783,6 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020602,CHI,R,2024-01-05,0,1,{'default': 'Blackhawks'},{'default': 'Devils'},1,-1,0,1,0,0,0,23,0,0,NJD,17,17:29,8481568,Alex,Vlasic
 2023020591,CHI,R,2024-01-04,0,0,{'default': 'Blackhawks'},{'default': 'Rangers'},0,-1,0,0,0,0,0,24,0,0,NYR,0,20:53,8481568,Alex,Vlasic
 2023020579,CHI,R,2024-01-02,0,0,{'default': 'Blackhawks'},{'default': 'Predators'},0,0,0,0,0,0,0,26,0,0,NSH,0,23:02,8481568,Alex,Vlasic
-2023020579,CHI,R,2024-01-02,0,0,{'default': 'Blackhawks'},{'default': 'Predators'},0,0,0,0,0,0,2,24,0,0,NSH,0,16:15,8481806,Louis,Crevier
 2023020617,CHI,H,2024-01-07,0,0,{'default': 'Blackhawks'},{'default': 'Flames'},0,0,0,0,0,0,2,24,0,0,CGY,0,19:40,8482117,Lukas,Reichel
 2023020602,CHI,R,2024-01-05,0,0,{'default': 'Blackhawks'},{'default': 'Devils'},0,-3,0,0,0,0,2,22,0,0,NJD,0,18:39,8482117,Lukas,Reichel
 2023020591,CHI,R,2024-01-04,0,0,{'default': 'Blackhawks'},{'default': 'Rangers'},0,0,0,0,0,0,0,18,0,0,NYR,0,15:45,8482117,Lukas,Reichel
@@ -1648,8 +1822,6 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020613,SJS,H,2024-01-06,0,0,{'default': 'Sharks'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,0,27,0,0,TOR,0,27:07,8479983,Mario,Ferraro
 2023020601,SJS,H,2024-01-04,0,0,{'default': 'Sharks'},{'default': 'Jets'},0,1,0,0,0,0,1,25,0,0,WPG,0,22:09,8479983,Mario,Ferraro
 2023020586,SJS,H,2024-01-02,0,2,{'default': 'Sharks'},{'default': 'Red Wings'},2,2,0,0,0,0,2,28,0,0,DET,0,23:56,8479983,Mario,Ferraro
-2023020601,SJS,H,2024-01-04,0,0,{'default': 'Sharks'},{'default': 'Jets'},0,-1,0,0,0,0,2,13,0,0,WPG,0,8:32,8480021,Jack,Studnicka
-2023020586,SJS,H,2024-01-02,0,0,{'default': 'Sharks'},{'default': 'Red Wings'},0,1,0,0,0,0,0,18,0,0,DET,0,10:32,8480021,Jack,Studnicka
 2023020613,SJS,H,2024-01-06,0,0,{'default': 'Sharks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,23,0,0,TOR,0,17:36,8480172,Jan,Rutta
 2023020601,SJS,H,2024-01-04,0,0,{'default': 'Sharks'},{'default': 'Jets'},0,0,0,0,0,0,0,23,0,0,WPG,0,18:16,8480172,Jan,Rutta
 2023020586,SJS,H,2024-01-02,0,0,{'default': 'Sharks'},{'default': 'Red Wings'},0,-1,0,0,0,0,1,24,0,0,DET,2,18:28,8480172,Jan,Rutta
