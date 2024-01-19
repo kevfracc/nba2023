@@ -1,194 +1,256 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,gamesStarted,decision,shotsAgainst,goalsAgainst,savePctg,shutouts,opponentAbbrev,pim,toi,playerId,firstName,lastName
-2023020654,VAN,R,2024-01-13,0,0,{'default': 'Canucks'},{'default': 'Sabres'},1,W,26,0,1.0,1,BUF,0,60:00,8477967,Thatcher,Demko
-2023020643,VAN,R,2024-01-11,0,0,{'default': 'Canucks'},{'default': 'Penguins'},1,W,35,3,0.914286,0,PIT,0,62:56,8477967,Thatcher,Demko
-2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},1,W,42,3,0.928571,0,NYR,0,60:00,8477967,Thatcher,Demko
-2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},1,W,25,4,0.84,0,NJD,0,60:00,8477967,Thatcher,Demko
-2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},1,L,32,2,0.9375,0,STL,0,56:43,8477967,Thatcher,Demko
-2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,38,3,0.921053,0,OTT,0,60:00,8477967,Thatcher,Demko
-2023020628,VAN,R,2024-01-09,0,0,{'default': 'Canucks'},{'default': 'Islanders'},1,W,20,2,0.9,0,NYI,0,59:35,8479193,Casey,DeSmith
-2023020648,WPG,H,2024-01-11,0,0,{'default': 'Jets'},{'default': 'Blackhawks'},1,W,21,1,0.952381,0,CHI,0,59:12,8476316,Laurent,Brossoit
-2023020604,WPG,R,2024-01-05,0,0,{'default': 'Jets'},{'default': 'Ducks'},1,W,38,1,0.973684,0,ANA,0,60:00,8476316,Laurent,Brossoit
-2023020663,WPG,H,2024-01-13,0,0,{'default': 'Jets'},{'default': 'Flyers'},1,L,36,2,0.944444,0,PHI,0,57:24,8476945,Connor,Hellebuyck
-2023020631,WPG,H,2024-01-09,0,0,{'default': 'Jets'},{'default': 'Blue Jackets'},1,W,29,0,1.0,1,CBJ,0,60:00,8476945,Connor,Hellebuyck
-2023020619,WPG,R,2024-01-07,0,0,{'default': 'Jets'},{'default': 'Coyotes'},1,W,17,2,0.882353,0,ARI,0,59:11,8476945,Connor,Hellebuyck
-2023020601,WPG,R,2024-01-04,0,0,{'default': 'Jets'},{'default': 'Sharks'},1,W,28,1,0.964286,0,SJS,0,59:48,8476945,Connor,Hellebuyck
-2023020580,WPG,H,2024-01-02,0,0,{'default': 'Jets'},{'default': 'Lightning'},1,W,34,2,0.941176,0,TBL,2,59:42,8476945,Connor,Hellebuyck
-2023020633,BOS,R,2024-01-09,0,0,{'default': 'Bruins'},{'default': 'Coyotes'},1,,35,3,0.914286,0,ARI,0,62:06,8476999,Linus,Ullmark
-2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},1,W,26,3,0.884615,0,TBL,0,60:00,8476999,Linus,Ullmark
-2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,W,27,1,0.962963,0,CBJ,0,59:53,8476999,Linus,Ullmark
-2023020667,BOS,R,2024-01-13,0,0,{'default': 'Bruins'},{'default': 'Blues'},1,W,23,3,0.869565,0,STL,0,61:10,8480280,Jeremy,Swayman
-2023020650,BOS,R,2024-01-11,0,0,{'default': 'Bruins'},{'default': 'Golden Knights'},1,O,25,2,0.92,0,VGK,0,60:46,8480280,Jeremy,Swayman
-2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},1,O,36,3,0.916667,0,COL,0,65:00,8480280,Jeremy,Swayman
-2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},1,L,35,6,0.828571,0,PIT,0,57:19,8480280,Jeremy,Swayman
-2023020662,COL,R,2024-01-13,0,0,{'default': 'Avalanche'},{'default': 'Maple Leafs'},1,W,29,3,0.896552,0,TOR,0,59:34,8480382,Alexandar,Georgiev
-2023020637,COL,H,2024-01-10,0,0,{'default': 'Avalanche'},{'default': 'Golden Knights'},1,W,25,0,1.0,1,VGK,0,60:00,8480382,Alexandar,Georgiev
-2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},1,W,26,3,0.884615,0,BOS,0,65:00,8480382,Alexandar,Georgiev
-2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},1,W,32,4,0.875,0,DAL,0,62:17,8480382,Alexandar,Georgiev
-2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},1,W,22,4,0.818182,0,NYI,0,60:28,8480382,Alexandar,Georgiev
-2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},1,,13,4,0.692308,0,FLA,0,28:50,8481031,Ivan,Prosvetov
-2023020656,FLA,H,2024-01-13,0,0,{'default': 'Panthers'},{'default': 'Devils'},1,L,21,3,0.857143,0,NJD,0,57:12,8475683,Sergei,Bobrovsky
-2023020641,FLA,H,2024-01-11,0,1,{'default': 'Panthers'},{'default': 'Kings'},1,W,33,2,0.939394,0,LAK,0,64:46,8475683,Sergei,Bobrovsky
-2023020606,FLA,R,2024-01-06,0,0,{'default': 'Panthers'},{'default': 'Avalanche'},1,W,26,4,0.846154,0,COL,0,59:42,8475683,Sergei,Bobrovsky
-2023020599,FLA,R,2024-01-04,0,0,{'default': 'Panthers'},{'default': 'Golden Knights'},1,W,27,1,0.962963,0,VGK,0,59:57,8475683,Sergei,Bobrovsky
-2023020581,FLA,R,2024-01-02,0,0,{'default': 'Panthers'},{'default': 'Coyotes'},1,W,22,1,0.954545,0,ARI,0,59:54,8475683,Sergei,Bobrovsky
-2023020630,FLA,R,2024-01-09,0,0,{'default': 'Panthers'},{'default': 'Blues'},1,W,30,1,0.966667,0,STL,0,60:00,8476932,Anthony,Stolarz
-2023020653,NYR,R,2024-01-13,0,0,{'default': 'Rangers'},{'default': 'Capitals'},1,L,21,3,0.857143,0,WSH,0,57:38,8471734,Jonathan,Quick
-2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},1,O,30,3,0.9,0,MTL,0,65:00,8471734,Jonathan,Quick
-2023020669,NYR,H,2024-01-14,0,0,{'default': 'Rangers'},{'default': 'Capitals'},1,W,25,1,0.96,0,WSH,0,60:00,8478048,Igor,Shesterkin
-2023020647,NYR,R,2024-01-11,0,0,{'default': 'Rangers'},{'default': 'Blues'},1,L,19,4,0.789474,0,STL,0,57:29,8478048,Igor,Shesterkin
-2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},1,L,25,5,0.8,0,VAN,0,59:15,8478048,Igor,Shesterkin
-2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,W,23,1,0.956522,0,CHI,0,60:00,8478048,Igor,Shesterkin
-2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},1,L,27,6,0.777778,0,CAR,0,60:00,8478048,Igor,Shesterkin
-2023020664,DAL,R,2024-01-13,0,0,{'default': 'Stars'},{'default': 'Blackhawks'},1,,14,0,1.0,0,CHI,0,28:49,8475809,Scott,Wedgewood
-2023020636,DAL,H,2024-01-10,0,0,{'default': 'Stars'},{'default': 'Wild'},1,W,23,2,0.913043,0,MIN,0,58:33,8475809,Scott,Wedgewood
-2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},1,L,22,4,0.818182,0,NSH,0,58:01,8475809,Scott,Wedgewood
-2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},1,O,34,5,0.852941,0,COL,0,63:40,8475809,Scott,Wedgewood
-2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},1,L,18,4,0.777778,0,MTL,0,53:58,8475809,Scott,Wedgewood
-2023020651,DAL,H,2024-01-12,0,0,{'default': 'Stars'},{'default': 'Predators'},1,L,36,4,0.888889,0,NSH,0,58:26,8479979,Jake,Oettinger
-2023020657,CAR,H,2024-01-13,0,0,{'default': 'Hurricanes'},{'default': 'Penguins'},1,W,40,2,0.95,0,PIT,0,61:41,8477293,Antti,Raanta
-2023020608,CAR,H,2024-01-06,0,0,{'default': 'Hurricanes'},{'default': 'Blues'},1,O,22,1,0.954545,0,STL,0,65:00,8477293,Antti,Raanta
-2023020639,CAR,H,2024-01-11,0,0,{'default': 'Hurricanes'},{'default': 'Ducks'},1,,13,3,0.769231,0,ANA,2,33:56,8481611,Pyotr,Kochetkov
-2023020603,CAR,R,2024-01-05,0,0,{'default': 'Hurricanes'},{'default': 'Capitals'},1,W,17,2,0.882353,0,WSH,0,60:00,8481611,Pyotr,Kochetkov
-2023020575,CAR,R,2024-01-02,0,0,{'default': 'Hurricanes'},{'default': 'Rangers'},1,W,29,1,0.965517,0,NYR,0,60:00,8481611,Pyotr,Kochetkov
-2023020637,VGK,R,2024-01-10,0,0,{'default': 'Golden Knights'},{'default': 'Avalanche'},1,L,35,3,0.914286,0,COL,0,60:00,8480238,Jiri,Patera
-2023020668,VGK,H,2024-01-13,0,0,{'default': 'Golden Knights'},{'default': 'Flames'},1,L,26,3,0.884615,0,CGY,0,57:59,8480313,Logan,Thompson
-2023020650,VGK,H,2024-01-11,0,0,{'default': 'Golden Knights'},{'default': 'Bruins'},1,W,33,1,0.969697,0,BOS,0,60:46,8480313,Logan,Thompson
-2023020616,VGK,H,2024-01-06,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},1,W,29,2,0.931034,0,NYI,0,60:00,8480313,Logan,Thompson
-2023020599,VGK,H,2024-01-04,0,0,{'default': 'Golden Knights'},{'default': 'Panthers'},1,L,36,4,0.888889,0,FLA,0,60:00,8480313,Logan,Thompson
-2023020573,VGK,R,2024-01-01,0,0,{'default': 'Golden Knights'},{'default': 'Kraken'},1,L,27,3,0.888889,0,SEA,0,57:00,8480313,Logan,Thompson
-2023020652,PHI,R,2024-01-12,0,0,{'default': 'Flyers'},{'default': 'Wild'},1,W,29,3,0.896552,0,MIN,0,63:36,8479394,Carter,Hart
-2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},1,L,39,4,0.897436,0,PIT,0,59:50,8479394,Carter,Hart
-2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},1,W,24,2,0.916667,0,CGY,0,60:00,8479394,Carter,Hart
-2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},1,L,36,5,0.861111,0,EDM,0,60:00,8479394,Carter,Hart
-2023020663,PHI,R,2024-01-13,0,0,{'default': 'Flyers'},{'default': 'Jets'},1,W,35,0,1.0,1,WPG,0,59:55,8481035,Samuel,Ersson
-2023020635,PHI,H,2024-01-10,0,0,{'default': 'Flyers'},{'default': 'Canadiens'},1,W,19,2,0.894737,0,MTL,0,65:00,8481035,Samuel,Ersson
-2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},1,O,28,2,0.928571,0,CBJ,0,64:52,8481035,Samuel,Ersson
-2023020662,TOR,H,2024-01-13,0,0,{'default': 'Maple Leafs'},{'default': 'Avalanche'},1,L,32,4,0.875,0,COL,0,58:27,8474889,Martin,Jones
-2023020646,TOR,R,2024-01-11,0,0,{'default': 'Maple Leafs'},{'default': 'Islanders'},1,O,30,4,0.866667,0,NYI,0,60:21,8474889,Martin,Jones
-2023020627,TOR,H,2024-01-09,0,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},1,W,23,1,0.956522,0,SJS,0,60:00,8474889,Martin,Jones
-2023020613,TOR,R,2024-01-06,0,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},1,W,24,1,0.958333,0,SJS,0,59:56,8474889,Martin,Jones
-2023020588,TOR,R,2024-01-03,0,0,{'default': 'Maple Leafs'},{'default': 'Ducks'},1,W,28,1,0.964286,0,ANA,0,61:30,8474889,Martin,Jones
-2023020585,TOR,R,2024-01-02,0,0,{'default': 'Maple Leafs'},{'default': 'Kings'},1,W,31,0,1.0,1,LAK,0,60:00,8474889,Martin,Jones
-2023020670,TOR,H,2024-01-14,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},1,L,23,3,0.869565,0,DET,0,59:13,8478492,Ilya,Samsonov
-2023020666,NSH,H,2024-01-13,0,0,{'default': 'Predators'},{'default': 'Islanders'},1,W,25,1,0.96,0,NYI,0,59:53,8477424,Juuse,Saros
-2023020629,NSH,H,2024-01-09,0,0,{'default': 'Predators'},{'default': 'Ducks'},1,L,33,5,0.848485,0,ANA,0,57:20,8477424,Juuse,Saros
-2023020595,NSH,H,2024-01-04,0,0,{'default': 'Predators'},{'default': 'Flames'},1,L,25,5,0.8,0,CGY,0,40:00,8477424,Juuse,Saros
-2023020579,NSH,H,2024-01-02,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},1,W,21,0,1.0,1,CHI,0,59:55,8477424,Juuse,Saros
-2023020651,NSH,R,2024-01-12,0,0,{'default': 'Predators'},{'default': 'Stars'},1,W,22,3,0.863636,0,DAL,0,60:00,8480947,Kevin,Lankinen
-2023020614,NSH,R,2024-01-06,0,0,{'default': 'Predators'},{'default': 'Stars'},1,W,29,3,0.896552,0,DAL,0,60:00,8480947,Kevin,Lankinen
-2023020670,DET,R,2024-01-14,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},1,W,30,2,0.933333,0,TOR,0,59:32,8473503,James,Reimer
-2023020659,DET,H,2024-01-13,0,0,{'default': 'Red Wings'},{'default': 'Kings'},1,W,36,3,0.916667,0,LAK,0,59:53,8479312,Alex,Lyon
-2023020640,DET,H,2024-01-11,0,0,{'default': 'Red Wings'},{'default': 'Oilers'},1,O,47,3,0.93617,0,EDM,0,61:20,8479312,Alex,Lyon
-2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},1,W,31,2,0.935484,0,ANA,0,60:00,8479312,Alex,Lyon
-2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},1,W,43,3,0.930233,0,LAK,0,65:00,8479312,Alex,Lyon
-2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},1,W,27,3,0.888889,0,SJS,0,60:00,8479312,Alex,Lyon
-2023020661,TBL,H,2024-01-13,0,0,{'default': 'Lightning'},{'default': 'Ducks'},1,W,20,1,0.95,0,ANA,0,60:00,8476883,Andrei,Vasilevskiy
-2023020644,TBL,H,2024-01-11,0,1,{'default': 'Lightning'},{'default': 'Devils'},1,W,30,3,0.9,0,NJD,0,61:29,8476883,Andrei,Vasilevskiy
-2023020626,TBL,H,2024-01-09,0,0,{'default': 'Lightning'},{'default': 'Kings'},1,W,22,2,0.909091,0,LAK,0,62:03,8476883,Andrei,Vasilevskiy
-2023020607,TBL,R,2024-01-06,0,0,{'default': 'Lightning'},{'default': 'Bruins'},1,L,25,6,0.76,0,BOS,0,58:26,8476883,Andrei,Vasilevskiy
-2023020594,TBL,R,2024-01-04,0,0,{'default': 'Lightning'},{'default': 'Wild'},1,W,23,1,0.956522,0,MIN,0,59:44,8476883,Andrei,Vasilevskiy
-2023020580,TBL,R,2024-01-02,0,0,{'default': 'Lightning'},{'default': 'Jets'},1,L,27,3,0.888889,0,WPG,2,58:53,8476883,Andrei,Vasilevskiy
-2023020659,LAK,R,2024-01-13,0,0,{'default': 'Kings'},{'default': 'Red Wings'},1,L,27,5,0.814815,0,DET,0,39:54,8475660,Cam,Talbot
-2023020641,LAK,R,2024-01-11,0,0,{'default': 'Kings'},{'default': 'Panthers'},1,O,41,3,0.926829,0,FLA,0,64:59,8475660,Cam,Talbot
-2023020626,LAK,R,2024-01-09,0,0,{'default': 'Kings'},{'default': 'Lightning'},1,O,29,3,0.896552,0,TBL,0,62:03,8475660,Cam,Talbot
-2023020618,LAK,R,2024-01-07,0,0,{'default': 'Kings'},{'default': 'Capitals'},1,L,34,4,0.882353,0,WSH,0,59:13,8475660,Cam,Talbot
-2023020585,LAK,H,2024-01-02,0,0,{'default': 'Kings'},{'default': 'Maple Leafs'},1,L,28,2,0.928571,0,TOR,0,57:41,8475660,Cam,Talbot
-2023020600,LAK,H,2024-01-04,0,0,{'default': 'Kings'},{'default': 'Red Wings'},1,O,27,3,0.888889,0,DET,0,65:00,8479496,David,Rittich
-2023020582,NYI,R,2024-01-02,0,0,{'default': 'Islanders'},{'default': 'Avalanche'},1,,12,1,0.916667,0,COL,0,14:52,8473575,Semyon,Varlamov
-2023020666,NYI,R,2024-01-13,0,0,{'default': 'Islanders'},{'default': 'Predators'},1,L,27,2,0.925926,0,NSH,0,59:53,8478009,Ilya,Sorokin
-2023020646,NYI,H,2024-01-11,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},1,W,35,3,0.914286,0,TOR,0,60:21,8478009,Ilya,Sorokin
-2023020628,NYI,H,2024-01-09,0,0,{'default': 'Islanders'},{'default': 'Canucks'},1,L,33,4,0.878788,0,VAN,0,59:50,8478009,Ilya,Sorokin
-2023020616,NYI,R,2024-01-06,0,0,{'default': 'Islanders'},{'default': 'Golden Knights'},1,L,30,5,0.833333,0,VGK,0,60:00,8478009,Ilya,Sorokin
-2023020597,NYI,R,2024-01-04,0,0,{'default': 'Islanders'},{'default': 'Coyotes'},1,W,27,1,0.962963,0,ARI,0,60:00,8478009,Ilya,Sorokin
-2023020640,EDM,R,2024-01-11,0,0,{'default': 'Oilers'},{'default': 'Red Wings'},1,W,17,2,0.882353,0,DET,0,61:20,8475717,Calvin,Pickard
-2023020660,EDM,R,2024-01-13,0,0,{'default': 'Oilers'},{'default': 'Canadiens'},1,W,24,1,0.958333,0,MTL,0,61:32,8479973,Stuart,Skinner
-2023020632,EDM,R,2024-01-09,0,0,{'default': 'Oilers'},{'default': 'Blackhawks'},1,W,26,1,0.961538,0,CHI,0,60:00,8479973,Stuart,Skinner
-2023020615,EDM,H,2024-01-06,0,0,{'default': 'Oilers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,30,1,0.966667,0,OTT,0,60:00,8479973,Stuart,Skinner
-2023020583,EDM,H,2024-01-02,0,0,{'default': 'Oilers'},{'default': 'Flyers'},1,W,37,2,0.945946,0,PHI,0,59:07,8479973,Stuart,Skinner
-2023020644,NJD,R,2024-01-11,0,0,{'default': 'Devils'},{'default': 'Lightning'},1,O,20,4,0.8,0,TBL,0,61:52,8477970,Vitek,Vanecek
-2023020602,NJD,H,2024-01-05,0,0,{'default': 'Devils'},{'default': 'Blackhawks'},1,W,25,2,0.92,0,CHI,0,59:51,8477970,Vitek,Vanecek
-2023020656,NJD,R,2024-01-13,0,0,{'default': 'Devils'},{'default': 'Panthers'},1,W,37,1,0.972973,0,FLA,0,60:00,8482076,Nico,Daws
-2023020611,NJD,H,2024-01-06,0,0,{'default': 'Devils'},{'default': 'Canucks'},1,L,42,5,0.880952,0,VAN,0,58:47,8482076,Nico,Daws
-2023020587,NJD,R,2024-01-03,0,1,{'default': 'Devils'},{'default': 'Capitals'},1,W,26,3,0.884615,0,WSH,0,59:21,8482076,Nico,Daws
-2023020658,SEA,R,2024-01-13,0,0,{'default': 'Kraken'},{'default': 'Blue Jackets'},1,W,34,4,0.882353,0,CBJ,0,60:00,8478916,Joey,Daccord
-2023020645,SEA,R,2024-01-11,0,0,{'default': 'Kraken'},{'default': 'Capitals'},1,W,26,1,0.961538,0,WSH,0,60:00,8478916,Joey,Daccord
-2023020625,SEA,R,2024-01-09,0,0,{'default': 'Kraken'},{'default': 'Sabres'},1,W,38,2,0.947368,0,BUF,0,59:50,8478916,Joey,Daccord
-2023020598,SEA,H,2024-01-04,0,0,{'default': 'Kraken'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,33,1,0.969697,0,OTT,0,60:00,8478916,Joey,Daccord
-2023020573,SEA,H,2024-01-01,0,0,{'default': 'Kraken'},{'default': 'Golden Knights'},1,W,35,0,1.0,1,VGK,0,60:00,8478916,Joey,Daccord
-2023020657,PIT,R,2024-01-13,0,0,{'default': 'Penguins'},{'default': 'Hurricanes'},1,O,35,3,0.914286,0,CAR,0,60:50,8477465,Tristan,Jarry
-2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},1,L,32,3,0.90625,0,BUF,0,58:18,8477465,Tristan,Jarry
-2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},1,,7,3,0.571429,0,WSH,0,13:02,8477465,Tristan,Jarry
-2023020643,PIT,H,2024-01-11,0,0,{'default': 'Penguins'},{'default': 'Canucks'},1,,9,3,0.666667,0,VAN,0,20:00,8477968,Alex,Nedeljkovic
-2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},1,W,37,1,0.972973,0,PHI,0,60:00,8477968,Alex,Nedeljkovic
-2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},1,W,29,5,0.827586,0,BOS,0,60:00,8477968,Alex,Nedeljkovic
-2023020645,WSH,H,2024-01-11,0,0,{'default': 'Capitals'},{'default': 'Kraken'},1,L,23,4,0.826087,0,SEA,0,60:00,8475311,Darcy,Kuemper
-2023020618,WSH,H,2024-01-07,0,0,{'default': 'Capitals'},{'default': 'Kings'},1,W,41,3,0.926829,0,LAK,0,60:00,8475311,Darcy,Kuemper
-2023020603,WSH,H,2024-01-05,0,0,{'default': 'Capitals'},{'default': 'Hurricanes'},1,L,33,5,0.848485,0,CAR,0,59:01,8475311,Darcy,Kuemper
-2023020576,WSH,R,2024-01-02,0,0,{'default': 'Capitals'},{'default': 'Penguins'},1,W,35,3,0.914286,0,PIT,0,60:00,8475311,Darcy,Kuemper
-2023020669,WSH,R,2024-01-14,0,0,{'default': 'Capitals'},{'default': 'Rangers'},1,L,31,2,0.935484,0,NYR,0,58:29,8479292,Charlie,Lindgren
-2023020653,WSH,H,2024-01-13,0,0,{'default': 'Capitals'},{'default': 'Rangers'},1,W,27,2,0.925926,0,NYR,0,59:57,8479292,Charlie,Lindgren
-2023020668,CGY,R,2024-01-13,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},1,W,32,1,0.96875,0,VGK,0,60:00,8474593,Jacob,Markstrom
-2023020649,CGY,R,2024-01-11,0,0,{'default': 'Flames'},{'default': 'Coyotes'},1,W,34,2,0.941176,0,ARI,0,60:00,8474593,Jacob,Markstrom
-2023020634,CGY,H,2024-01-09,0,0,{'default': 'Flames'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,33,3,0.909091,0,OTT,0,60:00,8474593,Jacob,Markstrom
-2023020605,CGY,R,2024-01-06,0,0,{'default': 'Flames'},{'default': 'Flyers'},1,L,42,3,0.928571,0,PHI,0,57:42,8474593,Jacob,Markstrom
-2023020578,CGY,R,2024-01-02,0,0,{'default': 'Flames'},{'default': 'Wild'},1,W,29,1,0.965517,0,MIN,0,59:26,8474593,Jacob,Markstrom
-2023020617,CGY,R,2024-01-07,0,0,{'default': 'Flames'},{'default': 'Blackhawks'},1,L,20,4,0.8,0,CHI,0,57:45,8478435,Dan,Vladar
-2023020595,CGY,R,2024-01-04,0,0,{'default': 'Flames'},{'default': 'Predators'},1,W,32,3,0.90625,0,NSH,0,60:00,8478435,Dan,Vladar
-2023020667,STL,H,2024-01-13,0,0,{'default': 'Blues'},{'default': 'Bruins'},1,O,35,4,0.885714,0,BOS,0,61:10,8476412,Jordan,Binnington
-2023020647,STL,H,2024-01-11,0,0,{'default': 'Blues'},{'default': 'Rangers'},1,W,42,2,0.952381,0,NYR,0,59:46,8476412,Jordan,Binnington
-2023020608,STL,R,2024-01-06,0,0,{'default': 'Blues'},{'default': 'Hurricanes'},1,W,30,1,0.966667,0,CAR,0,64:58,8476412,Jordan,Binnington
-2023020596,STL,H,2024-01-04,0,0,{'default': 'Blues'},{'default': 'Canucks'},1,W,26,1,0.961538,0,VAN,0,60:00,8476412,Jordan,Binnington
-2023020630,STL,H,2024-01-09,0,0,{'default': 'Blues'},{'default': 'Panthers'},1,L,30,4,0.866667,0,FLA,0,57:21,8480981,Joel,Hofer
-2023020649,ARI,H,2024-01-11,0,0,{'default': 'Coyotes'},{'default': 'Flames'},1,L,12,4,0.666667,0,CGY,0,13:58,8478872,Karel,Vejmelka
-2023020619,ARI,H,2024-01-07,0,0,{'default': 'Coyotes'},{'default': 'Jets'},1,L,35,5,0.885714,0,WPG,0,59:29,8478872,Karel,Vejmelka
-2023020581,ARI,H,2024-01-02,0,0,{'default': 'Coyotes'},{'default': 'Panthers'},1,L,37,3,0.945946,0,FLA,0,59:14,8478872,Karel,Vejmelka
-2023020665,ARI,R,2024-01-13,0,0,{'default': 'Coyotes'},{'default': 'Wild'},1,W,38,0,1.0,1,MIN,0,59:39,8478971,Connor,Ingram
-2023020633,ARI,H,2024-01-09,0,0,{'default': 'Coyotes'},{'default': 'Bruins'},1,W,33,3,0.909091,0,BOS,0,64:04,8478971,Connor,Ingram
-2023020597,ARI,H,2024-01-04,0,0,{'default': 'Coyotes'},{'default': 'Islanders'},1,L,31,5,0.83871,0,NYI,0,59:47,8478971,Connor,Ingram
-2023020590,MTL,H,2024-01-04,0,0,{'default': 'Canadiens'},{'default': 'Sabres'},1,L,37,5,0.864865,0,BUF,0,59:26,8474596,Jake,Allen
-2023020660,MTL,H,2024-01-13,0,0,{'default': 'Canadiens'},{'default': 'Oilers'},1,O,41,2,0.95122,0,EDM,0,62:01,8478470,Sam,Montembeault
-2023020642,MTL,H,2024-01-11,0,0,{'default': 'Canadiens'},{'default': 'Sharks'},1,L,35,3,0.914286,0,SJS,0,55:47,8478470,Sam,Montembeault
-2023020610,MTL,H,2024-01-06,0,0,{'default': 'Canadiens'},{'default': 'Rangers'},1,W,48,3,0.9375,0,NYR,0,65:00,8478470,Sam,Montembeault
-2023020577,MTL,R,2024-01-02,0,0,{'default': 'Canadiens'},{'default': 'Stars'},1,W,33,3,0.909091,0,DAL,0,60:00,8478470,Sam,Montembeault
-2023020635,MTL,R,2024-01-10,0,0,{'default': 'Canadiens'},{'default': 'Flyers'},1,O,39,2,0.948718,0,PHI,0,65:00,8480051,Cayden,Primeau
-2023020654,BUF,H,2024-01-13,0,0,{'default': 'Sabres'},{'default': 'Canucks'},1,L,23,1,0.956522,0,VAN,0,58:05,8480045,Ukko-Pekka,Luukkonen
-2023020638,BUF,H,2024-01-11,0,0,{'default': 'Sabres'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,28,3,0.892857,0,OTT,0,60:00,8480045,Ukko-Pekka,Luukkonen
-2023020612,BUF,R,2024-01-06,0,0,{'default': 'Sabres'},{'default': 'Penguins'},1,W,41,1,0.97561,0,PIT,0,60:00,8480045,Ukko-Pekka,Luukkonen
-2023020625,BUF,H,2024-01-09,0,0,{'default': 'Sabres'},{'default': 'Kraken'},1,L,26,5,0.807692,0,SEA,0,60:00,8482221,Devon,Levi
-2023020590,BUF,R,2024-01-04,0,0,{'default': 'Sabres'},{'default': 'Canadiens'},1,W,33,1,0.969697,0,MTL,0,60:00,8482221,Devon,Levi
-2023020652,MIN,H,2024-01-12,0,0,{'default': 'Wild'},{'default': 'Flyers'},1,O,35,4,0.885714,0,PHI,0,63:36,8470594,Marc-Andre,Fleury
-2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},1,L,20,4,0.8,0,DAL,0,59:58,8470594,Marc-Andre,Fleury
-2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},1,W,29,3,0.896552,0,CBJ,0,63:01,8470594,Marc-Andre,Fleury
-2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},1,L,29,3,0.896552,0,TBL,0,58:27,8470594,Marc-Andre,Fleury
-2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},1,L,32,2,0.9375,0,CGY,0,59:33,8470594,Marc-Andre,Fleury
-2023020665,MIN,H,2024-01-13,0,0,{'default': 'Wild'},{'default': 'Coyotes'},1,L,18,5,0.722222,0,ARI,0,26:40,8479406,Filip,Gustavsson
-2023020574,CBJ,H,2024-01-02,0,0,{'default': 'Blue Jackets'},{'default': 'Bruins'},1,L,27,4,0.851852,0,BOS,0,60:00,8477484,Spencer,Martin
-2023020658,CBJ,H,2024-01-13,0,0,{'default': 'Blue Jackets'},{'default': 'Kraken'},1,L,35,6,0.828571,0,SEA,0,57:38,8480193,Daniil,Tarasov
-2023020631,CBJ,R,2024-01-09,0,0,{'default': 'Blue Jackets'},{'default': 'Jets'},1,L,23,5,0.782609,0,WPG,0,60:00,8480193,Daniil,Tarasov
-2023020609,CBJ,H,2024-01-06,0,0,{'default': 'Blue Jackets'},{'default': 'Wild'},1,O,36,4,0.888889,0,MIN,0,63:05,8480193,Daniil,Tarasov
-2023020592,CBJ,R,2024-01-04,0,0,{'default': 'Blue Jackets'},{'default': 'Flyers'},1,W,41,2,0.95122,0,PHI,0,65:00,8480193,Daniil,Tarasov
-2023020638,OTT,R,2024-01-11,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sabres'},1,,7,1,0.857143,0,BUF,0,15:56,8476341,Anton,Forsberg
-2023020615,OTT,R,2024-01-06,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Oilers'},1,L,46,3,0.934783,0,EDM,0,58:02,8476341,Anton,Forsberg
-2023020584,OTT,R,2024-01-02,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Canucks'},1,L,13,4,0.692308,0,VAN,0,16:58,8476341,Anton,Forsberg
-2023020655,OTT,H,2024-01-13,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sharks'},1,W,18,4,0.777778,0,SJS,0,60:00,8476914,Joonas,Korpisalo
-2023020634,OTT,R,2024-01-09,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Flames'},1,L,35,5,0.857143,0,CGY,0,59:44,8476914,Joonas,Korpisalo
-2023020598,OTT,R,2024-01-04,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Kraken'},1,L,27,3,0.888889,0,SEA,0,58:28,8476914,Joonas,Korpisalo
-2023020639,ANA,R,2024-01-11,0,0,{'default': 'Ducks'},{'default': 'Hurricanes'},1,L,25,5,0.8,0,CAR,0,40:00,8476434,John,Gibson
-2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},1,L,27,3,0.888889,0,WPG,0,56:34,8476434,John,Gibson
-2023020661,ANA,R,2024-01-13,0,0,{'default': 'Ducks'},{'default': 'Lightning'},1,L,41,5,0.878049,0,TBL,0,60:00,8480843,Lukas,Dostal
-2023020629,ANA,R,2024-01-09,0,0,{'default': 'Ducks'},{'default': 'Predators'},1,W,42,3,0.928571,0,NSH,0,59:33,8480843,Lukas,Dostal
-2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},1,L,28,3,0.892857,0,DET,0,59:06,8480843,Lukas,Dostal
-2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},1,O,57,2,0.964912,0,TOR,0,62:12,8480843,Lukas,Dostal
-2023020664,CHI,H,2024-01-13,0,0,{'default': 'Blackhawks'},{'default': 'Stars'},1,L,29,2,0.931034,0,DAL,0,58:11,8475852,Petr,Mrazek
-2023020648,CHI,R,2024-01-11,0,0,{'default': 'Blackhawks'},{'default': 'Jets'},1,L,28,2,0.928571,0,WPG,0,59:08,8475852,Petr,Mrazek
-2023020632,CHI,H,2024-01-09,0,0,{'default': 'Blackhawks'},{'default': 'Oilers'},1,L,15,2,0.866667,0,EDM,0,57:40,8475852,Petr,Mrazek
-2023020617,CHI,H,2024-01-07,0,0,{'default': 'Blackhawks'},{'default': 'Flames'},1,W,30,3,0.9,0,CGY,0,59:57,8475852,Petr,Mrazek
-2023020591,CHI,R,2024-01-04,0,0,{'default': 'Blackhawks'},{'default': 'Rangers'},1,L,32,4,0.875,0,NYR,0,60:00,8475852,Petr,Mrazek
-2023020602,CHI,R,2024-01-05,0,0,{'default': 'Blackhawks'},{'default': 'Devils'},1,L,31,3,0.903226,0,NJD,0,58:16,8482821,Arvid,Soderblom
-2023020579,CHI,R,2024-01-02,0,0,{'default': 'Blackhawks'},{'default': 'Predators'},1,L,35,2,0.942857,0,NSH,0,59:11,8482821,Arvid,Soderblom
-2023020627,SJS,R,2024-01-09,0,0,{'default': 'Sharks'},{'default': 'Maple Leafs'},1,L,20,4,0.8,0,TOR,0,22:06,8478039,Kaapo,Kahkonen
-2023020586,SJS,H,2024-01-02,0,0,{'default': 'Sharks'},{'default': 'Red Wings'},1,L,30,4,0.866667,0,DET,0,59:13,8478039,Kaapo,Kahkonen
-2023020655,SJS,R,2024-01-13,0,0,{'default': 'Sharks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,L,41,5,0.878049,0,OTT,0,59:55,8478406,Mackenzie,Blackwood
-2023020642,SJS,R,2024-01-11,0,0,{'default': 'Sharks'},{'default': 'Canadiens'},1,W,35,2,0.942857,0,MTL,0,60:00,8478406,Mackenzie,Blackwood
-2023020613,SJS,H,2024-01-06,0,0,{'default': 'Sharks'},{'default': 'Maple Leafs'},1,L,32,4,0.875,0,TOR,0,60:00,8478406,Mackenzie,Blackwood
-2023020601,SJS,H,2024-01-04,0,0,{'default': 'Sharks'},{'default': 'Jets'},1,L,30,2,0.933333,0,WPG,0,58:00,8478406,Mackenzie,Blackwood
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,gamesStarted,decision,shotsAgainst,goalsAgainst,savePctg,shutouts,pim,toi,opponentAbbrev,playerId,firstName,lastName
+2023020700,VAN,H,2024-01-18,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},1,W,21,1,0.952381,0,0,60:00,ARI,8477967,Thatcher,Demko
+2023020654,VAN,R,2024-01-13,0,0,{'default': 'Canucks'},{'default': 'Sabres'},1,W,26,0,1.0,1,0,60:00,BUF,8477967,Thatcher,Demko
+2023020643,VAN,R,2024-01-11,0,0,{'default': 'Canucks'},{'default': 'Penguins'},1,W,35,3,0.914286,0,0,62:56,PIT,8477967,Thatcher,Demko
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},1,W,42,3,0.928571,0,0,60:00,NYR,8477967,Thatcher,Demko
+2023020611,VAN,R,2024-01-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},1,W,25,4,0.84,0,0,60:00,NJD,8477967,Thatcher,Demko
+2023020596,VAN,R,2024-01-04,0,0,{'default': 'Canucks'},{'default': 'Blues'},1,L,32,2,0.9375,0,0,56:43,STL,8477967,Thatcher,Demko
+2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,38,3,0.921053,0,0,60:00,OTT,8477967,Thatcher,Demko
+2023020673,VAN,R,2024-01-15,0,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},1,O,43,3,0.930233,0,0,65:00,CBJ,8479193,Casey,DeSmith
+2023020628,VAN,R,2024-01-09,0,0,{'default': 'Canucks'},{'default': 'Islanders'},1,W,20,2,0.9,0,0,59:35,NYI,8479193,Casey,DeSmith
+2023020633,BOS,R,2024-01-09,0,0,{'default': 'Bruins'},{'default': 'Coyotes'},1,,35,3,0.914286,0,0,62:06,ARI,8476999,Linus,Ullmark
+2023020607,BOS,H,2024-01-06,0,0,{'default': 'Bruins'},{'default': 'Lightning'},1,W,26,3,0.884615,0,0,60:00,TBL,8476999,Linus,Ullmark
+2023020574,BOS,R,2024-01-02,0,0,{'default': 'Bruins'},{'default': 'Blue Jackets'},1,W,27,1,0.962963,0,0,59:53,CBJ,8476999,Linus,Ullmark
+2023020692,BOS,H,2024-01-18,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},1,W,32,2,0.9375,0,0,59:58,COL,8480280,Jeremy,Swayman
+2023020671,BOS,H,2024-01-15,0,0,{'default': 'Bruins'},{'default': 'Devils'},1,W,31,0,1.0,1,0,59:53,NJD,8480280,Jeremy,Swayman
+2023020667,BOS,R,2024-01-13,0,0,{'default': 'Bruins'},{'default': 'Blues'},1,W,23,3,0.869565,0,0,61:10,STL,8480280,Jeremy,Swayman
+2023020650,BOS,R,2024-01-11,0,0,{'default': 'Bruins'},{'default': 'Golden Knights'},1,O,25,2,0.92,0,0,60:46,VGK,8480280,Jeremy,Swayman
+2023020624,BOS,R,2024-01-08,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},1,O,36,3,0.916667,0,0,65:00,COL,8480280,Jeremy,Swayman
+2023020589,BOS,H,2024-01-04,0,0,{'default': 'Bruins'},{'default': 'Penguins'},1,L,35,6,0.828571,0,0,57:19,PIT,8480280,Jeremy,Swayman
+2023020648,WPG,H,2024-01-11,0,0,{'default': 'Jets'},{'default': 'Blackhawks'},1,W,21,1,0.952381,0,0,59:12,CHI,8476316,Laurent,Brossoit
+2023020604,WPG,R,2024-01-05,0,0,{'default': 'Jets'},{'default': 'Ducks'},1,W,38,1,0.973684,0,0,60:00,ANA,8476316,Laurent,Brossoit
+2023020685,WPG,H,2024-01-16,0,0,{'default': 'Jets'},{'default': 'Islanders'},1,W,37,2,0.945946,0,0,59:54,NYI,8476945,Connor,Hellebuyck
+2023020663,WPG,H,2024-01-13,0,0,{'default': 'Jets'},{'default': 'Flyers'},1,L,36,2,0.944444,0,0,57:24,PHI,8476945,Connor,Hellebuyck
+2023020631,WPG,H,2024-01-09,0,0,{'default': 'Jets'},{'default': 'Blue Jackets'},1,W,29,0,1.0,1,0,60:00,CBJ,8476945,Connor,Hellebuyck
+2023020619,WPG,R,2024-01-07,0,0,{'default': 'Jets'},{'default': 'Coyotes'},1,W,17,2,0.882353,0,0,59:11,ARI,8476945,Connor,Hellebuyck
+2023020601,WPG,R,2024-01-04,0,0,{'default': 'Jets'},{'default': 'Sharks'},1,W,28,1,0.964286,0,0,59:48,SJS,8476945,Connor,Hellebuyck
+2023020580,WPG,H,2024-01-02,0,0,{'default': 'Jets'},{'default': 'Lightning'},1,W,34,2,0.941176,0,2,59:42,TBL,8476945,Connor,Hellebuyck
+2023020692,COL,R,2024-01-18,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},1,L,30,4,0.866667,0,0,58:37,BOS,8480382,Alexandar,Georgiev
+2023020678,COL,R,2024-01-15,0,0,{'default': 'Avalanche'},{'default': 'Canadiens'},1,L,34,4,0.882353,0,0,58:08,MTL,8480382,Alexandar,Georgiev
+2023020662,COL,R,2024-01-13,0,0,{'default': 'Avalanche'},{'default': 'Maple Leafs'},1,W,29,3,0.896552,0,0,59:34,TOR,8480382,Alexandar,Georgiev
+2023020637,COL,H,2024-01-10,0,0,{'default': 'Avalanche'},{'default': 'Golden Knights'},1,W,25,0,1.0,1,0,60:00,VGK,8480382,Alexandar,Georgiev
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},1,W,26,3,0.884615,0,0,65:00,BOS,8480382,Alexandar,Georgiev
+2023020593,COL,R,2024-01-04,0,0,{'default': 'Avalanche'},{'default': 'Stars'},1,W,32,4,0.875,0,0,62:17,DAL,8480382,Alexandar,Georgiev
+2023020582,COL,H,2024-01-02,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},1,W,22,4,0.818182,0,0,60:28,NYI,8480382,Alexandar,Georgiev
+2023020682,COL,R,2024-01-16,0,0,{'default': 'Avalanche'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,40,4,0.9,0,0,60:00,OTT,8481020,Justus,Annunen
+2023020606,COL,H,2024-01-06,0,0,{'default': 'Avalanche'},{'default': 'Panthers'},1,,13,4,0.692308,0,0,28:50,FLA,8481031,Ivan,Prosvetov
+2023020689,FLA,H,2024-01-17,0,0,{'default': 'Panthers'},{'default': 'Red Wings'},1,O,29,3,0.896552,0,0,60:55,DET,8475683,Sergei,Bobrovsky
+2023020656,FLA,H,2024-01-13,0,0,{'default': 'Panthers'},{'default': 'Devils'},1,L,21,3,0.857143,0,0,57:12,NJD,8475683,Sergei,Bobrovsky
+2023020641,FLA,H,2024-01-11,0,1,{'default': 'Panthers'},{'default': 'Kings'},1,W,33,2,0.939394,0,0,64:46,LAK,8475683,Sergei,Bobrovsky
+2023020606,FLA,R,2024-01-06,0,0,{'default': 'Panthers'},{'default': 'Avalanche'},1,W,26,4,0.846154,0,0,59:42,COL,8475683,Sergei,Bobrovsky
+2023020599,FLA,R,2024-01-04,0,0,{'default': 'Panthers'},{'default': 'Golden Knights'},1,W,27,1,0.962963,0,0,59:57,VGK,8475683,Sergei,Bobrovsky
+2023020581,FLA,R,2024-01-02,0,0,{'default': 'Panthers'},{'default': 'Coyotes'},1,W,22,1,0.954545,0,0,59:54,ARI,8475683,Sergei,Bobrovsky
+2023020674,FLA,H,2024-01-15,0,0,{'default': 'Panthers'},{'default': 'Ducks'},1,O,26,5,0.807692,0,0,60:48,ANA,8476932,Anthony,Stolarz
+2023020630,FLA,R,2024-01-09,0,0,{'default': 'Panthers'},{'default': 'Blues'},1,W,30,1,0.966667,0,0,60:00,STL,8476932,Anthony,Stolarz
+2023020653,NYR,R,2024-01-13,0,0,{'default': 'Rangers'},{'default': 'Capitals'},1,L,21,3,0.857143,0,0,57:38,WSH,8471734,Jonathan,Quick
+2023020610,NYR,R,2024-01-06,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},1,O,30,3,0.9,0,0,65:00,MTL,8471734,Jonathan,Quick
+2023020701,NYR,R,2024-01-18,0,0,{'default': 'Rangers'},{'default': 'Golden Knights'},1,L,25,4,0.84,0,0,57:32,VGK,8478048,Igor,Shesterkin
+2023020681,NYR,H,2024-01-16,0,0,{'default': 'Rangers'},{'default': 'Kraken'},1,W,31,2,0.935484,0,0,60:00,SEA,8478048,Igor,Shesterkin
+2023020669,NYR,H,2024-01-14,0,0,{'default': 'Rangers'},{'default': 'Capitals'},1,W,25,1,0.96,0,0,60:00,WSH,8478048,Igor,Shesterkin
+2023020647,NYR,R,2024-01-11,0,0,{'default': 'Rangers'},{'default': 'Blues'},1,L,19,4,0.789474,0,0,57:29,STL,8478048,Igor,Shesterkin
+2023020621,NYR,H,2024-01-08,0,0,{'default': 'Rangers'},{'default': 'Canucks'},1,L,25,5,0.8,0,0,59:15,VAN,8478048,Igor,Shesterkin
+2023020591,NYR,H,2024-01-04,0,0,{'default': 'Rangers'},{'default': 'Blackhawks'},1,W,23,1,0.956522,0,0,60:00,CHI,8478048,Igor,Shesterkin
+2023020575,NYR,H,2024-01-02,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},1,L,27,6,0.777778,0,0,60:00,CAR,8478048,Igor,Shesterkin
+2023020664,DAL,R,2024-01-13,0,0,{'default': 'Stars'},{'default': 'Blackhawks'},1,,14,0,1.0,0,0,28:49,CHI,8475809,Scott,Wedgewood
+2023020636,DAL,H,2024-01-10,0,0,{'default': 'Stars'},{'default': 'Wild'},1,W,23,2,0.913043,0,0,58:33,MIN,8475809,Scott,Wedgewood
+2023020614,DAL,H,2024-01-06,0,0,{'default': 'Stars'},{'default': 'Predators'},1,L,22,4,0.818182,0,0,58:01,NSH,8475809,Scott,Wedgewood
+2023020593,DAL,H,2024-01-04,0,0,{'default': 'Stars'},{'default': 'Avalanche'},1,O,34,5,0.852941,0,0,63:40,COL,8475809,Scott,Wedgewood
+2023020577,DAL,H,2024-01-02,0,0,{'default': 'Stars'},{'default': 'Canadiens'},1,L,18,4,0.777778,0,0,53:58,MTL,8475809,Scott,Wedgewood
+2023020694,DAL,R,2024-01-18,0,0,{'default': 'Stars'},{'default': 'Flyers'},1,L,43,5,0.883721,0,0,60:00,PHI,8479979,Jake,Oettinger
+2023020684,DAL,H,2024-01-16,0,0,{'default': 'Stars'},{'default': 'Kings'},1,W,32,1,0.96875,0,0,60:00,LAK,8479979,Jake,Oettinger
+2023020651,DAL,H,2024-01-12,0,0,{'default': 'Stars'},{'default': 'Predators'},1,L,36,4,0.888889,0,0,58:26,NSH,8479979,Jake,Oettinger
+2023020637,VGK,R,2024-01-10,0,0,{'default': 'Golden Knights'},{'default': 'Avalanche'},1,L,35,3,0.914286,0,0,60:00,COL,8480238,Jiri,Patera
+2023020701,VGK,H,2024-01-18,0,0,{'default': 'Golden Knights'},{'default': 'Rangers'},1,W,30,1,0.966667,0,0,59:55,NYR,8480313,Logan,Thompson
+2023020680,VGK,H,2024-01-15,0,0,{'default': 'Golden Knights'},{'default': 'Predators'},1,W,35,1,0.971429,0,0,59:54,NSH,8480313,Logan,Thompson
+2023020668,VGK,H,2024-01-13,0,0,{'default': 'Golden Knights'},{'default': 'Flames'},1,L,26,3,0.884615,0,0,57:59,CGY,8480313,Logan,Thompson
+2023020650,VGK,H,2024-01-11,0,0,{'default': 'Golden Knights'},{'default': 'Bruins'},1,W,33,1,0.969697,0,0,60:46,BOS,8480313,Logan,Thompson
+2023020616,VGK,H,2024-01-06,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},1,W,29,2,0.931034,0,0,60:00,NYI,8480313,Logan,Thompson
+2023020599,VGK,H,2024-01-04,0,0,{'default': 'Golden Knights'},{'default': 'Panthers'},1,L,36,4,0.888889,0,0,60:00,FLA,8480313,Logan,Thompson
+2023020573,VGK,R,2024-01-01,0,0,{'default': 'Golden Knights'},{'default': 'Kraken'},1,L,27,3,0.888889,0,0,57:00,SEA,8480313,Logan,Thompson
+2023020679,PHI,R,2024-01-15,0,0,{'default': 'Flyers'},{'default': 'Blues'},1,W,30,2,0.933333,0,0,59:56,STL,8479394,Carter,Hart
+2023020652,PHI,R,2024-01-12,0,0,{'default': 'Flyers'},{'default': 'Wild'},1,W,29,3,0.896552,0,0,63:36,MIN,8479394,Carter,Hart
+2023020622,PHI,H,2024-01-08,0,0,{'default': 'Flyers'},{'default': 'Penguins'},1,L,39,4,0.897436,0,0,59:50,PIT,8479394,Carter,Hart
+2023020605,PHI,H,2024-01-06,0,0,{'default': 'Flyers'},{'default': 'Flames'},1,W,24,2,0.916667,0,0,60:00,CGY,8479394,Carter,Hart
+2023020583,PHI,R,2024-01-02,0,0,{'default': 'Flyers'},{'default': 'Oilers'},1,L,36,5,0.861111,0,0,60:00,EDM,8479394,Carter,Hart
+2023020694,PHI,H,2024-01-18,0,0,{'default': 'Flyers'},{'default': 'Stars'},1,W,15,1,0.933333,0,0,60:00,DAL,8481035,Samuel,Ersson
+2023020663,PHI,R,2024-01-13,0,0,{'default': 'Flyers'},{'default': 'Jets'},1,W,35,0,1.0,1,0,59:55,WPG,8481035,Samuel,Ersson
+2023020635,PHI,H,2024-01-10,0,0,{'default': 'Flyers'},{'default': 'Canadiens'},1,W,19,2,0.894737,0,0,65:00,MTL,8481035,Samuel,Ersson
+2023020592,PHI,H,2024-01-04,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},1,O,28,2,0.928571,0,0,64:52,CBJ,8481035,Samuel,Ersson
+2023020675,CAR,H,2024-01-15,0,0,{'default': 'Hurricanes'},{'default': 'Kings'},1,L,24,4,0.833333,0,0,45:20,LAK,8477293,Antti,Raanta
+2023020657,CAR,H,2024-01-13,0,0,{'default': 'Hurricanes'},{'default': 'Penguins'},1,W,40,2,0.95,0,0,61:41,PIT,8477293,Antti,Raanta
+2023020608,CAR,H,2024-01-06,0,0,{'default': 'Hurricanes'},{'default': 'Blues'},1,O,22,1,0.954545,0,0,65:00,STL,8477293,Antti,Raanta
+2023020639,CAR,H,2024-01-11,0,0,{'default': 'Hurricanes'},{'default': 'Ducks'},1,,13,3,0.769231,0,2,33:56,ANA,8481611,Pyotr,Kochetkov
+2023020603,CAR,R,2024-01-05,0,0,{'default': 'Hurricanes'},{'default': 'Capitals'},1,W,17,2,0.882353,0,0,60:00,WSH,8481611,Pyotr,Kochetkov
+2023020575,CAR,R,2024-01-02,0,0,{'default': 'Hurricanes'},{'default': 'Rangers'},1,W,29,1,0.965517,0,0,60:00,NYR,8481611,Pyotr,Kochetkov
+2023020697,TOR,R,2024-01-18,0,0,{'default': 'Maple Leafs'},{'default': 'Flames'},1,W,26,3,0.884615,0,0,59:38,CGY,8474889,Martin,Jones
+2023020688,TOR,R,2024-01-16,0,0,{'default': 'Maple Leafs'},{'default': 'Oilers'},1,L,31,3,0.903226,0,0,58:17,EDM,8474889,Martin,Jones
+2023020662,TOR,H,2024-01-13,0,0,{'default': 'Maple Leafs'},{'default': 'Avalanche'},1,L,32,4,0.875,0,0,58:27,COL,8474889,Martin,Jones
+2023020646,TOR,R,2024-01-11,0,0,{'default': 'Maple Leafs'},{'default': 'Islanders'},1,O,30,4,0.866667,0,0,60:21,NYI,8474889,Martin,Jones
+2023020627,TOR,H,2024-01-09,0,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},1,W,23,1,0.956522,0,0,60:00,SJS,8474889,Martin,Jones
+2023020613,TOR,R,2024-01-06,0,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},1,W,24,1,0.958333,0,0,59:56,SJS,8474889,Martin,Jones
+2023020588,TOR,R,2024-01-03,0,0,{'default': 'Maple Leafs'},{'default': 'Ducks'},1,W,28,1,0.964286,0,0,61:30,ANA,8474889,Martin,Jones
+2023020585,TOR,R,2024-01-02,0,0,{'default': 'Maple Leafs'},{'default': 'Kings'},1,W,31,0,1.0,1,0,60:00,LAK,8474889,Martin,Jones
+2023020670,TOR,H,2024-01-14,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},1,L,23,3,0.869565,0,0,59:13,DET,8478492,Ilya,Samsonov
+2023020640,EDM,R,2024-01-11,0,0,{'default': 'Oilers'},{'default': 'Red Wings'},1,W,18,2,0.888889,0,0,61:20,DET,8475717,Calvin,Pickard
+2023020698,EDM,H,2024-01-18,0,0,{'default': 'Oilers'},{'default': 'Kraken'},1,W,27,2,0.925926,0,0,60:00,SEA,8479973,Stuart,Skinner
+2023020688,EDM,H,2024-01-16,0,0,{'default': 'Oilers'},{'default': 'Maple Leafs'},1,W,27,2,0.925926,0,0,59:42,TOR,8479973,Stuart,Skinner
+2023020660,EDM,R,2024-01-13,0,0,{'default': 'Oilers'},{'default': 'Canadiens'},1,W,24,1,0.958333,0,0,61:32,MTL,8479973,Stuart,Skinner
+2023020632,EDM,R,2024-01-09,0,0,{'default': 'Oilers'},{'default': 'Blackhawks'},1,W,26,1,0.961538,0,0,60:00,CHI,8479973,Stuart,Skinner
+2023020615,EDM,H,2024-01-06,0,0,{'default': 'Oilers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,30,1,0.966667,0,0,60:00,OTT,8479973,Stuart,Skinner
+2023020583,EDM,H,2024-01-02,0,0,{'default': 'Oilers'},{'default': 'Flyers'},1,W,37,2,0.945946,0,0,59:07,PHI,8479973,Stuart,Skinner
+2023020670,DET,R,2024-01-14,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},1,W,30,2,0.933333,0,0,59:32,TOR,8473503,James,Reimer
+2023020689,DET,R,2024-01-17,0,0,{'default': 'Red Wings'},{'default': 'Panthers'},1,W,34,2,0.941176,0,0,60:52,FLA,8479312,Alex,Lyon
+2023020659,DET,H,2024-01-13,0,0,{'default': 'Red Wings'},{'default': 'Kings'},1,W,36,3,0.916667,0,0,59:53,LAK,8479312,Alex,Lyon
+2023020640,DET,H,2024-01-11,0,0,{'default': 'Red Wings'},{'default': 'Oilers'},1,O,47,3,0.93617,0,0,61:20,EDM,8479312,Alex,Lyon
+2023020620,DET,R,2024-01-07,0,0,{'default': 'Red Wings'},{'default': 'Ducks'},1,W,31,2,0.935484,0,0,60:00,ANA,8479312,Alex,Lyon
+2023020600,DET,R,2024-01-04,0,0,{'default': 'Red Wings'},{'default': 'Kings'},1,W,43,3,0.930233,0,0,65:00,LAK,8479312,Alex,Lyon
+2023020586,DET,R,2024-01-02,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},1,W,27,3,0.888889,0,0,60:00,SJS,8479312,Alex,Lyon
+2023020699,NSH,R,2024-01-18,0,0,{'default': 'Predators'},{'default': 'Kings'},1,W,34,1,0.970588,0,0,59:52,LAK,8477424,Juuse,Saros
+2023020680,NSH,R,2024-01-15,0,0,{'default': 'Predators'},{'default': 'Golden Knights'},1,L,28,3,0.892857,0,0,56:52,VGK,8477424,Juuse,Saros
+2023020666,NSH,H,2024-01-13,0,0,{'default': 'Predators'},{'default': 'Islanders'},1,W,25,1,0.96,0,0,59:53,NYI,8477424,Juuse,Saros
+2023020629,NSH,H,2024-01-09,0,0,{'default': 'Predators'},{'default': 'Ducks'},1,L,33,5,0.848485,0,0,57:20,ANA,8477424,Juuse,Saros
+2023020595,NSH,H,2024-01-04,0,0,{'default': 'Predators'},{'default': 'Flames'},1,L,25,5,0.8,0,0,40:00,CGY,8477424,Juuse,Saros
+2023020579,NSH,H,2024-01-02,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},1,W,21,0,1.0,1,0,59:55,CHI,8477424,Juuse,Saros
+2023020651,NSH,R,2024-01-12,0,0,{'default': 'Predators'},{'default': 'Stars'},1,W,22,3,0.863636,0,0,60:00,DAL,8480947,Kevin,Lankinen
+2023020614,NSH,R,2024-01-06,0,0,{'default': 'Predators'},{'default': 'Stars'},1,W,29,3,0.896552,0,0,60:00,DAL,8480947,Kevin,Lankinen
+2023020695,TBL,H,2024-01-18,0,0,{'default': 'Lightning'},{'default': 'Wild'},1,W,33,3,0.909091,0,0,60:00,MIN,8476883,Andrei,Vasilevskiy
+2023020661,TBL,H,2024-01-13,0,0,{'default': 'Lightning'},{'default': 'Ducks'},1,W,20,1,0.95,0,0,60:00,ANA,8476883,Andrei,Vasilevskiy
+2023020644,TBL,H,2024-01-11,0,1,{'default': 'Lightning'},{'default': 'Devils'},1,W,30,3,0.9,0,0,61:29,NJD,8476883,Andrei,Vasilevskiy
+2023020626,TBL,H,2024-01-09,0,0,{'default': 'Lightning'},{'default': 'Kings'},1,W,22,2,0.909091,0,0,62:03,LAK,8476883,Andrei,Vasilevskiy
+2023020607,TBL,R,2024-01-06,0,0,{'default': 'Lightning'},{'default': 'Bruins'},1,L,25,6,0.76,0,0,58:26,BOS,8476883,Andrei,Vasilevskiy
+2023020594,TBL,R,2024-01-04,0,0,{'default': 'Lightning'},{'default': 'Wild'},1,W,23,1,0.956522,0,0,59:44,MIN,8476883,Andrei,Vasilevskiy
+2023020580,TBL,R,2024-01-02,0,0,{'default': 'Lightning'},{'default': 'Jets'},1,L,27,3,0.888889,0,2,58:53,WPG,8476883,Andrei,Vasilevskiy
+2023020684,LAK,R,2024-01-16,0,0,{'default': 'Kings'},{'default': 'Stars'},1,L,28,5,0.821429,0,0,59:51,DAL,8475660,Cam,Talbot
+2023020659,LAK,R,2024-01-13,0,0,{'default': 'Kings'},{'default': 'Red Wings'},1,L,27,5,0.814815,0,0,39:54,DET,8475660,Cam,Talbot
+2023020641,LAK,R,2024-01-11,0,0,{'default': 'Kings'},{'default': 'Panthers'},1,O,41,3,0.926829,0,0,64:59,FLA,8475660,Cam,Talbot
+2023020626,LAK,R,2024-01-09,0,0,{'default': 'Kings'},{'default': 'Lightning'},1,O,29,3,0.896552,0,0,62:03,TBL,8475660,Cam,Talbot
+2023020618,LAK,R,2024-01-07,0,0,{'default': 'Kings'},{'default': 'Capitals'},1,L,34,4,0.882353,0,0,59:13,WSH,8475660,Cam,Talbot
+2023020585,LAK,H,2024-01-02,0,0,{'default': 'Kings'},{'default': 'Maple Leafs'},1,L,28,2,0.928571,0,0,57:41,TOR,8475660,Cam,Talbot
+2023020699,LAK,H,2024-01-18,0,0,{'default': 'Kings'},{'default': 'Predators'},1,L,33,2,0.939394,0,0,57:33,NSH,8479496,David,Rittich
+2023020675,LAK,R,2024-01-15,0,0,{'default': 'Kings'},{'default': 'Hurricanes'},1,W,32,2,0.9375,0,0,60:00,CAR,8479496,David,Rittich
+2023020600,LAK,H,2024-01-04,0,0,{'default': 'Kings'},{'default': 'Red Wings'},1,O,27,3,0.888889,0,0,65:00,DET,8479496,David,Rittich
+2023020683,WSH,H,2024-01-16,0,0,{'default': 'Capitals'},{'default': 'Ducks'},1,W,24,0,1.0,1,0,60:00,ANA,8475311,Darcy,Kuemper
+2023020645,WSH,H,2024-01-11,0,0,{'default': 'Capitals'},{'default': 'Kraken'},1,L,23,4,0.826087,0,0,60:00,SEA,8475311,Darcy,Kuemper
+2023020618,WSH,H,2024-01-07,0,0,{'default': 'Capitals'},{'default': 'Kings'},1,W,41,3,0.926829,0,0,60:00,LAK,8475311,Darcy,Kuemper
+2023020603,WSH,H,2024-01-05,0,0,{'default': 'Capitals'},{'default': 'Hurricanes'},1,L,33,5,0.848485,0,0,59:01,CAR,8475311,Darcy,Kuemper
+2023020576,WSH,R,2024-01-02,0,0,{'default': 'Capitals'},{'default': 'Penguins'},1,W,35,3,0.914286,0,0,60:00,PIT,8475311,Darcy,Kuemper
+2023020696,WSH,H,2024-01-18,0,0,{'default': 'Capitals'},{'default': 'Blues'},1,W,20,2,0.9,0,0,60:00,STL,8479292,Charlie,Lindgren
+2023020669,WSH,R,2024-01-14,0,0,{'default': 'Capitals'},{'default': 'Rangers'},1,L,31,2,0.935484,0,0,58:29,NYR,8479292,Charlie,Lindgren
+2023020653,WSH,H,2024-01-13,0,0,{'default': 'Capitals'},{'default': 'Rangers'},1,W,27,2,0.925926,0,0,59:57,NYR,8479292,Charlie,Lindgren
+2023020677,PIT,H,2024-01-15,0,0,{'default': 'Penguins'},{'default': 'Kraken'},1,W,22,0,1.0,1,0,60:00,SEA,8477465,Tristan,Jarry
+2023020657,PIT,R,2024-01-13,0,0,{'default': 'Penguins'},{'default': 'Hurricanes'},1,O,35,3,0.914286,0,0,60:50,CAR,8477465,Tristan,Jarry
+2023020612,PIT,H,2024-01-06,0,0,{'default': 'Penguins'},{'default': 'Sabres'},1,L,32,3,0.90625,0,0,58:18,BUF,8477465,Tristan,Jarry
+2023020576,PIT,H,2024-01-02,0,0,{'default': 'Penguins'},{'default': 'Capitals'},1,,7,3,0.571429,0,0,13:02,WSH,8477465,Tristan,Jarry
+2023020643,PIT,H,2024-01-11,0,0,{'default': 'Penguins'},{'default': 'Canucks'},1,,9,3,0.666667,0,0,20:00,VAN,8477968,Alex,Nedeljkovic
+2023020622,PIT,R,2024-01-08,0,0,{'default': 'Penguins'},{'default': 'Flyers'},1,W,37,1,0.972973,0,0,60:00,PHI,8477968,Alex,Nedeljkovic
+2023020589,PIT,R,2024-01-04,0,0,{'default': 'Penguins'},{'default': 'Bruins'},1,W,29,5,0.827586,0,0,60:00,BOS,8477968,Alex,Nedeljkovic
+2023020582,NYI,R,2024-01-02,0,0,{'default': 'Islanders'},{'default': 'Avalanche'},1,,12,1,0.916667,0,0,14:52,COL,8473575,Semyon,Varlamov
+2023020685,NYI,R,2024-01-16,0,0,{'default': 'Islanders'},{'default': 'Jets'},1,L,43,3,0.930233,0,0,58:16,WPG,8478009,Ilya,Sorokin
+2023020676,NYI,R,2024-01-15,0,0,{'default': 'Islanders'},{'default': 'Wild'},1,L,32,3,0.90625,0,0,40:00,MIN,8478009,Ilya,Sorokin
+2023020666,NYI,R,2024-01-13,0,0,{'default': 'Islanders'},{'default': 'Predators'},1,L,27,2,0.925926,0,0,59:53,NSH,8478009,Ilya,Sorokin
+2023020646,NYI,H,2024-01-11,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},1,W,35,3,0.914286,0,0,60:21,TOR,8478009,Ilya,Sorokin
+2023020628,NYI,H,2024-01-09,0,0,{'default': 'Islanders'},{'default': 'Canucks'},1,L,33,4,0.878788,0,0,59:50,VAN,8478009,Ilya,Sorokin
+2023020616,NYI,R,2024-01-06,0,0,{'default': 'Islanders'},{'default': 'Golden Knights'},1,L,30,5,0.833333,0,0,60:00,VGK,8478009,Ilya,Sorokin
+2023020597,NYI,R,2024-01-04,0,0,{'default': 'Islanders'},{'default': 'Coyotes'},1,W,27,1,0.962963,0,0,60:00,ARI,8478009,Ilya,Sorokin
+2023020644,NJD,R,2024-01-11,0,0,{'default': 'Devils'},{'default': 'Lightning'},1,O,20,4,0.8,0,0,61:52,TBL,8477970,Vitek,Vanecek
+2023020602,NJD,H,2024-01-05,0,0,{'default': 'Devils'},{'default': 'Blackhawks'},1,W,25,2,0.92,0,0,59:51,CHI,8477970,Vitek,Vanecek
+2023020690,NJD,H,2024-01-17,0,0,{'default': 'Devils'},{'default': 'Canadiens'},1,L,25,3,0.88,0,0,58:14,MTL,8482076,Nico,Daws
+2023020671,NJD,R,2024-01-15,0,0,{'default': 'Devils'},{'default': 'Bruins'},1,L,35,2,0.942857,0,0,58:05,BOS,8482076,Nico,Daws
+2023020656,NJD,R,2024-01-13,0,0,{'default': 'Devils'},{'default': 'Panthers'},1,W,36,1,0.972222,0,0,60:00,FLA,8482076,Nico,Daws
+2023020611,NJD,H,2024-01-06,0,0,{'default': 'Devils'},{'default': 'Canucks'},1,L,42,5,0.880952,0,0,58:47,VAN,8482076,Nico,Daws
+2023020587,NJD,R,2024-01-03,0,1,{'default': 'Devils'},{'default': 'Capitals'},1,W,26,3,0.884615,0,0,59:21,WSH,8482076,Nico,Daws
+2023020668,CGY,R,2024-01-13,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},1,W,32,1,0.96875,0,0,60:00,VGK,8474593,Jacob,Markstrom
+2023020649,CGY,R,2024-01-11,0,0,{'default': 'Flames'},{'default': 'Coyotes'},1,W,34,2,0.941176,0,0,60:00,ARI,8474593,Jacob,Markstrom
+2023020634,CGY,H,2024-01-09,0,0,{'default': 'Flames'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,33,3,0.909091,0,0,60:00,OTT,8474593,Jacob,Markstrom
+2023020605,CGY,R,2024-01-06,0,0,{'default': 'Flames'},{'default': 'Flyers'},1,L,42,3,0.928571,0,0,57:42,PHI,8474593,Jacob,Markstrom
+2023020578,CGY,R,2024-01-02,0,0,{'default': 'Flames'},{'default': 'Wild'},1,W,29,1,0.965517,0,0,59:26,MIN,8474593,Jacob,Markstrom
+2023020697,CGY,H,2024-01-18,0,0,{'default': 'Flames'},{'default': 'Maple Leafs'},1,L,33,4,0.878788,0,0,58:27,TOR,8478435,Dan,Vladar
+2023020687,CGY,H,2024-01-16,0,0,{'default': 'Flames'},{'default': 'Coyotes'},1,W,25,2,0.92,0,0,64:43,ARI,8478435,Dan,Vladar
+2023020617,CGY,R,2024-01-07,0,0,{'default': 'Flames'},{'default': 'Blackhawks'},1,L,20,4,0.8,0,0,57:45,CHI,8478435,Dan,Vladar
+2023020595,CGY,R,2024-01-04,0,0,{'default': 'Flames'},{'default': 'Predators'},1,W,32,3,0.90625,0,0,60:00,NSH,8478435,Dan,Vladar
+2023020681,SEA,R,2024-01-16,0,0,{'default': 'Kraken'},{'default': 'Rangers'},1,L,22,4,0.818182,0,0,59:35,NYR,8476904,Chris,Driedger
+2023020698,SEA,R,2024-01-18,0,0,{'default': 'Kraken'},{'default': 'Oilers'},1,L,36,4,0.888889,0,0,59:27,EDM,8478916,Joey,Daccord
+2023020677,SEA,R,2024-01-15,0,0,{'default': 'Kraken'},{'default': 'Penguins'},1,L,32,2,0.9375,0,0,59:45,PIT,8478916,Joey,Daccord
+2023020658,SEA,R,2024-01-13,0,0,{'default': 'Kraken'},{'default': 'Blue Jackets'},1,W,34,4,0.882353,0,0,60:00,CBJ,8478916,Joey,Daccord
+2023020645,SEA,R,2024-01-11,0,0,{'default': 'Kraken'},{'default': 'Capitals'},1,W,26,1,0.961538,0,0,60:00,WSH,8478916,Joey,Daccord
+2023020625,SEA,R,2024-01-09,0,0,{'default': 'Kraken'},{'default': 'Sabres'},1,W,38,2,0.947368,0,0,59:50,BUF,8478916,Joey,Daccord
+2023020598,SEA,H,2024-01-04,0,0,{'default': 'Kraken'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,33,1,0.969697,0,0,60:00,OTT,8478916,Joey,Daccord
+2023020573,SEA,H,2024-01-01,0,0,{'default': 'Kraken'},{'default': 'Golden Knights'},1,W,35,0,1.0,1,0,60:00,VGK,8478916,Joey,Daccord
+2023020649,ARI,H,2024-01-11,0,0,{'default': 'Coyotes'},{'default': 'Flames'},1,L,12,4,0.666667,0,0,13:58,CGY,8478872,Karel,Vejmelka
+2023020619,ARI,H,2024-01-07,0,0,{'default': 'Coyotes'},{'default': 'Jets'},1,L,35,5,0.885714,0,0,59:29,WPG,8478872,Karel,Vejmelka
+2023020581,ARI,H,2024-01-02,0,0,{'default': 'Coyotes'},{'default': 'Panthers'},1,L,37,3,0.945946,0,0,59:14,FLA,8478872,Karel,Vejmelka
+2023020700,ARI,R,2024-01-18,0,0,{'default': 'Coyotes'},{'default': 'Canucks'},1,L,26,2,0.923077,0,0,58:51,VAN,8478971,Connor,Ingram
+2023020687,ARI,R,2024-01-16,0,0,{'default': 'Coyotes'},{'default': 'Flames'},1,O,30,3,0.9,0,0,64:43,CGY,8478971,Connor,Ingram
+2023020665,ARI,R,2024-01-13,0,0,{'default': 'Coyotes'},{'default': 'Wild'},1,W,38,0,1.0,1,0,59:39,MIN,8478971,Connor,Ingram
+2023020633,ARI,H,2024-01-09,0,0,{'default': 'Coyotes'},{'default': 'Bruins'},1,W,33,3,0.909091,0,0,64:04,BOS,8478971,Connor,Ingram
+2023020597,ARI,H,2024-01-04,0,0,{'default': 'Coyotes'},{'default': 'Islanders'},1,L,31,5,0.83871,0,0,59:47,NYI,8478971,Connor,Ingram
+2023020678,MTL,H,2024-01-15,0,0,{'default': 'Canadiens'},{'default': 'Avalanche'},1,W,35,3,0.914286,0,0,60:00,COL,8474596,Jake,Allen
+2023020590,MTL,H,2024-01-04,0,0,{'default': 'Canadiens'},{'default': 'Sabres'},1,L,37,5,0.864865,0,0,59:26,BUF,8474596,Jake,Allen
+2023020690,MTL,R,2024-01-17,0,0,{'default': 'Canadiens'},{'default': 'Devils'},1,W,30,2,0.933333,0,0,60:00,NJD,8478470,Sam,Montembeault
+2023020660,MTL,H,2024-01-13,0,0,{'default': 'Canadiens'},{'default': 'Oilers'},1,O,41,2,0.95122,0,0,62:01,EDM,8478470,Sam,Montembeault
+2023020642,MTL,H,2024-01-11,0,0,{'default': 'Canadiens'},{'default': 'Sharks'},1,L,35,3,0.914286,0,0,55:47,SJS,8478470,Sam,Montembeault
+2023020610,MTL,H,2024-01-06,0,0,{'default': 'Canadiens'},{'default': 'Rangers'},1,W,48,3,0.9375,0,0,65:00,NYR,8478470,Sam,Montembeault
+2023020577,MTL,R,2024-01-02,0,0,{'default': 'Canadiens'},{'default': 'Stars'},1,W,33,3,0.909091,0,0,60:00,DAL,8478470,Sam,Montembeault
+2023020693,MTL,R,2024-01-18,0,0,{'default': 'Canadiens'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,L,36,5,0.861111,0,0,59:03,OTT,8480051,Cayden,Primeau
+2023020635,MTL,R,2024-01-10,0,0,{'default': 'Canadiens'},{'default': 'Flyers'},1,O,39,2,0.948718,0,0,65:00,PHI,8480051,Cayden,Primeau
+2023020696,STL,R,2024-01-18,0,0,{'default': 'Blues'},{'default': 'Capitals'},1,L,25,4,0.84,0,0,57:44,WSH,8476412,Jordan,Binnington
+2023020667,STL,H,2024-01-13,0,0,{'default': 'Blues'},{'default': 'Bruins'},1,O,35,4,0.885714,0,0,61:10,BOS,8476412,Jordan,Binnington
+2023020647,STL,H,2024-01-11,0,0,{'default': 'Blues'},{'default': 'Rangers'},1,W,43,2,0.953488,0,0,59:46,NYR,8476412,Jordan,Binnington
+2023020608,STL,R,2024-01-06,0,0,{'default': 'Blues'},{'default': 'Hurricanes'},1,W,30,1,0.966667,0,0,64:58,CAR,8476412,Jordan,Binnington
+2023020596,STL,H,2024-01-04,0,0,{'default': 'Blues'},{'default': 'Canucks'},1,W,26,1,0.961538,0,0,60:00,VAN,8476412,Jordan,Binnington
+2023020679,STL,H,2024-01-15,0,0,{'default': 'Blues'},{'default': 'Flyers'},1,L,41,3,0.926829,0,0,59:24,PHI,8480981,Joel,Hofer
+2023020630,STL,H,2024-01-09,0,0,{'default': 'Blues'},{'default': 'Panthers'},1,L,30,4,0.866667,0,0,57:21,FLA,8480981,Joel,Hofer
+2023020691,BUF,H,2024-01-18,0,0,{'default': 'Sabres'},{'default': 'Blackhawks'},1,W,19,0,1.0,1,0,60:00,CHI,8480045,Ukko-Pekka,Luukkonen
+2023020672,BUF,H,2024-01-15,0,0,{'default': 'Sabres'},{'default': 'Sharks'},1,W,28,0,1.0,1,0,59:50,SJS,8480045,Ukko-Pekka,Luukkonen
+2023020654,BUF,H,2024-01-13,0,0,{'default': 'Sabres'},{'default': 'Canucks'},1,L,23,1,0.956522,0,0,58:05,VAN,8480045,Ukko-Pekka,Luukkonen
+2023020638,BUF,H,2024-01-11,0,0,{'default': 'Sabres'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,28,3,0.892857,0,0,60:00,OTT,8480045,Ukko-Pekka,Luukkonen
+2023020612,BUF,R,2024-01-06,0,0,{'default': 'Sabres'},{'default': 'Penguins'},1,W,41,1,0.97561,0,0,60:00,PIT,8480045,Ukko-Pekka,Luukkonen
+2023020625,BUF,H,2024-01-09,0,0,{'default': 'Sabres'},{'default': 'Kraken'},1,L,26,5,0.807692,0,0,60:00,SEA,8482221,Devon,Levi
+2023020590,BUF,R,2024-01-04,0,0,{'default': 'Sabres'},{'default': 'Canadiens'},1,W,33,1,0.969697,0,0,60:00,MTL,8482221,Devon,Levi
+2023020676,MIN,H,2024-01-15,0,0,{'default': 'Wild'},{'default': 'Islanders'},1,W,21,0,1.0,1,0,60:00,NYI,8470594,Marc-Andre,Fleury
+2023020652,MIN,H,2024-01-12,0,0,{'default': 'Wild'},{'default': 'Flyers'},1,O,35,4,0.885714,0,0,63:36,PHI,8470594,Marc-Andre,Fleury
+2023020623,MIN,H,2024-01-08,0,0,{'default': 'Wild'},{'default': 'Stars'},1,L,20,4,0.8,0,0,59:58,DAL,8470594,Marc-Andre,Fleury
+2023020609,MIN,R,2024-01-06,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},1,W,29,3,0.896552,0,0,63:01,CBJ,8470594,Marc-Andre,Fleury
+2023020594,MIN,H,2024-01-04,0,0,{'default': 'Wild'},{'default': 'Lightning'},1,L,29,3,0.896552,0,0,58:27,TBL,8470594,Marc-Andre,Fleury
+2023020578,MIN,H,2024-01-02,0,0,{'default': 'Wild'},{'default': 'Flames'},1,L,32,2,0.9375,0,0,59:33,CGY,8470594,Marc-Andre,Fleury
+2023020695,MIN,R,2024-01-18,0,0,{'default': 'Wild'},{'default': 'Lightning'},1,L,38,7,0.815789,0,0,60:00,TBL,8479406,Filip,Gustavsson
+2023020665,MIN,H,2024-01-13,0,0,{'default': 'Wild'},{'default': 'Coyotes'},1,L,18,5,0.722222,0,0,26:40,ARI,8479406,Filip,Gustavsson
+2023020574,CBJ,H,2024-01-02,0,0,{'default': 'Blue Jackets'},{'default': 'Bruins'},1,L,27,4,0.851852,0,0,60:00,BOS,8477484,Spencer,Martin
+2023020673,CBJ,H,2024-01-15,0,0,{'default': 'Blue Jackets'},{'default': 'Canucks'},1,W,30,3,0.9,0,0,65:00,VAN,8478007,Elvis,Merzlikins
+2023020658,CBJ,H,2024-01-13,0,0,{'default': 'Blue Jackets'},{'default': 'Kraken'},1,L,35,6,0.828571,0,0,57:38,SEA,8480193,Daniil,Tarasov
+2023020631,CBJ,R,2024-01-09,0,0,{'default': 'Blue Jackets'},{'default': 'Jets'},1,L,23,5,0.782609,0,0,60:00,WPG,8480193,Daniil,Tarasov
+2023020609,CBJ,H,2024-01-06,0,0,{'default': 'Blue Jackets'},{'default': 'Wild'},1,O,36,4,0.888889,0,0,63:05,MIN,8480193,Daniil,Tarasov
+2023020592,CBJ,R,2024-01-04,0,0,{'default': 'Blue Jackets'},{'default': 'Flyers'},1,W,41,2,0.95122,0,0,65:00,PHI,8480193,Daniil,Tarasov
+2023020638,OTT,R,2024-01-11,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sabres'},1,,7,1,0.857143,0,0,15:56,BUF,8476341,Anton,Forsberg
+2023020615,OTT,R,2024-01-06,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Oilers'},1,L,46,3,0.934783,0,0,58:02,EDM,8476341,Anton,Forsberg
+2023020584,OTT,R,2024-01-02,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Canucks'},1,L,13,4,0.692308,0,0,16:58,VAN,8476341,Anton,Forsberg
+2023020693,OTT,H,2024-01-18,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Canadiens'},1,W,23,2,0.913043,0,0,59:55,MTL,8476914,Joonas,Korpisalo
+2023020655,OTT,H,2024-01-13,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sharks'},1,W,18,4,0.777778,0,0,60:00,SJS,8476914,Joonas,Korpisalo
+2023020634,OTT,R,2024-01-09,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Flames'},1,L,35,5,0.857143,0,0,59:44,CGY,8476914,Joonas,Korpisalo
+2023020598,OTT,R,2024-01-04,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Kraken'},1,L,27,3,0.888889,0,0,58:28,SEA,8476914,Joonas,Korpisalo
+2023020682,OTT,H,2024-01-16,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Avalanche'},1,L,33,6,0.818182,0,0,59:05,COL,8481544,Mads,Sogaard
+2023020683,ANA,R,2024-01-16,0,0,{'default': 'Ducks'},{'default': 'Capitals'},1,L,27,1,0.962963,0,0,57:21,WSH,8476434,John,Gibson
+2023020674,ANA,R,2024-01-15,0,0,{'default': 'Ducks'},{'default': 'Panthers'},1,W,33,4,0.878788,0,0,60:48,FLA,8476434,John,Gibson
+2023020639,ANA,R,2024-01-11,0,0,{'default': 'Ducks'},{'default': 'Hurricanes'},1,L,25,5,0.8,0,0,40:00,CAR,8476434,John,Gibson
+2023020604,ANA,H,2024-01-05,0,0,{'default': 'Ducks'},{'default': 'Jets'},1,L,27,3,0.888889,0,0,56:34,WPG,8476434,John,Gibson
+2023020661,ANA,R,2024-01-13,0,0,{'default': 'Ducks'},{'default': 'Lightning'},1,L,41,5,0.878049,0,0,60:00,TBL,8480843,Lukas,Dostal
+2023020629,ANA,R,2024-01-09,0,0,{'default': 'Ducks'},{'default': 'Predators'},1,W,42,3,0.928571,0,0,59:33,NSH,8480843,Lukas,Dostal
+2023020620,ANA,H,2024-01-07,0,0,{'default': 'Ducks'},{'default': 'Red Wings'},1,L,28,3,0.892857,0,0,59:06,DET,8480843,Lukas,Dostal
+2023020588,ANA,H,2024-01-03,0,0,{'default': 'Ducks'},{'default': 'Maple Leafs'},1,O,57,2,0.964912,0,0,62:12,TOR,8480843,Lukas,Dostal
+2023020686,CHI,H,2024-01-16,0,0,{'default': 'Blackhawks'},{'default': 'Sharks'},1,W,38,1,0.973684,0,0,65:00,SJS,8475852,Petr,Mrazek
+2023020664,CHI,H,2024-01-13,0,0,{'default': 'Blackhawks'},{'default': 'Stars'},1,L,29,2,0.931034,0,0,58:11,DAL,8475852,Petr,Mrazek
+2023020648,CHI,R,2024-01-11,0,0,{'default': 'Blackhawks'},{'default': 'Jets'},1,L,28,2,0.928571,0,0,59:08,WPG,8475852,Petr,Mrazek
+2023020632,CHI,H,2024-01-09,0,0,{'default': 'Blackhawks'},{'default': 'Oilers'},1,L,15,2,0.866667,0,0,57:40,EDM,8475852,Petr,Mrazek
+2023020617,CHI,H,2024-01-07,0,0,{'default': 'Blackhawks'},{'default': 'Flames'},1,W,30,3,0.9,0,0,59:57,CGY,8475852,Petr,Mrazek
+2023020591,CHI,R,2024-01-04,0,0,{'default': 'Blackhawks'},{'default': 'Rangers'},1,L,32,4,0.875,0,0,60:00,NYR,8475852,Petr,Mrazek
+2023020691,CHI,R,2024-01-18,0,0,{'default': 'Blackhawks'},{'default': 'Sabres'},1,L,31,3,0.903226,0,0,60:00,BUF,8482821,Arvid,Soderblom
+2023020602,CHI,R,2024-01-05,0,0,{'default': 'Blackhawks'},{'default': 'Devils'},1,L,31,3,0.903226,0,0,58:16,NJD,8482821,Arvid,Soderblom
+2023020579,CHI,R,2024-01-02,0,0,{'default': 'Blackhawks'},{'default': 'Predators'},1,L,35,2,0.942857,0,0,59:11,NSH,8482821,Arvid,Soderblom
+2023020672,SJS,R,2024-01-15,0,0,{'default': 'Sharks'},{'default': 'Sabres'},1,L,34,2,0.941176,0,0,59:32,BUF,8478039,Kaapo,Kahkonen
+2023020627,SJS,R,2024-01-09,0,0,{'default': 'Sharks'},{'default': 'Maple Leafs'},1,L,20,4,0.8,0,0,22:06,TOR,8478039,Kaapo,Kahkonen
+2023020586,SJS,H,2024-01-02,0,0,{'default': 'Sharks'},{'default': 'Red Wings'},1,L,30,4,0.866667,0,0,59:13,DET,8478039,Kaapo,Kahkonen
+2023020686,SJS,R,2024-01-16,0,0,{'default': 'Sharks'},{'default': 'Blackhawks'},1,O,25,1,0.96,0,0,64:54,CHI,8478406,Mackenzie,Blackwood
+2023020655,SJS,R,2024-01-13,0,0,{'default': 'Sharks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,L,41,5,0.878049,0,0,59:55,OTT,8478406,Mackenzie,Blackwood
+2023020642,SJS,R,2024-01-11,0,0,{'default': 'Sharks'},{'default': 'Canadiens'},1,W,35,2,0.942857,0,0,60:00,MTL,8478406,Mackenzie,Blackwood
+2023020613,SJS,H,2024-01-06,0,0,{'default': 'Sharks'},{'default': 'Maple Leafs'},1,L,32,4,0.875,0,0,60:00,TOR,8478406,Mackenzie,Blackwood
+2023020601,SJS,H,2024-01-04,0,0,{'default': 'Sharks'},{'default': 'Jets'},1,L,30,2,0.933333,0,0,58:00,WPG,8478406,Mackenzie,Blackwood
