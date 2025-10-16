@@ -9,10 +9,10 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020054,DAL,H,2025-10-14,0,0,{'default': 'Stars'},{'default': 'Wild'},1,W,41,2,0.95122,0,MIN,0,60:00,8479979,Jake,Oettinger
 2025020034,DAL,R,2025-10-11,0,0,{'default': 'Stars'},{'default': 'Avalanche'},1,W,39,4,0.897436,0,COL,0,65:00,8479979,Jake,Oettinger
 2025020017,DAL,R,2025-10-09,0,0,{'default': 'Stars'},{'default': 'Jets'},1,W,25,4,0.84,0,WPG,0,60:00,8479979,Jake,Oettinger
-2025020027,FLA,H,2025-10-11,0,0,{'default': 'Panthers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,28,2,0.928571,0,OTT,0,60:00,8475683,Sergei,Bobrovsky
-2025020012,FLA,H,2025-10-09,0,0,{'default': 'Panthers'},{'default': 'Flyers'},1,W,20,1,0.95,0,PHI,0,59:24,8475683,Sergei,Bobrovsky
-2025020001,FLA,H,2025-10-07,0,0,{'default': 'Panthers'},{'default': 'Blackhawks'},1,W,19,2,0.894737,0,CHI,0,60:00,8475683,Sergei,Bobrovsky
-2025020044,FLA,R,2025-10-13,0,0,{'default': 'Panthers'},{'default': 'Flyers'},1,L,20,3,0.85,0,PHI,0,57:58,8480193,Daniil,Tarasov
+2025020058,DET,H,2025-10-15,0,0,{'default': 'Red Wings'},{'default': 'Panthers'},1,W,21,1,0.952381,0,FLA,0,59:58,8475660,Cam,Talbot
+2025020043,DET,R,2025-10-13,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},1,W,40,2,0.95,0,TOR,0,59:47,8475660,Cam,Talbot
+2025020025,DET,H,2025-10-11,0,1,{'default': 'Red Wings'},{'default': 'Maple Leafs'},1,W,23,3,0.869565,0,TOR,0,60:00,8475660,Cam,Talbot
+2025020010,DET,H,2025-10-09,0,0,{'default': 'Red Wings'},{'default': 'Canadiens'},1,L,13,5,0.615385,0,MTL,0,37:12,8476434,John,Gibson
 2025020040,BOS,H,2025-10-13,0,0,{'default': 'Bruins'},{'default': 'Lightning'},1,L,23,4,0.826087,0,TBL,0,57:59,8476914,Joonas,Korpisalo
 2025020008,BOS,H,2025-10-09,0,0,{'default': 'Bruins'},{'default': 'Blackhawks'},1,W,24,3,0.875,0,CHI,0,62:00,8476914,Joonas,Korpisalo
 2025020024,BOS,H,2025-10-11,0,0,{'default': 'Bruins'},{'default': 'Sabres'},1,W,22,1,0.954545,0,BUF,0,60:00,8480280,Jeremy,Swayman
@@ -29,6 +29,11 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020037,VGK,R,2025-10-11,0,0,{'default': 'Golden Knights'},{'default': 'Kraken'},1,O,22,2,0.909091,0,SEA,0,64:56,8478499,Adin,Hill
 2025020007,VGK,H,2025-10-08,0,0,{'default': 'Golden Knights'},{'default': 'Kings'},1,O,26,5,0.807692,0,LAK,0,64:53,8478499,Adin,Hill
 2025020020,VGK,R,2025-10-09,0,0,{'default': 'Golden Knights'},{'default': 'Sharks'},1,W,23,3,0.869565,0,SJS,0,60:15,8481033,Akira,Schmid
+2025020058,FLA,R,2025-10-15,0,0,{'default': 'Panthers'},{'default': 'Red Wings'},1,L,23,2,0.913043,0,DET,0,57:43,8475683,Sergei,Bobrovsky
+2025020027,FLA,H,2025-10-11,0,0,{'default': 'Panthers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,28,2,0.928571,0,OTT,0,60:00,8475683,Sergei,Bobrovsky
+2025020012,FLA,H,2025-10-09,0,0,{'default': 'Panthers'},{'default': 'Flyers'},1,W,20,1,0.95,0,PHI,0,59:24,8475683,Sergei,Bobrovsky
+2025020001,FLA,H,2025-10-07,0,0,{'default': 'Panthers'},{'default': 'Blackhawks'},1,W,19,2,0.894737,0,CHI,0,60:00,8475683,Sergei,Bobrovsky
+2025020044,FLA,R,2025-10-13,0,0,{'default': 'Panthers'},{'default': 'Flyers'},1,L,20,3,0.85,0,PHI,0,57:58,8480193,Daniil,Tarasov
 2025020035,EDM,H,2025-10-11,0,0,{'default': 'Oilers'},{'default': 'Canucks'},1,W,15,1,0.933333,0,VAN,0,60:00,8475717,Calvin,Pickard
 2025020051,EDM,R,2025-10-14,0,0,{'default': 'Oilers'},{'default': 'Rangers'},1,W,30,0,1.0,1,NYR,0,60:00,8479973,Stuart,Skinner
 2025020006,EDM,H,2025-10-08,0,0,{'default': 'Oilers'},{'default': 'Flames'},1,O,22,3,0.863636,0,CGY,0,65:00,8479973,Stuart,Skinner
@@ -39,18 +44,17 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020032,NSH,H,2025-10-11,0,0,{'default': 'Predators'},{'default': 'Mammoth'},1,O,23,3,0.869565,0,UTA,0,62:40,8477424,Juuse,Saros
 2025020016,NSH,H,2025-10-09,0,0,{'default': 'Predators'},{'default': 'Blue Jackets'},1,W,39,1,0.974359,0,CBJ,0,60:00,8477424,Juuse,Saros
 2025020049,NSH,R,2025-10-14,0,0,{'default': 'Predators'},{'default': 'Maple Leafs'},1,L,26,5,0.807692,0,TOR,0,59:10,8481020,Justus,Annunen
+2025020048,CHI,H,2025-10-13,0,0,{'default': 'Blackhawks'},{'default': 'Mammoth'},1,W,22,1,0.954545,0,UTA,0,59:50,8481519,Spencer,Knight
+2025020031,CHI,H,2025-10-11,0,0,{'default': 'Blackhawks'},{'default': 'Canadiens'},1,L,28,3,0.892857,0,MTL,0,59:45,8481519,Spencer,Knight
+2025020001,CHI,R,2025-10-07,0,0,{'default': 'Blackhawks'},{'default': 'Panthers'},1,L,37,3,0.918919,0,FLA,0,59:04,8481519,Spencer,Knight
+2025020059,CHI,R,2025-10-15,0,0,{'default': 'Blackhawks'},{'default': 'Blues'},1,W,26,3,0.884615,0,STL,0,60:00,8482821,Arvid,Soderblom
+2025020008,CHI,R,2025-10-09,0,0,{'default': 'Blackhawks'},{'default': 'Bruins'},1,O,33,4,0.878788,0,BOS,0,61:18,8482821,Arvid,Soderblom
 2025020022,WPG,H,2025-10-11,0,0,{'default': 'Jets'},{'default': 'Kings'},1,W,32,2,0.9375,0,LAK,0,60:00,8476945,Connor,Hellebuyck
 2025020017,WPG,H,2025-10-09,0,0,{'default': 'Jets'},{'default': 'Stars'},1,L,37,5,0.864865,0,DAL,0,58:44,8476945,Connor,Hellebuyck
 2025020042,WPG,R,2025-10-13,0,0,{'default': 'Jets'},{'default': 'Islanders'},1,W,35,2,0.942857,0,NYI,0,59:56,8477480,Eric,Comrie
 2025020026,NJD,R,2025-10-11,0,0,{'default': 'Devils'},{'default': 'Lightning'},1,W,17,3,0.823529,0,TBL,2,59:48,8474593,Jacob,Markstrom
 2025020014,NJD,R,2025-10-09,0,0,{'default': 'Devils'},{'default': 'Hurricanes'},1,L,32,5,0.84375,0,CAR,0,59:05,8474593,Jacob,Markstrom
 2025020045,NJD,R,2025-10-13,0,0,{'default': 'Devils'},{'default': 'Blue Jackets'},1,,24,1,0.958333,0,CBJ,0,40:00,8474596,Jake,Allen
-2025020043,DET,R,2025-10-13,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},1,W,40,2,0.95,0,TOR,0,59:47,8475660,Cam,Talbot
-2025020025,DET,H,2025-10-11,0,1,{'default': 'Red Wings'},{'default': 'Maple Leafs'},1,W,23,3,0.869565,0,TOR,0,60:00,8475660,Cam,Talbot
-2025020010,DET,H,2025-10-09,0,0,{'default': 'Red Wings'},{'default': 'Canadiens'},1,L,13,5,0.615385,0,MTL,0,37:12,8476434,John,Gibson
-2025020046,STL,R,2025-10-13,0,0,{'default': 'Blues'},{'default': 'Canucks'},1,W,29,2,0.931034,0,VAN,0,60:00,8476412,Jordan,Binnington
-2025020015,STL,H,2025-10-09,0,0,{'default': 'Blues'},{'default': 'Wild'},1,L,21,5,0.761905,0,MIN,0,60:00,8476412,Jordan,Binnington
-2025020023,STL,R,2025-10-11,0,0,{'default': 'Blues'},{'default': 'Flames'},1,W,29,2,0.931034,0,CGY,0,59:58,8480981,Joel,Hofer
 2025020036,ANA,R,2025-10-11,0,0,{'default': 'Ducks'},{'default': 'Sharks'},1,W,23,6,0.73913,0,SJS,0,59:49,8475852,Petr,Mrazek
 2025020056,ANA,H,2025-10-14,0,0,{'default': 'Ducks'},{'default': 'Penguins'},1,W,25,3,0.88,0,PIT,0,60:00,8480843,Lukas,Dostal
 2025020021,ANA,R,2025-10-09,0,0,{'default': 'Ducks'},{'default': 'Kraken'},1,L,31,3,0.903226,0,SEA,0,57:01,8480843,Lukas,Dostal
@@ -62,6 +66,14 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020013,PIT,H,2025-10-09,0,0,{'default': 'Penguins'},{'default': 'Islanders'},1,W,37,3,0.918919,0,NYI,0,59:24,8477465,Tristan,Jarry
 2025020029,PIT,H,2025-10-11,0,0,{'default': 'Penguins'},{'default': 'Rangers'},1,L,30,6,0.8,0,NYR,0,59:37,8481668,Arturs,Silovs
 2025020002,PIT,R,2025-10-07,0,0,{'default': 'Penguins'},{'default': 'Rangers'},1,W,25,0,1.0,1,NYR,0,60:00,8481668,Arturs,Silovs
+2025020046,STL,R,2025-10-13,0,0,{'default': 'Blues'},{'default': 'Canucks'},1,W,29,2,0.931034,0,VAN,0,60:00,8476412,Jordan,Binnington
+2025020015,STL,H,2025-10-09,0,0,{'default': 'Blues'},{'default': 'Wild'},1,L,21,5,0.761905,0,MIN,0,60:00,8476412,Jordan,Binnington
+2025020059,STL,H,2025-10-15,0,0,{'default': 'Blues'},{'default': 'Blackhawks'},1,L,22,7,0.681818,0,CHI,0,47:45,8480981,Joel,Hofer
+2025020023,STL,R,2025-10-11,0,0,{'default': 'Blues'},{'default': 'Flames'},1,W,29,2,0.931034,0,CGY,0,59:58,8480981,Joel,Hofer
+2025020048,UTA,R,2025-10-13,0,0,{'default': 'Mammoth'},{'default': 'Blackhawks'},1,L,13,2,0.846154,0,CHI,0,59:40,8477970,Vitek,Vanecek
+2025020060,UTA,H,2025-10-15,0,0,{'default': 'Mammoth'},{'default': 'Flames'},1,W,20,1,0.95,0,CGY,2,59:42,8478872,Karel,Vejmelka
+2025020032,UTA,R,2025-10-11,0,0,{'default': 'Mammoth'},{'default': 'Predators'},1,W,23,2,0.913043,0,NSH,0,62:16,8478872,Karel,Vejmelka
+2025020018,UTA,R,2025-10-09,0,0,{'default': 'Mammoth'},{'default': 'Avalanche'},1,L,27,2,0.925926,0,COL,0,58:10,8478872,Karel,Vejmelka
 2025020054,MIN,R,2025-10-14,0,0,{'default': 'Wild'},{'default': 'Stars'},1,L,23,3,0.869565,0,DAL,0,57:33,8479406,Filip,Gustavsson
 2025020033,MIN,H,2025-10-11,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},1,L,31,6,0.806452,0,CBJ,0,58:40,8479406,Filip,Gustavsson
 2025020015,MIN,R,2025-10-09,0,0,{'default': 'Wild'},{'default': 'Blues'},1,W,26,0,1.0,1,STL,0,60:00,8479406,Filip,Gustavsson
@@ -74,10 +86,6 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020044,PHI,H,2025-10-13,0,0,{'default': 'Flyers'},{'default': 'Panthers'},1,W,26,2,0.923077,0,FLA,0,60:00,8478435,Dan,Vladar
 2025020012,PHI,R,2025-10-09,0,0,{'default': 'Flyers'},{'default': 'Panthers'},1,L,34,2,0.941176,0,FLA,0,58:46,8478435,Dan,Vladar
 2025020030,PHI,R,2025-10-11,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},1,O,39,4,0.897436,0,CAR,0,64:43,8481035,Samuel,Ersson
-2025020048,CHI,H,2025-10-13,0,0,{'default': 'Blackhawks'},{'default': 'Mammoth'},1,W,22,1,0.954545,0,UTA,0,59:50,8481519,Spencer,Knight
-2025020031,CHI,H,2025-10-11,0,0,{'default': 'Blackhawks'},{'default': 'Canadiens'},1,L,28,3,0.892857,0,MTL,0,59:45,8481519,Spencer,Knight
-2025020001,CHI,R,2025-10-07,0,0,{'default': 'Blackhawks'},{'default': 'Panthers'},1,L,37,3,0.918919,0,FLA,0,59:04,8481519,Spencer,Knight
-2025020008,CHI,R,2025-10-09,0,0,{'default': 'Blackhawks'},{'default': 'Bruins'},1,O,33,4,0.878788,0,BOS,0,61:18,8482821,Arvid,Soderblom
 2025020052,TBL,R,2025-10-14,0,0,{'default': 'Lightning'},{'default': 'Capitals'},1,O,28,3,0.892857,0,WSH,0,61:01,8476883,Andrei,Vasilevskiy
 2025020026,TBL,H,2025-10-11,0,0,{'default': 'Lightning'},{'default': 'Devils'},1,L,31,5,0.83871,0,NJD,0,56:43,8476883,Andrei,Vasilevskiy
 2025020011,TBL,H,2025-10-09,0,0,{'default': 'Lightning'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,L,33,4,0.878788,0,OTT,0,58:56,8476883,Andrei,Vasilevskiy
@@ -92,22 +100,22 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020035,VAN,R,2025-10-11,0,0,{'default': 'Canucks'},{'default': 'Oilers'},1,L,36,2,0.944444,0,EDM,0,57:41,8477967,Thatcher,Demko
 2025020019,VAN,H,2025-10-09,0,0,{'default': 'Canucks'},{'default': 'Flames'},1,W,18,1,0.944444,0,CGY,0,59:17,8477967,Thatcher,Demko
 2025020046,VAN,H,2025-10-13,0,0,{'default': 'Canucks'},{'default': 'Blues'},1,L,35,4,0.885714,0,STL,0,58:39,8480947,Kevin,Lankinen
-2025020041,OTT,H,2025-10-13,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Predators'},1,L,24,2,0.916667,0,NSH,0,57:07,8476999,Linus,Ullmark
-2025020027,OTT,R,2025-10-11,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Panthers'},1,L,27,6,0.777778,0,FLA,0,59:59,8476999,Linus,Ullmark
-2025020011,OTT,R,2025-10-09,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Lightning'},1,W,25,4,0.84,0,TBL,0,59:53,8476999,Linus,Ullmark
-2025020048,UTA,R,2025-10-13,0,0,{'default': 'Mammoth'},{'default': 'Blackhawks'},1,L,13,2,0.846154,0,CHI,0,59:40,8477970,Vitek,Vanecek
-2025020032,UTA,R,2025-10-11,0,0,{'default': 'Mammoth'},{'default': 'Predators'},1,W,23,2,0.913043,0,NSH,0,62:16,8478872,Karel,Vejmelka
-2025020018,UTA,R,2025-10-09,0,0,{'default': 'Mammoth'},{'default': 'Avalanche'},1,L,27,2,0.925926,0,COL,0,58:10,8478872,Karel,Vejmelka
 2025020055,SJS,H,2025-10-14,0,0,{'default': 'Sharks'},{'default': 'Hurricanes'},1,L,43,5,0.883721,0,CAR,0,60:00,8477968,Alex,Nedeljkovic
 2025020020,SJS,H,2025-10-09,0,0,{'default': 'Sharks'},{'default': 'Golden Knights'},1,O,31,4,0.870968,0,VGK,0,61:24,8477968,Alex,Nedeljkovic
 2025020036,SJS,H,2025-10-11,0,0,{'default': 'Sharks'},{'default': 'Ducks'},1,O,44,7,0.840909,0,ANA,0,60:37,8482137,Yaroslav,Askarov
+2025020057,BUF,H,2025-10-15,0,0,{'default': 'Sabres'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,W,36,4,0.888889,0,OTT,0,60:00,8479312,Alex,Lyon
+2025020039,BUF,H,2025-10-13,0,0,{'default': 'Sabres'},{'default': 'Avalanche'},1,L,37,3,0.918919,0,COL,0,58:20,8479312,Alex,Lyon
+2025020024,BUF,R,2025-10-11,0,0,{'default': 'Sabres'},{'default': 'Bruins'},1,L,30,2,0.933333,0,BOS,0,57:45,8479312,Alex,Lyon
+2025020009,BUF,H,2025-10-09,0,0,{'default': 'Sabres'},{'default': 'Rangers'},1,L,32,3,0.90625,0,NYR,0,59:51,8479312,Alex,Lyon
+2025020041,OTT,H,2025-10-13,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Predators'},1,L,24,2,0.916667,0,NSH,0,57:07,8476999,Linus,Ullmark
+2025020027,OTT,R,2025-10-11,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Panthers'},1,L,27,6,0.777778,0,FLA,0,59:59,8476999,Linus,Ullmark
+2025020011,OTT,R,2025-10-09,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Lightning'},1,W,25,4,0.84,0,TBL,0,59:53,8476999,Linus,Ullmark
+2025020057,OTT,R,2025-10-15,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sabres'},1,L,26,7,0.730769,0,BUF,0,58:06,8482447,Leevi,Meriläinen
 2025020053,CGY,H,2025-10-14,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},1,L,29,3,0.896552,0,VGK,0,58:16,8481692,Dustin,Wolf
 2025020023,CGY,H,2025-10-11,0,0,{'default': 'Flames'},{'default': 'Blues'},1,L,28,4,0.857143,0,STL,0,56:45,8481692,Dustin,Wolf
 2025020019,CGY,R,2025-10-09,0,0,{'default': 'Flames'},{'default': 'Canucks'},1,L,26,5,0.807692,0,VAN,0,59:28,8481692,Dustin,Wolf
 2025020006,CGY,R,2025-10-08,0,0,{'default': 'Flames'},{'default': 'Oilers'},1,W,35,3,0.914286,0,EDM,0,64:25,8481692,Dustin,Wolf
+2025020060,CGY,R,2025-10-15,0,0,{'default': 'Flames'},{'default': 'Mammoth'},1,L,31,2,0.935484,0,UTA,0,58:42,8482445,Devin,Cooley
 2025020042,NYI,H,2025-10-13,0,0,{'default': 'Islanders'},{'default': 'Jets'},1,L,25,4,0.84,0,WPG,0,58:18,8478009,Ilya,Sorokin
 2025020028,NYI,H,2025-10-11,0,0,{'default': 'Islanders'},{'default': 'Capitals'},1,L,29,4,0.862069,0,WSH,0,56:09,8478009,Ilya,Sorokin
 2025020013,NYI,R,2025-10-09,0,0,{'default': 'Islanders'},{'default': 'Penguins'},1,L,28,4,0.857143,0,PIT,0,57:45,8478009,Ilya,Sorokin
-2025020039,BUF,H,2025-10-13,0,0,{'default': 'Sabres'},{'default': 'Avalanche'},1,L,37,3,0.918919,0,COL,0,58:20,8479312,Alex,Lyon
-2025020024,BUF,R,2025-10-11,0,0,{'default': 'Sabres'},{'default': 'Bruins'},1,L,30,2,0.933333,0,BOS,0,57:45,8479312,Alex,Lyon
-2025020009,BUF,H,2025-10-09,0,0,{'default': 'Sabres'},{'default': 'Rangers'},1,L,32,3,0.90625,0,NYR,0,59:51,8479312,Alex,Lyon
