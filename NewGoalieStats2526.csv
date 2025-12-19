@@ -301,3 +301,797 @@ playerId,sweaterNumber,name,position,evenStrengthShotsAgainst,powerPlayShotsAgai
 8477465,35,{'default': 'T. Jarry'},G,21/24,4/4,0/0,25/28,0.892857,3,0,0,0,3,59:15,True,W,28,25,Tristan,Jarry,PIT,2025020148,1
 8480280,1,{'default': 'J. Swayman'},G,14/17,1/5,1/1,16/23,0.695652,3,4,0,0,7,59:57,True,L,23,16,Jeremy,Swayman,BOS,2025020149,0
 8482447,1,{'default': 'L. Meriläinen'},G,23/25,1/1,2/2,26/28,0.928571,2,0,0,0,2,60:00,True,W,28,26,Leevi,Meriläinen,OTT,2025020149,1
+8480280,1,{'default': 'J. Swayman'},G,14/17,1/5,1/1,16/23,0.695652,3,4,0,0,7,59:57,True,L,23,16,Jeremy,Swayman,BOS,2025020149,0
+8482447,1,{'default': 'L. Meriläinen'},G,23/25,1/1,2/2,26/28,0.928571,2,0,0,0,2,60:00,True,W,28,26,Leevi,Meriläinen,OTT,2025020149,1
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,26/27,2/3,4/4,32/34,0.941176,1,1,0,0,2,65:00,True,O,34,32,Arturs,Silovs,PIT,2025020150,0
+8481035,33,{'default': 'S. Ersson'},G,17/19,7/7,0/0,24/26,0.923077,2,0,0,0,2,64:44,True,W,26,24,Samuel,Ersson,PHI,2025020150,1
+8481692,32,{'default': 'D. Wolf'},G,23/26,9/10,1/1,33/37,0.891892,3,1,0,0,4,58:34,True,L,37,33,Dustin,Wolf,CGY,2025020151,0
+8476932,41,{'default': 'A. Stolarz'},G,22/25,4/4,0/0,26/29,0.896552,3,0,0,0,3,60:00,True,W,29,26,Anthony,Stolarz,TOR,2025020151,1
+8482982,73,{'default': 'J. Greaves'},G,32/35,3/3,0/0,35/38,0.921053,3,0,0,0,3,62:53,True,W,38,35,Jet,Greaves,CBJ,2025020152,0
+8479312,34,{'default': 'A. Lyon'},G,35/38,0/1,0/0,35/39,0.897436,3,1,0,0,4,62:53,True,O,39,35,Alex,Lyon,BUF,2025020152,1
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,20/22,10/10,1/1,31/33,0.939394,2,0,0,0,2,64:21,True,W,33,31,Lukas,Dostal,ANA,2025020153,0
+8480193,40,{'default': 'D. Tarasov'},G,7/7,6/7,2/3,15/17,0.882353,0,1,1,0,2,64:44,True,O,17,15,Daniil,Tarasov,FLA,2025020153,1
+8478009,30,{'default': 'I. Sorokin'},G,13/15,4/6,0/0,17/21,0.809524,2,2,0,0,4,58:58,True,L,21,17,Ilya,Sorokin,NYI,2025020154,0
+8476914,70,{'default': 'J. Korpisalo'},G,19/21,12/12,2/2,33/35,0.942857,2,0,0,0,2,60:00,True,W,35,33,Joonas,Korpisalo,BOS,2025020154,1
+8481033,40,{'default': 'A. Schmid'},G,19/21,0/1,2/2,21/24,0.875,2,1,0,0,3,59:49,True,W,24,21,Akira,Schmid,VGK,2025020155,0
+8475883,31,{'default': 'F. Andersen'},G,25/29,4/5,0/0,29/34,0.852941,4,1,0,0,5,58:29,True,L,34,29,Frederik,Andersen,CAR,2025020155,1
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,9/10,7/8,2/2,18/20,0.9,1,1,0,0,2,59:49,True,W,20,18,Andrei,Vasilevskiy,TBL,2025020156,0
+8477424,74,{'default': 'J. Saros'},G,22/26,5/5,0/0,27/31,0.870968,4,0,0,0,4,57:30,True,L,31,27,Juuse,Saros,NSH,2025020156,1
+8476945,37,{'default': 'C. Hellebuyck'},G,30/32,2/3,0/0,32/35,0.914286,2,1,0,0,3,60:45,True,W,35,32,Connor,Hellebuyck,WPG,2025020157,0
+8479406,32,{'default': 'F. Gustavsson'},G,17/21,0/0,0/0,17/21,0.809524,4,0,0,0,4,60:46,True,O,21,17,Filip,Gustavsson,MIN,2025020157,1
+8476434,36,{'default': 'J. Gibson'},G,17/19,3/3,0/0,20/22,0.909091,2,0,0,0,2,60:00,True,W,22,20,John,Gibson,DET,2025020158,0
+8476412,50,{'default': 'J. Binnington'},G,13/16,0/1,2/2,15/19,0.789474,3,1,0,0,4,56:43,True,L,19,15,Jordan,Binnington,STL,2025020158,1
+8480313,48,{'default': 'L. Thompson'},G,11/11,7/8,0/0,18/19,0.947368,0,1,0,0,1,58:14,True,L,19,18,Logan,Thompson,WSH,2025020159,0
+8479979,29,{'default': 'J. Oettinger'},G,21/21,2/2,1/1,24/24,1.0,0,0,0,0,0,60:00,True,W,24,24,Jake,Oettinger,DAL,2025020159,1
+8476999,35,{'default': 'L. Ullmark'},G,19/24,0/1,0/0,19/25,0.76,5,1,0,0,6,59:09,True,L,25,19,Linus,Ullmark,OTT,2025020160,0
+8481519,30,{'default': 'S. Knight'},G,16/19,5/5,0/0,21/24,0.875,3,0,0,0,3,60:00,True,W,24,21,Spencer,Knight,CHI,2025020160,1
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,27/31,6/10,1/1,34/42,0.809524,4,4,0,2,8,59:48,True,L,42,34,Jacob,Markstrom,NJD,2025020161,0
+8475809,41,{'default': 'S. Wedgewood'},G,20/24,6/6,0/0,26/30,0.866667,4,0,0,0,4,59:39,True,W,30,26,Scott,Wedgewood,COL,2025020161,1
+8478872,70,{'default': 'K. Vejmelka'},G,16/21,2/2,0/0,18/23,0.782609,5,0,0,0,5,58:55,True,L,23,18,Karel,Vejmelka,UTA,2025020162,0
+8479973,74,{'default': 'S. Skinner'},G,16/19,4/4,0/0,20/23,0.869565,3,0,0,0,3,59:59,True,W,23,20,Stuart,Skinner,PIT,2025020162,1
+8471734,32,{'default': 'J. Quick'},G,18/18,3/3,2/2,23/23,1.0,0,0,0,0,0,60:00,True,W,23,23,Jonathan,Quick,NYR,2025020163,0
+8477967,35,{'default': 'T. Demko'},G,19/20,3/3,1/1,23/24,0.958333,1,0,0,0,1,57:19,True,L,24,23,Thatcher,Demko,VAN,2025020163,1
+8482487,75,{'default': 'J. Dobes'},G,14/16,4/5,0/0,18/21,0.857143,2,1,0,0,3,60:44,True,W,21,18,Jakub,Dobes,MTL,2025020164,0
+8478916,35,{'default': 'J. Daccord'},G,17/19,0/2,0/0,17/21,0.809524,2,2,0,0,4,59:46,True,O,21,17,Joey,Daccord,SEA,2025020164,1
+8475311,35,{'default': 'D. Kuemper'},G,23/26,14/14,0/0,37/40,0.925,3,0,0,0,3,60:00,True,W,40,37,Darcy,Kuemper,LAK,2025020165,0
+8482137,30,{'default': 'Y. Askarov'},G,8/12,2/2,0/0,10/14,0.714286,4,0,0,0,4,57:28,True,L,14,10,Yaroslav,Askarov,SJS,2025020165,1
+8480051,30,{'default': 'C. Primeau'},G,18/24,0/0,0/0,18/24,0.75,6,0,0,0,6,60:00,True,L,24,18,Cayden,Primeau,CAR,2025020166,0
+8478007,90,{'default': 'E. Merzlikins'},G,32/35,1/1,0/0,33/36,0.916667,3,0,0,0,3,60:00,True,W,36,33,Elvis,Merzlikins,CBJ,2025020166,1
+8479312,34,{'default': 'A. Lyon'},G,16/19,2/3,0/0,18/22,0.818182,3,1,0,0,4,61:33,True,O,22,18,Alex,Lyon,BUF,2025020167,0
+8476914,70,{'default': 'J. Korpisalo'},G,27/29,10/11,0/0,37/40,0.925,2,1,0,0,3,62:07,True,W,40,37,Joonas,Korpisalo,BOS,2025020167,1
+8482445,1,{'default': 'D. Cooley'},G,22/24,11/11,2/3,35/38,0.921053,2,0,1,0,3,64:12,True,O,38,35,Devin,Cooley,CGY,2025020168,0
+8476999,35,{'default': 'L. Ullmark'},G,19/20,5/7,2/2,26/29,0.896552,1,2,0,0,3,65:00,True,W,29,26,Linus,Ullmark,OTT,2025020168,1
+8479979,29,{'default': 'J. Oettinger'},G,25/26,6/7,0/0,31/33,0.939394,1,1,0,0,2,62:16,True,O,33,31,Jake,Oettinger,DAL,2025020169,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,13/14,5/5,2/2,20/21,0.952381,1,0,0,0,1,62:36,True,W,21,20,Andrei,Vasilevskiy,TBL,2025020169,1
+8477424,74,{'default': 'J. Saros'},G,14/16,0/1,0/0,14/17,0.823529,2,1,0,0,3,58:31,True,L,17,14,Juuse,Saros,NSH,2025020170,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,30/31,2/2,0/0,32/33,0.969697,1,0,0,0,1,59:52,True,W,33,32,Dan,Vladar,PHI,2025020170,1
+8479496,33,{'default': 'D. Rittich'},G,21/26,6/6,1/2,28/34,0.823529,5,0,1,0,6,60:00,True,L,34,28,David,Rittich,NYI,2025020171,0
+8483548,32,{'default': 'B. Bussi'},G,21/22,5/6,0/0,26/28,0.928571,1,1,0,2,2,60:00,True,W,28,26,Brandon,Bussi,CAR,2025020171,1
+8480947,32,{'default': 'K. Lankinen'},G,28/29,6/8,2/2,36/39,0.923077,1,2,0,2,3,65:00,True,W,39,36,Kevin,Lankinen,VAN,2025020172,0
+8476412,50,{'default': 'J. Binnington'},G,13/15,2/3,0/0,15/18,0.833333,2,1,0,0,3,64:09,True,O,18,15,Jordan,Binnington,STL,2025020172,1
+8477465,35,{'default': 'T. Jarry'},G,23/24,3/3,0/0,26/27,0.962963,1,0,0,0,1,60:00,True,W,27,26,Tristan,Jarry,EDM,2025020173,0
+8479406,32,{'default': 'F. Gustavsson'},G,28/30,0/1,2/2,30/33,0.909091,2,1,0,0,3,59:49,True,L,33,30,Filip,Gustavsson,MIN,2025020173,1
+8481519,30,{'default': 'S. Knight'},G,18/23,5/6,3/3,26/32,0.8125,5,1,0,0,6,59:39,True,L,32,26,Spencer,Knight,CHI,2025020174,0
+8476945,37,{'default': 'C. Hellebuyck'},G,17/20,4/4,0/0,21/24,0.875,3,0,0,0,3,60:00,True,W,24,21,Connor,Hellebuyck,WPG,2025020174,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,26/28,5/6,2/2,33/36,0.916667,2,1,0,0,3,62:49,True,W,36,33,Igor,Shesterkin,NYR,2025020175,0
+8479973,74,{'default': 'S. Skinner'},G,27/31,3/3,1/1,31/35,0.885714,4,0,0,0,4,62:36,True,O,35,31,Stuart,Skinner,PIT,2025020175,1
+8474596,34,{'default': 'J. Allen'},G,19/24,4/4,0/0,23/28,0.821429,5,0,0,0,5,60:00,True,L,28,23,Jake,Allen,NJD,2025020176,0
+8477968,33,{'default': 'A. Nedeljkovic'},G,27/27,2/4,0/0,29/31,0.935484,0,2,0,0,2,60:00,True,W,31,29,Alex,Nedeljkovic,SJS,2025020176,1
+8475660,39,{'default': 'C. Talbot'},G,23/25,10/10,3/4,36/39,0.923077,2,0,1,0,3,64:48,True,W,39,36,Cam,Talbot,DET,2025020177,0
+8475311,35,{'default': 'D. Kuemper'},G,23/24,1/3,0/0,24/27,0.888889,1,2,0,0,3,63:36,True,O,27,24,Darcy,Kuemper,LAK,2025020177,1
+8475809,41,{'default': 'S. Wedgewood'},G,17/18,4/5,0/0,21/23,0.913043,1,1,0,0,2,60:00,True,W,23,21,Scott,Wedgewood,COL,2025020178,0
+8482761,30,{'default': 'C. Lindbom'},G,19/22,1/1,2/2,22/25,0.88,3,0,0,0,3,59:39,True,L,25,22,Carl,Lindbom,VGK,2025020178,1
+8478009,30,{'default': 'I. Sorokin'},G,17/18,3/3,2/2,22/23,0.956522,1,0,0,0,1,60:00,True,W,23,22,Ilya,Sorokin,NYI,2025020179,0
+8480313,48,{'default': 'L. Thompson'},G,14/15,5/5,1/2,20/22,0.909091,1,0,1,0,2,59:32,True,L,22,20,Logan,Thompson,WSH,2025020179,1
+8476434,36,{'default': 'J. Gibson'},G,20/22,5/6,2/3,27/31,0.870968,2,1,1,0,4,59:45,True,L,31,27,John,Gibson,DET,2025020180,0
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,17/18,10/11,1/1,28/30,0.933333,1,1,0,0,2,59:50,True,W,30,28,Lukas,Dostal,ANA,2025020180,1
+8475883,31,{'default': 'F. Andersen'},G,19/21,0/0,1/1,20/22,0.909091,2,0,0,0,2,58:37,True,L,22,20,Frederik,Andersen,CAR,2025020181,0
+8480280,1,{'default': 'J. Swayman'},G,25/26,2/2,1/1,28/29,0.965517,1,0,0,0,1,59:34,True,W,29,28,Jeremy,Swayman,BOS,2025020181,1
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,26/29,3/3,0/1,29/33,0.878788,3,0,1,0,4,59:13,True,L,33,29,Arturs,Silovs,PIT,2025020182,0
+8477480,1,{'default': 'E. Comrie'},G,27/28,1/2,0/0,28/30,0.933333,1,1,0,0,2,60:00,True,W,30,28,Eric,Comrie,WPG,2025020182,1
+8481692,32,{'default': 'D. Wolf'},G,5/7,3/4,0/0,8/11,0.727273,2,1,0,0,3,20:00,True,L,11,8,Dustin,Wolf,CGY,2025020183,0
+8477424,74,{'default': 'J. Saros'},G,29/31,2/2,2/2,33/35,0.942857,2,0,0,0,2,60:00,True,W,35,33,Juuse,Saros,NSH,2025020183,1
+8478406,39,{'default': 'M. Blackwood'},G,16/19,4/4,0/0,20/23,0.869565,3,0,0,0,3,61:48,True,O,23,20,Mackenzie,Blackwood,COL,2025020184,0
+8482137,30,{'default': 'Y. Askarov'},G,33/34,2/2,2/2,37/38,0.973684,2,0,0,0,2,61:48,True,W,38,37,Yaroslav,Askarov,SJS,2025020184,1
+8479193,1,{'default': 'C. DeSmith'},G,21/24,3/3,1/1,25/28,0.892857,3,0,0,0,3,64:36,True,O,28,25,Casey,DeSmith,DAL,2025020185,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,19/20,0/2,0/0,19/22,0.863636,1,2,0,0,3,65:00,True,W,22,19,Sergei,Bobrovsky,FLA,2025020185,1
+8479292,79,{'default': 'C. Lindgren'},G,14/17,5/5,2/2,21/24,0.875,3,0,0,0,3,64:52,True,O,24,21,Charlie,Lindgren,WSH,2025020186,0
+8480045,1,{'default': 'U. Luukkonen'},G,27/30,3/3,1/1,31/34,0.911765,3,0,0,0,3,64:28,True,W,34,31,Ukko-Pekka,Luukkonen,BUF,2025020186,1
+8476999,35,{'default': 'L. Ullmark'},G,21/24,2/3,0/0,23/27,0.851852,3,1,0,0,4,61:40,True,O,27,23,Linus,Ullmark,OTT,2025020187,0
+8478470,35,{'default': 'S. Montembeault'},G,12/15,2/2,0/0,14/17,0.823529,3,0,0,0,3,61:40,True,W,17,14,Samuel,Montembeault,MTL,2025020187,1
+8476932,41,{'default': 'A. Stolarz'},G,19/20,12/13,0/0,31/33,0.939394,1,1,0,0,2,60:00,True,W,33,31,Anthony,Stolarz,TOR,2025020188,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,14/18,1/1,0/0,15/19,0.789474,4,0,0,0,4,40:33,True,L,19,15,Dan,Vladar,PHI,2025020188,1
+8480981,30,{'default': 'J. Hofer'},G,26/28,4/5,2/2,32/35,0.914286,2,1,0,0,3,57:04,True,L,35,32,Joel,Hofer,STL,2025020189,0
+8482982,73,{'default': 'J. Greaves'},G,31/33,6/6,0/0,37/39,0.948718,2,0,0,0,2,59:50,True,W,39,37,Jet,Greaves,CBJ,2025020189,1
+8477967,35,{'default': 'T. Demko'},G,20/23,3/4,0/0,23/27,0.851852,3,1,0,0,4,58:54,True,L,27,23,Thatcher,Demko,VAN,2025020190,0
+8479406,32,{'default': 'F. Gustavsson'},G,21/23,5/5,0/0,26/28,0.928571,2,0,0,0,2,59:45,True,W,28,26,Filip,Gustavsson,MIN,2025020190,1
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,36/37,7/7,0/0,43/44,0.977273,1,0,0,0,1,60:00,True,W,44,43,Jacob,Markstrom,NJD,2025020191,0
+8475311,35,{'default': 'D. Kuemper'},G,17/19,0/0,1/2,18/21,0.857143,2,0,1,0,3,57:01,True,L,21,18,Darcy,Kuemper,LAK,2025020191,1
+8481519,30,{'default': 'S. Knight'},G,23/24,4/6,0/0,27/30,0.9,1,2,0,0,3,62:43,True,O,30,27,Spencer,Knight,CHI,2025020192,0
+8479973,74,{'default': 'S. Skinner'},G,25/26,0/1,2/2,27/29,0.931034,1,1,0,0,2,62:42,True,W,29,27,Stuart,Skinner,PIT,2025020192,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,10/11,1/2,0/0,11/13,0.846154,1,1,0,0,2,62:42,True,W,13,11,Igor,Shesterkin,NYR,2025020193,0
+8478916,35,{'default': 'J. Daccord'},G,15/18,9/9,0/0,24/27,0.888889,3,0,0,0,3,62:42,True,O,27,24,Joey,Daccord,SEA,2025020193,1
+8477992,31,{'default': 'J. Johansson'},G,20/22,5/5,0/0,25/27,0.925926,2,0,0,0,2,60:00,True,W,27,25,Jonas,Johansson,TBL,2025020194,0
+8478872,70,{'default': 'K. Vejmelka'},G,17/20,4/4,1/1,22/25,0.88,3,0,0,0,3,58:47,True,L,25,22,Karel,Vejmelka,UTA,2025020194,1
+8478007,90,{'default': 'E. Merzlikins'},G,33/35,1/2,2/2,36/39,0.923077,2,1,0,0,3,59:22,True,L,39,36,Elvis,Merzlikins,CBJ,2025020195,0
+8479496,33,{'default': 'D. Rittich'},G,15/17,5/5,0/0,20/22,0.909091,2,0,0,0,2,59:46,True,W,22,20,David,Rittich,NYI,2025020195,1
+8481692,32,{'default': 'D. Wolf'},G,17/18,0/0,0/0,17/18,0.944444,1,0,0,0,1,59:20,True,W,18,17,Dustin,Wolf,CGY,2025020196,0
+8482783,35,{'default': 'A. Kolosov'},G,17/19,2/2,0/0,19/21,0.904762,2,0,0,0,2,58:12,True,L,21,19,Aleksei,Kolosov,PHI,2025020196,1
+8474596,34,{'default': 'J. Allen'},G,22/25,1/1,2/2,25/28,0.892857,3,0,0,0,3,58:22,True,L,28,25,Jake,Allen,NJD,2025020197,0
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,31/32,1/1,0/0,32/33,0.969697,1,0,0,0,1,60:00,True,W,33,32,Lukas,Dostal,ANA,2025020197,1
+8475660,39,{'default': 'C. Talbot'},G,14/16,2/2,0/0,16/18,0.888889,2,0,0,0,2,64:52,True,W,18,16,Cam,Talbot,DET,2025020198,0
+8477968,33,{'default': 'A. Nedeljkovic'},G,26/28,3/3,1/1,30/32,0.9375,2,0,0,0,2,65:00,True,O,32,30,Alex,Nedeljkovic,SJS,2025020198,1
+8477465,35,{'default': 'T. Jarry'},G,14/18,1/1,1/1,16/20,0.8,4,0,0,0,4,57:32,True,L,20,16,Tristan,Jarry,EDM,2025020199,0
+8476932,41,{'default': 'A. Stolarz'},G,25/27,9/10,0/0,34/37,0.918919,2,1,0,0,3,60:00,True,W,37,34,Anthony,Stolarz,TOR,2025020199,1
+8475717,30,{'default': 'C. Pickard'},G,18/20,1/2,0/0,19/22,0.863636,2,1,0,0,3,58:18,True,L,22,19,Calvin,Pickard,EDM,2025020200,0
+8476412,50,{'default': 'J. Binnington'},G,24/25,0/1,0/0,24/26,0.923077,1,1,0,0,2,60:00,True,W,26,24,Jordan,Binnington,STL,2025020200,1
+8477967,35,{'default': 'T. Demko'},G,21/23,4/6,0/0,25/29,0.862069,2,2,0,0,4,64:14,True,W,29,25,Thatcher,Demko,VAN,2025020201,0
+8477424,74,{'default': 'J. Saros'},G,23/26,6/8,2/2,31/36,0.861111,3,2,0,0,5,64:49,True,O,36,31,Juuse,Saros,NSH,2025020201,1
+8482821,40,"{'default': 'A. Soderblom', 'cs': 'A. Söderblom', 'fi': 'A. Söderblom', 'sk': 'A. Söderblom', 'sv': 'A. Söderblom'}",G,18/20,3/4,0/0,21/24,0.875,2,1,0,0,3,57:05,True,L,24,21,Arvid,Soderblom,CHI,2025020202,0
+8478916,35,{'default': 'J. Daccord'},G,25/26,4/4,0/0,29/30,0.966667,1,0,0,0,1,60:00,True,W,30,29,Joey,Daccord,SEA,2025020202,1
+8478872,70,{'default': 'K. Vejmelka'},G,16/17,1/1,0/0,17/18,0.944444,1,0,0,0,1,60:41,True,W,18,17,Karel,Vejmelka,UTA,2025020203,0
+8479312,34,{'default': 'A. Lyon'},G,27/29,6/6,0/0,33/35,0.942857,2,0,0,0,2,60:47,True,O,35,33,Alex,Lyon,BUF,2025020203,1
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,13/15,1/3,2/2,16/20,0.8,2,2,0,0,4,64:55,True,W,20,16,Dan,Vladar,PHI,2025020204,0
+8478470,35,{'default': 'S. Montembeault'},G,28/30,8/10,2/2,38/42,0.904762,2,2,0,0,4,65:00,True,O,42,38,Samuel,Montembeault,MTL,2025020204,1
+8480280,1,{'default': 'J. Swayman'},G,22/25,6/6,2/2,30/33,0.909091,3,0,0,0,3,65:00,True,W,33,30,Jeremy,Swayman,BOS,2025020205,0
+8478009,30,{'default': 'I. Sorokin'},G,19/21,5/6,0/0,24/27,0.888889,2,1,0,0,3,65:00,True,O,27,24,Ilya,Sorokin,NYI,2025020205,1
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,15/15,10/10,1/1,26/26,1.0,0,0,0,0,0,60:00,True,W,26,26,Pyotr,Kochetkov,CAR,2025020206,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,23/24,6/7,0/0,29/31,0.935484,1,1,0,0,2,58:44,True,L,31,29,Igor,Shesterkin,NYR,2025020206,1
+8479973,74,{'default': 'S. Skinner'},G,19/21,5/6,0/0,24/27,0.888889,2,1,0,0,3,65:00,True,O,27,24,Stuart,Skinner,PIT,2025020207,0
+8479193,1,{'default': 'C. DeSmith'},G,21/23,1/2,1/1,23/26,0.884615,2,1,0,0,3,65:00,True,W,26,23,Casey,DeSmith,DAL,2025020207,1
+8481020,29,{'default': 'J. Annunen'},G,21/21,1/3,0/0,22/24,0.916667,1,2,0,0,3,61:12,True,O,24,22,Justus,Annunen,NSH,2025020208,0
+8479406,32,{'default': 'F. Gustavsson'},G,25/27,5/5,2/2,32/34,0.941176,2,0,0,0,2,63:03,True,W,34,32,Filip,Gustavsson,MIN,2025020208,1
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,20/22,8/9,2/2,30/33,0.909091,2,1,0,0,3,57:00,True,L,33,30,Andrei,Vasilevskiy,TBL,2025020209,0
+8475809,41,{'default': 'S. Wedgewood'},G,19/21,2/2,1/1,22/24,0.916667,2,0,0,0,2,60:00,True,W,24,22,Scott,Wedgewood,COL,2025020209,1
+8476434,36,{'default': 'J. Gibson'},G,32/33,0/0,1/1,33/34,0.970588,1,0,0,0,1,57:55,True,L,34,33,John,Gibson,DET,2025020210,0
+8481033,40,{'default': 'A. Schmid'},G,24/24,0/0,0/0,24/24,1.0,0,0,0,0,0,60:00,True,W,24,24,Akira,Schmid,VGK,2025020210,1
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,18/23,5/7,2/2,25/32,0.78125,5,2,0,0,7,58:44,True,L,32,25,Sergei,Bobrovsky,FLA,2025020211,0
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,16/18,2/3,0/0,18/21,0.857143,2,1,0,0,3,59:45,True,W,21,18,Lukas,Dostal,ANA,2025020211,1
+8476945,37,{'default': 'C. Hellebuyck'},G,18/19,4/5,1/1,23/25,0.92,1,1,0,0,2,58:12,True,L,25,23,Connor,Hellebuyck,WPG,2025020212,0
+8475311,35,{'default': 'D. Kuemper'},G,15/15,6/6,2/2,23/23,1.0,0,0,0,0,0,59:35,True,W,23,23,Darcy,Kuemper,LAK,2025020212,1
+8477970,41,"{'default': 'V. Vanecek', 'cs': 'V. Vaněček', 'sk': 'V. Vaněček'}",G,13/17,0/0,1/1,14/18,0.777778,4,0,0,0,4,58:19,True,L,18,14,Vitek,Vanecek,UTA,2025020213,0
+8476932,41,{'default': 'A. Stolarz'},G,18/21,3/3,0/0,21/24,0.875,3,0,0,0,3,60:00,True,W,24,21,Anthony,Stolarz,TOR,2025020213,1
+8476412,50,{'default': 'J. Binnington'},G,11/14,0/1,0/0,11/15,0.733333,3,1,0,0,4,29:28,True,L,15,11,Jordan,Binnington,STL,2025020214,0
+8480313,48,{'default': 'L. Thompson'},G,17/17,4/4,2/3,23/24,0.958333,0,0,1,0,1,59:51,True,W,24,23,Logan,Thompson,WSH,2025020214,1
+8482982,73,{'default': 'J. Greaves'},G,17/21,3/3,1/1,21/25,0.84,4,0,0,0,4,55:40,True,L,25,21,Jet,Greaves,CBJ,2025020215,0
+8481692,32,{'default': 'D. Wolf'},G,36/36,5/5,1/2,42/43,0.976744,0,0,1,0,1,59:48,True,W,43,42,Dustin,Wolf,CGY,2025020215,1
+8481519,30,{'default': 'S. Knight'},G,37/39,6/6,0/0,43/45,0.955556,2,0,0,0,2,60:00,True,W,45,43,Spencer,Knight,CHI,2025020216,0
+8480947,32,{'default': 'K. Lankinen'},G,23/26,0/1,0/0,23/27,0.851852,3,1,0,0,4,58:47,True,L,27,23,Kevin,Lankinen,VAN,2025020216,1
+8482137,30,{'default': 'Y. Askarov'},G,16/17,13/13,0/0,29/30,0.966667,1,0,0,0,1,60:00,True,W,30,29,Yaroslav,Askarov,SJS,2025020217,0
+8478916,35,{'default': 'J. Daccord'},G,10/13,3/4,2/3,15/20,0.75,3,1,1,0,5,43:14,True,L,20,15,Joey,Daccord,SEA,2025020217,1
+8476999,35,{'default': 'L. Ullmark'},G,21/24,1/1,0/0,22/25,0.88,3,0,0,0,3,64:54,True,O,25,22,Linus,Ullmark,OTT,2025020218,0
+8476914,70,{'default': 'J. Korpisalo'},G,15/17,2/2,3/3,20/22,0.909091,2,0,0,0,2,64:54,True,W,22,20,Joonas,Korpisalo,BOS,2025020218,1
+8480981,30,{'default': 'J. Hofer'},G,23/23,5/5,0/0,28/28,1.0,0,0,0,0,0,60:00,True,W,28,28,Joel,Hofer,STL,2025020219,0
+8480045,1,{'default': 'U. Luukkonen'},G,10/11,3/3,1/2,14/16,0.875,1,0,1,2,2,59:50,True,L,16,14,Ukko-Pekka,Luukkonen,BUF,2025020219,1
+8482487,75,{'default': 'J. Dobes'},G,19/23,4/4,1/1,24/28,0.857143,4,0,0,0,4,61:29,True,O,28,24,Jakub,Dobes,MTL,2025020220,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,15/18,1/1,0/0,16/19,0.842105,3,0,0,0,3,60:18,True,W,19,16,Jacob,Markstrom,NJD,2025020220,1
+8479292,79,{'default': 'C. Lindgren'},G,19/20,5/8,2/2,26/30,0.866667,1,3,0,0,4,58:01,True,L,30,26,Charlie,Lindgren,WSH,2025020221,0
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,23/26,3/3,1/1,27/30,0.9,3,0,0,0,3,59:37,True,W,30,27,Arturs,Silovs,PIT,2025020221,1
+8479406,32,{'default': 'F. Gustavsson'},G,20/24,2/2,1/1,23/27,0.851852,4,0,0,0,4,58:12,True,L,27,23,Filip,Gustavsson,MIN,2025020222,0
+8475883,31,{'default': 'F. Andersen'},G,21/23,0/1,0/0,21/24,0.875,2,1,0,0,3,60:00,True,W,24,21,Frederik,Andersen,CAR,2025020222,1
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,22/23,1/1,0/0,23/24,0.958333,1,0,0,0,1,60:00,True,W,24,23,Dan,Vladar,PHI,2025020223,0
+8477424,74,{'default': 'J. Saros'},G,21/23,1/1,1/1,23/25,0.92,2,0,0,0,2,58:06,True,L,25,23,Juuse,Saros,NSH,2025020223,1
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,17/19,4/7,0/0,21/26,0.807692,2,3,0,0,5,59:49,True,W,26,21,Lukas,Dostal,ANA,2025020224,0
+8479979,29,{'default': 'J. Oettinger'},G,11/14,7/9,0/1,18/24,0.75,3,2,1,0,6,58:15,True,L,24,18,Jake,Oettinger,DAL,2025020224,1
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,26/29,2/2,1/1,29/32,0.90625,3,0,0,4,3,60:00,True,W,32,29,Andrei,Vasilevskiy,TBL,2025020225,0
+8482761,30,{'default': 'C. Lindbom'},G,11/14,10/12,0/0,21/26,0.807692,3,2,0,0,5,58:37,True,L,26,21,Carl,Lindbom,VGK,2025020225,1
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,18/19,4/5,2/2,24/26,0.923077,1,1,0,0,2,60:00,True,W,26,24,Sergei,Bobrovsky,FLA,2025020226,0
+8476341,31,{'default': 'A. Forsberg'},G,15/19,1/1,3/4,19/24,0.791667,4,0,1,0,5,60:00,True,L,24,19,Anton,Forsberg,LAK,2025020226,1
+8471734,32,{'default': 'J. Quick'},G,23/24,8/8,1/1,32/33,0.969697,1,0,0,0,1,59:29,True,W,33,32,Jonathan,Quick,NYR,2025020227,0
+8475660,39,{'default': 'C. Talbot'},G,18/21,1/2,3/3,22/26,0.846154,3,1,0,0,4,59:59,True,L,26,22,Cam,Talbot,DET,2025020227,1
+8482661,30,{'default': 'J. Wallstedt'},G,20/22,5/5,0/0,25/27,0.925926,2,0,0,0,2,60:00,True,W,27,25,Jesper,Wallstedt,MIN,2025020228,0
+8479496,33,{'default': 'D. Rittich'},G,18/23,2/2,1/1,21/26,0.807692,5,0,0,0,5,60:00,True,L,26,21,David,Rittich,NYI,2025020228,1
+8481519,30,{'default': 'S. Knight'},G,31/31,1/1,1/1,33/33,1.0,0,0,0,0,0,60:00,True,W,33,33,Spencer,Knight,CHI,2025020229,0
+8481692,32,{'default': 'D. Wolf'},G,20/23,3/4,0/0,23/27,0.851852,3,1,0,0,4,59:07,True,L,27,23,Dustin,Wolf,CGY,2025020229,1
+8476945,37,{'default': 'C. Hellebuyck'},G,20/22,4/4,2/2,26/28,0.928571,2,0,0,0,2,57:13,True,L,28,26,Connor,Hellebuyck,WPG,2025020230,0
+8477968,33,{'default': 'A. Nedeljkovic'},G,24/25,4/4,4/4,32/33,0.969697,1,0,0,2,1,60:00,True,W,33,32,Alex,Nedeljkovic,SJS,2025020230,1
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,19/20,4/4,0/0,23/24,0.958333,1,0,0,0,1,65:00,True,O,24,23,Arturs,Silovs,PIT,2025020231,0
+8474596,34,{'default': 'J. Allen'},G,28/29,3/3,2/2,33/34,0.970588,1,0,0,0,1,65:00,True,W,34,33,Jake,Allen,NJD,2025020231,1
+8476999,35,{'default': 'L. Ullmark'},G,17/19,3/3,0/0,20/22,0.909091,2,0,0,0,2,63:19,True,W,22,20,Linus,Ullmark,OTT,2025020232,0
+8481035,33,{'default': 'S. Ersson'},G,10/13,1/1,0/0,11/14,0.785714,3,0,0,0,3,63:19,True,O,14,11,Samuel,Ersson,PHI,2025020232,1
+8479979,29,{'default': 'J. Oettinger'},G,14/17,3/4,0/0,17/21,0.809524,3,1,0,0,4,60:00,True,W,21,17,Jake,Oettinger,DAL,2025020233,0
+8481020,29,{'default': 'J. Annunen'},G,13/17,4/5,0/0,17/22,0.772727,4,1,0,0,5,57:53,True,L,22,17,Justus,Annunen,NSH,2025020233,1
+8480280,1,{'default': 'J. Swayman'},G,24/25,5/7,1/1,30/33,0.909091,1,2,0,0,3,60:00,True,W,33,30,Jeremy,Swayman,BOS,2025020234,0
+8476932,41,{'default': 'A. Stolarz'},G,12/15,3/4,0/0,15/19,0.789474,3,1,0,0,4,24:41,True,L,19,15,Anthony,Stolarz,TOR,2025020234,1
+8478872,70,{'default': 'K. Vejmelka'},G,13/19,3/3,1/1,17/23,0.73913,6,0,0,0,6,60:00,True,L,23,17,Karel,Vejmelka,UTA,2025020235,0
+8478470,35,{'default': 'S. Montembeault'},G,19/21,6/6,0/0,25/27,0.925926,2,0,0,0,2,60:00,True,W,27,25,Samuel,Montembeault,MTL,2025020235,1
+8480313,48,{'default': 'L. Thompson'},G,17/19,0/1,0/0,17/20,0.85,2,1,0,0,3,57:54,True,L,20,17,Logan,Thompson,WSH,2025020236,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,24/25,2/2,3/3,29/30,0.966667,2,0,0,0,2,59:34,True,W,30,29,Andrei,Vasilevskiy,TBL,2025020236,1
+8478009,30,{'default': 'I. Sorokin'},G,29/29,4/4,0/0,33/33,1.0,0,0,0,0,0,60:00,True,W,33,33,Ilya,Sorokin,NYI,2025020237,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,17/20,3/4,1/1,21/25,0.84,3,1,0,0,4,56:56,True,L,25,21,Igor,Shesterkin,NYR,2025020237,1
+8479312,34,{'default': 'A. Lyon'},G,27/30,2/3,0/0,29/33,0.878788,3,1,0,0,4,58:47,True,L,33,29,Alex,Lyon,BUF,2025020238,0
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,18/21,0/0,1/1,19/22,0.863636,3,0,0,0,3,59:01,True,W,22,19,Pyotr,Kochetkov,CAR,2025020238,1
+8475831,31,{'default': 'P. Grubauer'},G,16/18,0/1,0/0,16/19,0.842105,2,1,0,0,3,59:33,True,W,19,16,Philipp,Grubauer,SEA,2025020239,0
+8480981,30,{'default': 'J. Hofer'},G,23/26,3/4,0/0,26/30,0.866667,3,1,0,0,4,61:57,True,O,30,26,Joel,Hofer,STL,2025020239,1
+8475809,41,{'default': 'S. Wedgewood'},G,16/16,3/4,4/4,23/24,0.958333,0,1,0,0,1,60:00,True,W,24,23,Scott,Wedgewood,COL,2025020240,0
+8479973,74,{'default': 'S. Skinner'},G,7/11,2/2,0/0,9/13,0.692308,4,0,0,0,4,27:28,True,L,13,9,Stuart,Skinner,PIT,2025020240,1
+8478007,90,{'default': 'E. Merzlikins'},G,17/21,3/3,0/0,20/24,0.833333,4,0,0,0,4,58:03,True,L,24,20,Elvis,Merzlikins,CBJ,2025020241,0
+8480947,32,{'default': 'K. Lankinen'},G,21/24,6/6,2/2,29/32,0.90625,3,0,0,0,3,59:51,True,W,32,29,Kevin,Lankinen,VAN,2025020241,1
+8475852,34,"{'default': 'P. Mrazek', 'cs': 'P. Mrázek', 'sk': 'P. Mrázek'}",G,31/33,4/5,1/1,36/39,0.923077,2,1,0,0,3,64:28,True,W,39,36,Petr,Mrazek,ANA,2025020242,0
+8481033,40,{'default': 'A. Schmid'},G,24/28,1/1,0/0,25/29,0.862069,4,0,0,0,4,64:10,True,O,29,25,Akira,Schmid,VGK,2025020242,1
+8480193,40,{'default': 'D. Tarasov'},G,15/17,4/4,1/1,20/22,0.909091,2,0,0,0,2,58:08,True,L,22,20,Daniil,Tarasov,FLA,2025020243,0
+8482137,30,{'default': 'Y. Askarov'},G,29/30,9/9,0/0,38/39,0.974359,1,0,0,0,1,60:00,True,W,39,38,Yaroslav,Askarov,SJS,2025020243,1
+8482821,40,"{'default': 'A. Soderblom', 'cs': 'A. Söderblom', 'fi': 'A. Söderblom', 'sk': 'A. Söderblom', 'sv': 'A. Söderblom'}",G,34/35,11/11,0/0,45/46,0.978261,1,0,0,0,1,60:00,True,W,46,45,Arvid,Soderblom,CHI,2025020244,0
+8476434,36,{'default': 'J. Gibson'},G,15/16,0/3,0/0,15/19,0.789474,1,3,0,0,4,59:37,True,L,19,15,John,Gibson,DET,2025020244,1
+8475311,35,{'default': 'D. Kuemper'},G,27/28,3/4,1/1,31/33,0.939394,1,1,0,0,2,60:00,True,W,33,31,Darcy,Kuemper,LAK,2025020245,0
+8483703,1,{'default': 'S. Murashov'},G,18/20,5/6,1/1,24/27,0.888889,2,1,0,0,3,58:10,True,L,27,24,Sergei,Murashov,PIT,2025020245,1
+8483548,32,{'default': 'B. Bussi'},G,12/15,4/5,0/0,16/20,0.8,3,1,0,0,4,60:00,True,W,20,16,Brandon,Bussi,CAR,2025020246,0
+8483710,35,{'default': 'D. Hildeby'},G,28/32,13/14,1/1,42/47,0.893617,4,1,0,0,5,58:30,True,L,47,42,Dennis,Hildeby,TOR,2025020246,1
+8477970,41,"{'default': 'V. Vanecek', 'cs': 'V. Vaněček', 'sk': 'V. Vaněček'}",G,19/23,2/2,0/0,21/25,0.84,4,0,0,0,4,57:14,True,L,25,21,Vitek,Vanecek,UTA,2025020247,0
+8482447,1,{'default': 'L. Meriläinen'},G,27/29,2/2,0/0,29/31,0.935484,2,0,0,0,2,60:00,True,W,31,29,Leevi,Meriläinen,OTT,2025020247,1
+8476899,30,{'default': 'M. Murray'},G,21/22,1/2,1/1,23/25,0.92,1,1,0,0,2,58:07,True,L,25,23,Matt,Murray,SEA,2025020248,0
+8479193,1,{'default': 'C. DeSmith'},G,21/22,9/9,0/0,30/31,0.967742,1,0,0,0,1,60:00,True,W,31,30,Casey,DeSmith,DAL,2025020248,1
+8482445,1,{'default': 'D. Cooley'},G,13/14,3/3,1/1,17/18,0.944444,1,0,0,0,1,57:41,True,L,18,17,Devin,Cooley,CGY,2025020249,0
+8482661,30,{'default': 'J. Wallstedt'},G,35/35,1/1,0/0,36/36,1.0,0,0,0,0,0,60:00,True,W,36,36,Jesper,Wallstedt,MIN,2025020249,1
+8478406,39,{'default': 'M. Blackwood'},G,21/23,8/9,0/1,29/33,0.878788,2,1,1,0,4,61:08,True,W,33,29,Mackenzie,Blackwood,COL,2025020250,0
+8480947,32,{'default': 'K. Lankinen'},G,25/28,1/3,1/1,27/32,0.84375,3,2,0,0,5,60:38,True,O,32,27,Kevin,Lankinen,VAN,2025020250,1
+8477480,1,{'default': 'E. Comrie'},G,14/16,1/3,2/2,17/21,0.809524,2,2,0,0,4,60:00,True,L,21,17,Eric,Comrie,WPG,2025020251,0
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,20/21,3/3,0/0,23/24,0.958333,1,0,0,0,1,60:00,True,W,24,23,Lukas,Dostal,ANA,2025020251,1
+8478009,30,{'default': 'I. Sorokin'},G,24/25,9/10,0/0,33/35,0.942857,1,1,0,0,2,61:17,True,W,35,33,Ilya,Sorokin,NYI,2025020252,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,20/22,1/2,0/0,21/24,0.875,2,1,0,0,3,58:23,True,O,24,21,Jacob,Markstrom,NJD,2025020252,1
+8477424,74,{'default': 'J. Saros'},G,7/11,0/1,0/0,7/12,0.583333,4,1,0,0,5,39:57,True,L,12,7,Juuse,Saros,NSH,2025020253,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,17/18,10/12,0/0,27/30,0.9,1,2,0,0,3,59:57,True,W,30,27,Igor,Shesterkin,NYR,2025020253,1
+8482982,73,{'default': 'J. Greaves'},G,17/21,1/1,1/2,19/24,0.791667,4,0,1,0,5,60:56,True,O,24,19,Jet,Greaves,CBJ,2025020254,0
+8479973,74,{'default': 'S. Skinner'},G,16/20,1/1,1/1,18/22,0.818182,4,0,0,0,4,60:49,True,W,22,18,Stuart,Skinner,PIT,2025020254,1
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,27/29,3/3,0/0,30/32,0.9375,2,0,0,0,2,60:00,True,W,32,30,Sergei,Bobrovsky,FLA,2025020255,0
+8482761,30,{'default': 'C. Lindbom'},G,16/18,1/2,0/0,17/20,0.85,2,1,0,0,3,58:29,True,L,20,17,Carl,Lindbom,VGK,2025020255,1
+8476932,41,{'default': 'A. Stolarz'},G,6/7,2/4,0/0,8/11,0.727273,1,2,0,0,3,20:00,True,,11,8,Anthony,Stolarz,TOR,2025020256,0
+8480280,1,{'default': 'J. Swayman'},G,23/24,7/8,0/1,30/33,0.909091,1,1,1,0,3,59:53,True,W,33,30,Jeremy,Swayman,BOS,2025020256,1
+8475311,35,{'default': 'D. Kuemper'},G,16/17,3/3,2/2,21/22,0.954545,1,0,0,0,1,59:02,True,W,22,21,Darcy,Kuemper,LAK,2025020257,0
+8478470,35,{'default': 'S. Montembeault'},G,18/22,3/3,0/0,21/25,0.84,4,0,0,0,4,59:39,True,L,25,21,Samuel,Montembeault,MTL,2025020257,1
+8479979,29,{'default': 'J. Oettinger'},G,25/27,2/2,0/0,27/29,0.931034,2,0,0,0,2,63:04,True,W,29,27,Jake,Oettinger,DAL,2025020258,0
+8476999,35,{'default': 'L. Ullmark'},G,25/27,4/5,1/1,30/33,0.909091,2,1,0,0,3,63:04,True,O,33,30,Linus,Ullmark,OTT,2025020258,1
+8480313,48,{'default': 'L. Thompson'},G,22/23,6/6,2/2,30/31,0.967742,1,0,0,0,1,60:00,True,W,31,30,Logan,Thompson,WSH,2025020259,0
+8475883,31,{'default': 'F. Andersen'},G,14/16,9/10,1/1,24/27,0.888889,2,1,0,2,3,54:50,True,L,27,24,Frederik,Andersen,CAR,2025020259,1
+8481692,32,{'default': 'D. Wolf'},G,22/24,6/7,0/0,28/31,0.903226,2,1,0,0,3,58:16,True,L,31,28,Dustin,Wolf,CGY,2025020260,0
+8476412,50,{'default': 'J. Binnington'},G,32/34,4/4,2/2,38/40,0.95,2,0,0,0,2,60:00,True,W,40,38,Jordan,Binnington,STL,2025020260,1
+8482137,30,{'default': 'Y. Askarov'},G,21/21,5/6,2/2,28/29,0.965517,0,1,0,0,1,62:14,True,W,29,28,Yaroslav,Askarov,SJS,2025020261,0
+8479406,32,{'default': 'F. Gustavsson'},G,15/16,1/2,0/0,16/18,0.888889,1,1,0,0,2,62:41,True,O,18,16,Filip,Gustavsson,MIN,2025020261,1
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,27/29,4/5,1/1,32/35,0.914286,2,1,0,0,3,58:46,True,L,35,32,Lukas,Dostal,ANA,2025020262,0
+8475809,41,{'default': 'S. Wedgewood'},G,32/33,2/2,1/1,35/36,0.972222,1,0,0,0,1,60:00,True,W,36,35,Scott,Wedgewood,COL,2025020262,1
+8476945,37,{'default': 'C. Hellebuyck'},G,28/30,2/3,0/0,30/33,0.909091,2,1,0,0,3,60:00,True,W,33,30,Connor,Hellebuyck,WPG,2025020263,0
+8477967,35,{'default': 'T. Demko'},G,5/7,0/1,0/0,5/8,0.625,2,1,0,0,3,20:00,True,,8,5,Thatcher,Demko,VAN,2025020263,1
+8482982,73,{'default': 'J. Greaves'},G,19/20,3/3,0/0,22/23,0.956522,1,0,0,0,1,65:00,True,W,23,22,Jet,Greaves,CBJ,2025020264,0
+8476899,30,{'default': 'M. Murray'},G,25/25,7/8,1/1,33/34,0.970588,0,1,0,0,1,64:54,True,O,34,33,Matt,Murray,SEA,2025020264,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,25/27,6/6,2/3,33/36,0.916667,2,0,1,2,3,60:00,True,W,36,33,Igor,Shesterkin,NYR,2025020265,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,8/12,0/1,0/0,8/13,0.615385,4,1,0,0,5,40:00,True,L,13,8,Andrei,Vasilevskiy,TBL,2025020265,1
+8479973,74,{'default': 'S. Skinner'},G,15/15,4/5,1/1,20/21,0.952381,0,1,0,0,1,61:19,True,W,21,20,Stuart,Skinner,PIT,2025020266,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,26/28,2/2,1/1,29/31,0.935484,2,0,0,2,2,61:19,True,O,31,29,Dan,Vladar,PHI,2025020266,1
+8481551,92,{'default': 'C. Ellis'},G,28/32,3/3,1/1,32/36,0.888889,4,0,0,0,4,57:50,True,L,36,32,Colten,Ellis,BUF,2025020267,0
+8478872,70,{'default': 'K. Vejmelka'},G,14/16,3/3,0/0,17/19,0.894737,2,0,0,0,2,60:00,True,W,19,17,Karel,Vejmelka,UTA,2025020267,1
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,9/11,8/9,0/0,17/20,0.85,2,1,0,0,3,63:28,True,W,20,17,Jacob,Markstrom,NJD,2025020268,0
+8481519,30,{'default': 'S. Knight'},G,30/34,1/1,2/2,33/37,0.891892,4,0,0,0,4,63:28,True,O,37,33,Spencer,Knight,CHI,2025020268,1
+8475311,35,{'default': 'D. Kuemper'},G,10/13,2/2,0/0,12/15,0.8,3,0,0,0,3,60:35,True,W,15,12,Darcy,Kuemper,LAK,2025020269,0
+8483710,35,{'default': 'D. Hildeby'},G,25/29,7/7,1/1,33/37,0.891892,4,0,0,0,4,60:35,True,O,37,33,Dennis,Hildeby,TOR,2025020269,1
+8479193,1,{'default': 'C. DeSmith'},G,19/19,3/3,2/2,24/24,1.0,0,0,0,0,0,59:26,True,W,24,24,Casey,DeSmith,DAL,2025020270,0
+8482487,75,{'default': 'J. Dobes'},G,5/9,2/3,1/1,8/13,0.615385,4,1,0,0,5,40:00,True,L,13,8,Jakub,Dobes,MTL,2025020270,1
+8476914,70,{'default': 'J. Korpisalo'},G,14/17,3/4,0/0,17/21,0.809524,3,1,0,0,4,58:10,True,L,21,17,Joonas,Korpisalo,BOS,2025020271,0
+8482447,1,{'default': 'L. Meriläinen'},G,12/14,6/7,0/0,18/21,0.857143,2,1,0,0,3,60:00,True,W,21,18,Leevi,Meriläinen,OTT,2025020271,1
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,24/27,2/4,1/1,27/32,0.84375,3,2,0,0,5,59:21,True,L,32,27,Lukas,Dostal,ANA,2025020272,0
+8476434,36,{'default': 'J. Gibson'},G,12/14,0/0,3/3,15/17,0.882353,2,0,0,0,2,40:00,True,,17,15,John,Gibson,DET,2025020272,1
+8480313,48,{'default': 'L. Thompson'},G,16/19,6/8,0/0,22/27,0.814815,3,2,0,0,5,59:23,True,L,27,22,Logan,Thompson,WSH,2025020273,0
+8480193,40,{'default': 'D. Tarasov'},G,35/38,1/1,1/1,37/40,0.925,3,0,0,0,3,60:00,True,W,40,37,Daniil,Tarasov,FLA,2025020273,1
+8475717,30,{'default': 'C. Pickard'},G,18/23,2/2,0/0,20/25,0.8,5,0,0,0,5,57:58,True,L,25,20,Calvin,Pickard,EDM,2025020274,0
+8482982,73,{'default': 'J. Greaves'},G,21/25,4/4,0/0,25/29,0.862069,4,0,0,0,4,60:00,True,W,29,25,Jet,Greaves,CBJ,2025020274,1
+8479312,34,{'default': 'A. Lyon'},G,1/3,0/0,0/0,1/3,0.333333,2,0,0,0,2,06:10,True,,3,1,Alex,Lyon,BUF,2025020275,0
+8478406,39,{'default': 'M. Blackwood'},G,13/15,5/6,0/0,18/21,0.857143,2,1,0,0,3,60:00,True,W,21,18,Mackenzie,Blackwood,COL,2025020275,1
+8482137,30,{'default': 'Y. Askarov'},G,28/29,4/4,2/2,34/35,0.971429,1,0,0,0,1,58:23,True,L,35,34,Yaroslav,Askarov,SJS,2025020276,0
+8481692,32,{'default': 'D. Wolf'},G,13/13,3/3,1/1,17/17,1.0,0,0,0,0,0,60:00,True,W,17,17,Dustin,Wolf,CGY,2025020276,1
+8478009,30,{'default': 'I. Sorokin'},G,18/21,8/8,0/0,26/29,0.896552,3,0,0,0,3,61:46,True,W,29,26,Ilya,Sorokin,NYI,2025020277,0
+8481033,40,{'default': 'A. Schmid'},G,14/16,5/6,1/2,20/24,0.833333,2,1,1,0,4,62:31,True,O,24,20,Akira,Schmid,VGK,2025020277,1
+8476945,37,{'default': 'C. Hellebuyck'},G,11/14,2/3,0/0,13/17,0.764706,3,1,0,2,4,58:04,True,L,17,13,Connor,Hellebuyck,WPG,2025020278,0
+8475831,31,{'default': 'P. Grubauer'},G,21/23,1/2,1/1,23/26,0.884615,2,1,0,0,3,60:00,True,W,26,23,Philipp,Grubauer,SEA,2025020278,1
+8480947,32,{'default': 'K. Lankinen'},G,34/37,0/1,0/0,34/38,0.894737,3,1,0,0,4,64:29,True,O,38,34,Kevin,Lankinen,VAN,2025020279,0
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,12/13,1/2,1/2,14/17,0.823529,1,1,1,0,3,64:29,True,W,17,14,Pyotr,Kochetkov,CAR,2025020279,1
+8481035,33,{'default': 'S. Ersson'},G,10/15,2/2,0/0,12/17,0.705882,5,0,0,0,5,65:00,True,W,17,12,Samuel,Ersson,PHI,2025020280,0
+8476412,50,{'default': 'J. Binnington'},G,25/30,1/1,0/0,26/31,0.83871,5,0,0,0,5,65:00,True,O,31,26,Jordan,Binnington,STL,2025020280,1
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,25/27,2/2,1/1,28/30,0.933333,2,0,0,0,2,60:44,True,O,30,28,Arturs,Silovs,PIT,2025020281,0
+8477424,74,{'default': 'J. Saros'},G,16/17,0/0,0/0,16/17,0.941176,1,0,0,0,1,60:37,True,W,17,16,Juuse,Saros,NSH,2025020281,1
+8479496,33,{'default': 'D. Rittich'},G,20/21,7/8,1/1,28/30,0.933333,1,1,0,0,2,62:06,True,W,30,28,David,Rittich,NYI,2025020282,0
+8478872,70,{'default': 'K. Vejmelka'},G,10/12,6/6,3/3,19/21,0.904762,3,0,0,0,3,61:33,True,O,21,19,Karel,Vejmelka,UTA,2025020282,1
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,16/16,5/6,1/1,22/23,0.956522,0,1,0,0,1,60:00,True,W,23,22,Andrei,Vasilevskiy,TBL,2025020283,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,13/15,4/4,0/0,17/19,0.894737,2,0,0,0,2,57:45,True,L,19,17,Sergei,Bobrovsky,FLA,2025020283,1
+8475852,34,"{'default': 'P. Mrazek', 'cs': 'P. Mrázek', 'sk': 'P. Mrázek'}",G,17/18,10/10,1/1,28/29,0.965517,1,0,0,0,1,58:05,True,L,29,28,Petr,Mrazek,ANA,2025020284,0
+8482661,30,{'default': 'J. Wallstedt'},G,23/23,2/2,3/3,28/28,1.0,0,0,0,0,0,60:00,True,W,28,28,Jesper,Wallstedt,MIN,2025020284,1
+8480280,1,{'default': 'J. Swayman'},G,19/20,6/6,1/2,26/28,0.928571,1,0,1,0,2,59:48,True,W,28,26,Jeremy,Swayman,BOS,2025020285,0
+8478470,35,{'default': 'S. Montembeault'},G,10/12,10/11,0/0,20/23,0.869565,2,1,0,0,3,58:16,True,L,23,20,Samuel,Montembeault,MTL,2025020285,1
+8476341,31,{'default': 'A. Forsberg'},G,17/17,0/0,0/0,17/17,1.0,0,0,0,0,0,59:59,True,W,17,17,Anton,Forsberg,LAK,2025020286,0
+8476999,35,{'default': 'L. Ullmark'},G,12/13,5/5,0/0,17/18,0.944444,1,0,0,0,1,57:39,True,L,18,17,Linus,Ullmark,OTT,2025020286,1
+8481551,92,{'default': 'C. Ellis'},G,17/20,7/8,0/0,24/28,0.857143,3,1,0,0,4,61:02,True,W,28,24,Colten,Ellis,BUF,2025020287,0
+8476434,36,{'default': 'J. Gibson'},G,16/20,6/6,0/1,22/27,0.814815,4,0,1,0,5,60:30,True,O,27,22,John,Gibson,DET,2025020287,1
+8474596,34,{'default': 'J. Allen'},G,26/28,2/2,1/1,29/31,0.935484,2,0,0,0,2,65:00,True,W,31,29,Jake,Allen,NJD,2025020288,0
+8480313,48,{'default': 'L. Thompson'},G,24/25,5/6,0/0,29/31,0.935484,1,1,0,0,2,65:00,True,O,31,29,Logan,Thompson,WSH,2025020288,1
+8479973,74,{'default': 'S. Skinner'},G,26/29,5/5,2/2,33/36,0.916667,3,0,0,0,3,60:19,True,W,36,33,Stuart,Skinner,PIT,2025020289,0
+8475883,31,{'default': 'F. Andersen'},G,19/22,0/1,0/0,19/23,0.826087,3,1,0,0,4,60:19,True,O,23,19,Frederik,Andersen,CAR,2025020289,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,25/25,1/2,0/0,26/27,0.962963,0,1,0,0,1,64:39,True,W,27,26,Igor,Shesterkin,NYR,2025020290,0
+8482982,73,{'default': 'J. Greaves'},G,29/29,3/4,0/0,32/33,0.969697,0,1,0,0,1,65:00,True,O,33,32,Jet,Greaves,CBJ,2025020290,1
+8479361,60,{'default': 'J. Woll'},G,21/24,6/6,2/2,29/32,0.90625,3,0,0,0,3,58:36,True,L,32,29,Joseph,Woll,TOR,2025020291,0
+8481519,30,{'default': 'S. Knight'},G,26/28,5/5,0/0,31/33,0.939394,2,0,0,0,2,60:00,True,W,33,31,Spencer,Knight,CHI,2025020291,1
+8481033,40,{'default': 'A. Schmid'},G,21/22,1/1,0/0,22/23,0.956522,1,0,0,0,1,60:00,True,W,23,22,Akira,Schmid,VGK,2025020292,0
+8480981,30,{'default': 'J. Hofer'},G,22/25,8/9,0/0,30/34,0.882353,3,1,0,0,4,60:00,True,L,34,30,Joel,Hofer,STL,2025020292,1
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,20/24,3/4,0/0,23/28,0.821429,4,1,0,0,5,59:56,True,L,28,23,Dan,Vladar,PHI,2025020293,0
+8479979,29,{'default': 'J. Oettinger'},G,19/20,1/1,0/0,20/21,0.952381,1,0,0,0,1,60:00,True,W,21,20,Jake,Oettinger,DAL,2025020293,1
+8476945,37,{'default': 'C. Hellebuyck'},G,25/27,6/7,0/0,31/34,0.911765,2,1,0,0,3,64:56,True,W,34,31,Connor,Hellebuyck,WPG,2025020294,0
+8481692,32,{'default': 'D. Wolf'},G,19/21,1/2,0/0,20/23,0.869565,2,1,0,0,3,64:29,True,O,23,20,Dustin,Wolf,CGY,2025020294,1
+8477968,33,{'default': 'A. Nedeljkovic'},G,16/19,0/0,3/3,19/22,0.863636,3,0,0,0,3,59:07,True,L,22,19,Alex,Nedeljkovic,SJS,2025020295,0
+8476899,30,{'default': 'M. Murray'},G,6/6,0/1,0/0,6/7,0.857143,0,1,0,0,1,19:42,True,,7,6,Matt,Murray,SEA,2025020295,1
+8477424,74,{'default': 'J. Saros'},G,15/18,0/0,3/3,18/21,0.857143,3,0,0,0,3,59:22,True,L,21,18,Juuse,Saros,NSH,2025020296,0
+8483703,1,{'default': 'S. Murashov'},G,16/16,5/5,0/0,21/21,1.0,0,0,0,0,0,60:00,True,W,21,21,Sergei,Murashov,PIT,2025020296,1
+8480947,32,{'default': 'K. Lankinen'},G,26/28,2/2,0/0,28/30,0.933333,2,0,0,0,2,60:00,True,W,30,28,Kevin,Lankinen,VAN,2025020297,0
+8477992,31,{'default': 'J. Johansson'},G,10/13,2/4,0/0,12/17,0.705882,3,2,0,0,5,58:17,True,L,17,12,Jonas,Johansson,TBL,2025020297,1
+8482761,30,{'default': 'C. Lindbom'},G,20/22,3/4,2/2,25/28,0.892857,2,1,0,0,3,64:50,True,O,28,25,Carl,Lindbom,VGK,2025020298,0
+8479406,32,{'default': 'F. Gustavsson'},G,19/19,4/6,0/0,23/25,0.92,0,2,0,0,2,64:50,True,W,25,23,Filip,Gustavsson,MIN,2025020298,1
+8475660,39,{'default': 'C. Talbot'},G,17/17,1/2,0/0,18/19,0.947368,0,1,0,0,1,59:39,True,W,19,18,Cam,Talbot,DET,2025020299,0
+8471734,32,{'default': 'J. Quick'},G,23/24,15/16,2/2,40/42,0.952381,1,1,0,12,2,58:30,True,L,42,40,Jonathan,Quick,NYR,2025020299,1
+8478009,30,{'default': 'I. Sorokin'},G,19/22,4/4,1/1,24/27,0.888889,3,0,0,0,3,58:26,True,L,27,24,Ilya,Sorokin,NYI,2025020300,0
+8475809,41,{'default': 'S. Wedgewood'},G,19/20,9/9,0/0,28/29,0.965517,1,0,0,0,1,60:00,True,W,29,28,Scott,Wedgewood,COL,2025020300,1
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,24/24,5/6,0/0,29/30,0.966667,0,1,0,0,1,60:00,True,W,30,29,Pyotr,Kochetkov,CAR,2025020301,0
+8480280,1,{'default': 'J. Swayman'},G,22/25,6/6,1/1,29/32,0.90625,3,0,0,0,3,60:00,True,L,32,29,Jeremy,Swayman,BOS,2025020301,1
+8479973,74,{'default': 'S. Skinner'},G,21/24,2/3,0/0,23/27,0.851852,3,1,0,0,4,58:06,True,L,27,23,Stuart,Skinner,PIT,2025020302,0
+8481551,92,{'default': 'C. Ellis'},G,30/31,2/2,0/0,32/33,0.969697,1,0,0,0,1,60:00,True,W,33,32,Colten,Ellis,BUF,2025020302,1
+8480238,30,{'default': 'J. Patera'},G,27/32,6/8,0/0,33/40,0.825,5,2,0,0,7,56:49,True,L,40,33,Jiri,Patera,VAN,2025020303,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,6/9,4/6,0/0,10/15,0.666667,3,2,0,0,5,59:51,True,W,15,10,Sergei,Bobrovsky,FLA,2025020303,1
+8475311,35,{'default': 'D. Kuemper'},G,19/21,3/3,1/1,23/25,0.92,2,0,0,0,2,58:07,True,L,25,23,Darcy,Kuemper,LAK,2025020304,0
+8479292,79,{'default': 'C. Lindgren'},G,24/24,5/6,1/1,30/31,0.967742,0,1,0,0,1,60:00,True,W,31,30,Charlie,Lindgren,WSH,2025020304,1
+8482487,75,{'default': 'J. Dobes'},G,19/21,1/2,0/0,20/23,0.869565,2,1,0,0,3,64:28,True,O,23,20,Jakub,Dobes,MTL,2025020305,0
+8482982,73,{'default': 'J. Greaves'},G,29/32,0/0,0/0,29/32,0.90625,3,0,0,0,3,65:00,True,W,32,29,Jet,Greaves,CBJ,2025020305,1
+8478872,70,{'default': 'K. Vejmelka'},G,20/23,3/3,0/0,23/26,0.884615,3,0,0,0,3,61:38,True,O,26,23,Karel,Vejmelka,UTA,2025020306,0
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,15/17,1/1,0/0,16/18,0.888889,2,0,0,0,2,60:02,True,W,18,16,Lukas,Dostal,ANA,2025020306,1
+8476412,50,{'default': 'J. Binnington'},G,23/26,2/2,1/1,26/29,0.896552,3,0,0,0,3,64:06,True,O,29,26,Jordan,Binnington,STL,2025020307,0
+8479361,60,{'default': 'J. Woll'},G,23/23,5/6,0/0,28/29,0.965517,1,1,0,0,2,64:06,True,W,29,28,Joseph,Woll,TOR,2025020307,1
+8478916,35,{'default': 'J. Daccord'},G,21/23,2/3,0/0,23/26,0.884615,2,1,0,0,3,58:36,True,L,26,23,Joey,Daccord,SEA,2025020308,0
+8475660,39,{'default': 'C. Talbot'},G,18/19,2/3,0/0,20/22,0.909091,1,1,0,0,2,60:00,True,W,22,20,Cam,Talbot,DET,2025020308,1
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,17/20,6/8,1/1,24/29,0.827586,3,2,0,0,5,60:00,True,L,29,24,Jacob,Markstrom,NJD,2025020309,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,25/26,6/6,0/0,31/32,0.96875,1,0,0,0,1,60:00,True,W,32,31,Andrei,Vasilevskiy,TBL,2025020309,1
+8479496,33,{'default': 'D. Rittich'},G,19/21,1/1,2/2,22/24,0.916667,2,0,0,0,2,60:00,True,W,24,22,David,Rittich,NYI,2025020310,0
+8479979,29,{'default': 'J. Oettinger'},G,17/19,0/0,2/3,19/22,0.863636,2,0,1,0,3,57:42,True,L,22,19,Jake,Oettinger,DAL,2025020310,1
+8478007,90,{'default': 'E. Merzlikins'},G,21/25,4/5,0/0,25/30,0.833333,4,1,0,0,5,60:00,True,L,30,25,Elvis,Merzlikins,CBJ,2025020311,0
+8477480,1,{'default': 'E. Comrie'},G,18/20,1/1,1/1,20/22,0.909091,2,0,0,0,2,60:00,True,W,22,20,Eric,Comrie,WPG,2025020311,1
+8481692,32,{'default': 'D. Wolf'},G,13/17,3/3,2/2,18/22,0.818182,4,0,0,0,4,57:59,True,L,22,18,Dustin,Wolf,CGY,2025020312,0
+8482821,40,"{'default': 'A. Soderblom', 'cs': 'A. Söderblom', 'fi': 'A. Söderblom', 'sk': 'A. Söderblom', 'sv': 'A. Söderblom'}",G,15/16,3/4,1/1,19/21,0.904762,1,1,0,0,2,60:00,True,W,21,19,Arvid,Soderblom,CHI,2025020312,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,17/18,5/7,1/1,23/26,0.884615,1,2,0,0,3,57:38,True,L,26,23,Igor,Shesterkin,NYR,2025020313,0
+8481033,40,{'default': 'A. Schmid'},G,14/16,2/2,1/1,17/19,0.894737,2,0,0,0,2,59:48,True,W,19,17,Akira,Schmid,VGK,2025020313,1
+8477970,41,"{'default': 'V. Vanecek', 'cs': 'V. Vaněček', 'sk': 'V. Vaněček'}",G,15/17,4/5,0/0,19/22,0.863636,2,1,0,0,3,62:52,True,O,22,19,Vitek,Vanecek,UTA,2025020314,0
+8482137,30,{'default': 'Y. Askarov'},G,21/23,2/2,1/1,24/26,0.923077,2,0,0,0,2,62:52,True,W,26,24,Yaroslav,Askarov,SJS,2025020314,1
+8479973,74,{'default': 'S. Skinner'},G,15/20,0/0,0/0,15/20,0.75,5,0,0,0,5,58:07,True,L,20,15,Stuart,Skinner,PIT,2025020315,0
+8480313,48,{'default': 'L. Thompson'},G,24/27,2/3,0/0,26/30,0.866667,3,1,0,0,4,60:00,True,W,30,26,Logan,Thompson,WSH,2025020315,1
+8482445,1,{'default': 'D. Cooley'},G,25/27,3/3,0/0,28/30,0.933333,2,0,0,0,2,60:00,True,W,30,28,Devin,Cooley,CGY,2025020316,0
+8481551,92,{'default': 'C. Ellis'},G,24/30,4/4,1/1,29/35,0.828571,6,0,0,0,6,60:00,True,L,35,29,Colten,Ellis,BUF,2025020316,1
+8475883,31,{'default': 'F. Andersen'},G,14/16,1/1,1/2,16/19,0.842105,2,0,1,0,3,64:15,True,O,19,16,Frederik,Andersen,CAR,2025020317,0
+8482661,30,{'default': 'J. Wallstedt'},G,40/43,2/2,0/0,42/45,0.933333,3,0,0,0,3,65:00,True,W,45,42,Jesper,Wallstedt,MIN,2025020317,1
+8476914,70,{'default': 'J. Korpisalo'},G,25/28,4/5,0/0,29/33,0.878788,3,1,0,0,4,58:32,True,L,33,29,Joonas,Korpisalo,BOS,2025020318,0
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,34/35,1/3,1/1,36/39,0.923077,1,2,0,0,3,59:57,True,W,39,36,Lukas,Dostal,ANA,2025020318,1
+8482982,73,{'default': 'J. Greaves'},G,20/22,6/6,1/1,27/29,0.931034,2,0,0,0,2,64:21,True,W,29,27,Jet,Greaves,CBJ,2025020319,0
+8479361,60,{'default': 'J. Woll'},G,24/27,2/2,1/1,27/30,0.9,3,0,0,0,3,64:21,True,O,30,27,Joseph,Woll,TOR,2025020319,1
+8479292,79,{'default': 'C. Lindgren'},G,21/24,3/4,0/0,24/28,0.857143,3,1,0,0,4,60:00,True,W,28,24,Charlie,Lindgren,WSH,2025020320,0
+8478470,35,{'default': 'S. Montembeault'},G,5/6,2/4,0/0,7/10,0.7,1,2,0,0,3,22:50,True,,10,7,Samuel,Montembeault,MTL,2025020320,1
+8478009,30,{'default': 'I. Sorokin'},G,25/25,2/2,2/2,29/29,1.0,0,0,0,0,0,60:00,True,W,29,29,Ilya,Sorokin,NYI,2025020321,0
+8476434,36,{'default': 'J. Gibson'},G,13/18,8/8,0/0,21/26,0.807692,5,0,0,0,5,60:00,True,L,26,21,John,Gibson,DET,2025020321,1
+8475717,30,{'default': 'C. Pickard'},G,27/29,5/5,1/1,33/35,0.942857,2,0,0,0,2,61:43,True,O,35,33,Calvin,Pickard,EDM,2025020322,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,19/20,4/4,1/1,24/25,0.96,1,0,0,0,1,61:43,True,W,25,24,Andrei,Vasilevskiy,TBL,2025020322,1
+8474596,34,{'default': 'J. Allen'},G,23/24,0/0,0/0,23/24,0.958333,1,0,0,0,1,58:27,True,L,24,23,Jake,Allen,NJD,2025020323,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,30/30,2/2,0/0,32/32,1.0,0,0,0,0,0,59:43,True,W,32,32,Sergei,Bobrovsky,FLA,2025020323,1
+8480981,30,{'default': 'J. Hofer'},G,22/25,2/2,1/1,25/28,0.892857,3,0,0,0,3,63:51,True,O,28,25,Joel,Hofer,STL,2025020324,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,26/27,1/2,0/0,27/29,0.931034,1,1,0,0,2,63:46,True,W,29,27,Dan,Vladar,PHI,2025020324,1
+8478916,35,{'default': 'J. Daccord'},G,21/22,1/2,0/0,22/24,0.916667,1,1,0,2,2,60:00,True,W,24,22,Joey,Daccord,SEA,2025020325,0
+8481519,30,{'default': 'S. Knight'},G,19/21,4/5,1/1,24/27,0.888889,2,1,0,0,3,58:27,True,L,27,24,Spencer,Knight,CHI,2025020325,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,21/24,8/9,0/0,29/33,0.878788,3,1,0,0,4,58:49,True,L,33,29,Igor,Shesterkin,NYR,2025020326,0
+8475809,41,{'default': 'S. Wedgewood'},G,11/12,1/3,4/4,16/19,0.842105,1,2,0,0,3,60:00,True,W,19,16,Scott,Wedgewood,COL,2025020326,1
+8481033,40,{'default': 'A. Schmid'},G,23/24,2/2,0/0,25/26,0.961538,1,0,0,0,1,60:00,True,W,26,25,Akira,Schmid,VGK,2025020327,0
+8478872,70,{'default': 'K. Vejmelka'},G,27/31,1/1,1/1,29/33,0.878788,4,0,0,0,4,60:00,True,L,33,29,Karel,Vejmelka,UTA,2025020327,1
+8479979,29,{'default': 'J. Oettinger'},G,23/24,11/12,0/0,34/36,0.944444,1,1,0,0,2,60:00,True,W,36,34,Jake,Oettinger,DAL,2025020328,0
+8480947,32,{'default': 'K. Lankinen'},G,18/22,2/2,0/0,20/24,0.833333,4,0,0,0,4,58:32,True,L,24,20,Kevin,Lankinen,VAN,2025020328,1
+8476999,35,{'default': 'L. Ullmark'},G,19/21,4/4,0/0,23/25,0.92,2,0,0,0,2,59:57,True,W,25,23,Linus,Ullmark,OTT,2025020329,0
+8475852,34,"{'default': 'P. Mrazek', 'cs': 'P. Mrázek', 'sk': 'P. Mrázek'}",G,16/18,6/7,0/0,22/25,0.88,2,1,0,0,3,57:26,True,L,25,22,Petr,Mrazek,ANA,2025020329,1
+8476341,31,{'default': 'A. Forsberg'},G,18/21,2/2,1/1,21/24,0.875,3,0,0,0,3,63:24,True,O,24,21,Anton,Forsberg,LAK,2025020330,0
+8482137,30,{'default': 'Y. Askarov'},G,19/21,11/11,1/2,31/34,0.911765,2,0,1,0,3,64:42,True,W,34,31,Yaroslav,Askarov,SJS,2025020330,1
+8482821,40,"{'default': 'A. Soderblom', 'cs': 'A. Söderblom', 'fi': 'A. Söderblom', 'sk': 'A. Söderblom', 'sv': 'A. Söderblom'}",G,18/26,4/5,0/0,22/31,0.709677,8,1,0,0,9,60:00,True,L,31,22,Arvid,Soderblom,CHI,2025020331,0
+8480045,1,{'default': 'U. Luukkonen'},G,18/20,2/3,0/0,20/23,0.869565,2,1,0,0,3,60:00,True,W,23,20,Ukko-Pekka,Luukkonen,BUF,2025020331,1
+8479406,32,{'default': 'F. Gustavsson'},G,18/18,1/1,0/0,19/19,1.0,0,0,0,0,0,60:00,True,W,19,19,Filip,Gustavsson,MIN,2025020332,0
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,5/8,1/2,0/0,6/10,0.6,3,1,0,0,4,21:06,True,L,10,6,Arturs,Silovs,PIT,2025020332,1
+8483548,32,{'default': 'B. Bussi'},G,24/26,1/2,0/0,25/28,0.892857,2,1,0,0,3,60:00,True,W,28,25,Brandon,Bussi,CAR,2025020333,0
+8477480,1,{'default': 'E. Comrie'},G,19/21,4/5,1/2,24/28,0.857143,2,1,1,0,4,58:47,True,L,28,24,Eric,Comrie,WPG,2025020333,1
+8480280,1,{'default': 'J. Swayman'},G,25/25,4/4,2/3,31/32,0.96875,0,0,1,0,1,62:27,True,W,32,31,Jeremy,Swayman,BOS,2025020334,0
+8475311,35,{'default': 'D. Kuemper'},G,19/21,3/3,2/2,24/26,0.923077,2,0,0,0,2,62:27,True,O,26,24,Darcy,Kuemper,LAK,2025020334,1
+8482982,73,{'default': 'J. Greaves'},G,28/32,1/1,0/0,29/33,0.878788,4,0,0,0,4,61:50,True,O,33,29,Jet,Greaves,CBJ,2025020335,0
+8475660,39,{'default': 'C. Talbot'},G,26/28,4/5,2/2,32/35,0.914286,2,1,0,0,3,61:50,True,W,35,32,Cam,Talbot,DET,2025020335,1
+8476412,50,{'default': 'J. Binnington'},G,23/24,5/5,1/1,29/30,0.966667,1,0,0,0,1,59:59,True,W,30,29,Jordan,Binnington,STL,2025020336,0
+8478009,30,{'default': 'I. Sorokin'},G,18/20,2/2,0/0,20/22,0.909091,2,0,0,0,2,56:49,True,L,22,20,Ilya,Sorokin,NYI,2025020336,1
+8479361,60,{'default': 'J. Woll'},G,12/16,8/8,1/1,21/25,0.84,4,0,0,0,4,33:11,True,L,25,21,Joseph,Woll,TOR,2025020337,0
+8482487,75,{'default': 'J. Dobes'},G,21/22,3/4,0/0,24/26,0.923077,1,1,0,0,2,58:14,True,W,26,24,Jakub,Dobes,MTL,2025020337,1
+8479973,74,{'default': 'S. Skinner'},G,29/31,6/7,0/0,35/38,0.921053,2,1,0,0,3,60:00,True,W,38,35,Stuart,Skinner,PIT,2025020338,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,13/17,0/0,0/0,13/17,0.764706,4,0,0,0,4,26:45,True,L,17,13,Sergei,Bobrovsky,FLA,2025020338,1
+8474596,34,{'default': 'J. Allen'},G,17/23,6/6,0/0,23/29,0.793103,6,0,0,0,6,59:32,True,L,29,23,Jake,Allen,NJD,2025020339,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,25/27,5/6,2/2,32/35,0.914286,2,1,0,0,3,59:58,True,W,35,32,Dan,Vladar,PHI,2025020339,1
+8475831,31,{'default': 'P. Grubauer'},G,24/25,6/7,0/0,30/32,0.9375,1,1,0,0,2,64:10,True,W,32,30,Philipp,Grubauer,SEA,2025020340,0
+8483703,1,{'default': 'S. Murashov'},G,15/18,3/3,0/0,18/21,0.857143,3,0,0,0,3,64:10,True,O,21,18,Sergei,Murashov,PIT,2025020340,1
+8477992,31,{'default': 'J. Johansson'},G,24/27,4/4,1/1,29/32,0.90625,3,0,0,0,3,60:00,True,W,32,29,Jonas,Johansson,TBL,2025020341,0
+8480313,48,{'default': 'L. Thompson'},G,1/3,1/2,0/1,2/6,0.333333,2,1,1,0,4,18:19,True,L,6,2,Logan,Thompson,WSH,2025020341,1
+8476999,35,{'default': 'L. Ullmark'},G,13/14,4/5,0/0,17/19,0.894737,1,1,0,0,2,59:45,True,W,19,17,Linus,Ullmark,OTT,2025020342,0
+8477968,33,{'default': 'A. Nedeljkovic'},G,20/22,3/4,1/1,24/27,0.888889,2,1,0,0,3,57:29,True,L,27,24,Alex,Nedeljkovic,SJS,2025020342,1
+8478406,39,{'default': 'M. Blackwood'},G,34/34,1/1,0/0,35/35,1.0,0,0,0,0,0,60:00,True,W,35,35,Mackenzie,Blackwood,COL,2025020343,0
+8477424,74,{'default': 'J. Saros'},G,20/21,0/0,3/3,23/24,0.958333,1,0,0,0,1,58:58,True,L,24,23,Juuse,Saros,NSH,2025020343,1
+8471734,32,{'default': 'J. Quick'},G,30/33,1/1,0/0,31/34,0.911765,3,0,0,0,3,59:05,True,L,34,31,Jonathan,Quick,NYR,2025020344,0
+8478872,70,{'default': 'K. Vejmelka'},G,15/17,5/5,0/0,20/22,0.909091,2,0,0,0,2,60:00,True,W,22,20,Karel,Vejmelka,UTA,2025020344,1
+8479193,1,{'default': 'C. DeSmith'},G,25/25,4/6,2/2,31/33,0.939394,0,2,0,0,2,64:35,True,O,33,31,Casey,DeSmith,DAL,2025020345,0
+8482445,1,{'default': 'D. Cooley'},G,19/21,8/8,1/1,28/30,0.933333,2,0,0,0,2,65:00,True,W,30,28,Devin,Cooley,CGY,2025020345,1
+8481033,40,{'default': 'A. Schmid'},G,26/30,3/3,0/0,29/33,0.878788,4,0,0,0,4,63:49,True,O,33,29,Akira,Schmid,VGK,2025020346,0
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,26/28,3/4,0/0,29/32,0.90625,2,1,0,0,3,63:57,True,W,32,29,Lukas,Dostal,ANA,2025020346,1
+8475883,31,{'default': 'F. Andersen'},G,14/16,3/4,0/0,17/20,0.85,2,1,0,0,3,57:24,True,L,20,17,Frederik,Andersen,CAR,2025020347,0
+8480045,1,{'default': 'U. Luukkonen'},G,22/22,6/7,1/1,29/30,0.966667,0,1,0,0,1,60:00,True,W,30,29,Ukko-Pekka,Luukkonen,BUF,2025020347,1
+8482661,30,{'default': 'J. Wallstedt'},G,28/28,4/4,0/0,32/32,1.0,0,0,0,0,0,59:18,True,W,32,32,Jesper,Wallstedt,MIN,2025020348,0
+8477480,1,{'default': 'E. Comrie'},G,23/25,2/2,2/3,27/30,0.9,2,0,1,0,3,60:00,True,L,30,27,Eric,Comrie,WPG,2025020348,1
+8478916,35,{'default': 'J. Daccord'},G,32/32,2/2,0/0,34/34,1.0,0,0,0,0,0,65:00,True,O,34,34,Joey,Daccord,SEA,2025020349,0
+8479496,33,{'default': 'D. Rittich'},G,19/19,0/0,0/0,19/19,1.0,0,0,0,0,0,65:00,True,W,19,19,David,Rittich,NYI,2025020349,1
+8475809,41,{'default': 'S. Wedgewood'},G,19/19,3/3,0/0,22/22,1.0,0,0,0,0,0,60:00,True,W,22,22,Scott,Wedgewood,COL,2025020350,0
+8481519,30,{'default': 'S. Knight'},G,22/23,3/3,0/0,25/26,0.961538,1,0,0,0,1,57:32,True,L,26,25,Spencer,Knight,CHI,2025020350,1
+8480280,1,{'default': 'J. Swayman'},G,18/19,10/11,0/0,28/30,0.933333,1,1,0,0,2,59:48,True,L,30,28,Jeremy,Swayman,BOS,2025020351,0
+8482137,30,{'default': 'Y. Askarov'},G,26/27,6/6,2/2,34/35,0.971429,1,0,0,0,1,59:50,True,W,35,34,Yaroslav,Askarov,SJS,2025020351,1
+8481692,32,{'default': 'D. Wolf'},G,22/23,7/8,0/0,29/31,0.935484,1,1,0,0,2,60:00,True,W,31,29,Dustin,Wolf,CGY,2025020352,0
+8480947,32,{'default': 'K. Lankinen'},G,13/17,2/2,1/2,16/21,0.761905,4,0,1,0,5,55:11,True,L,21,16,Kevin,Lankinen,VAN,2025020352,1
+8481035,33,{'default': 'S. Ersson'},G,14/16,1/1,0/0,15/17,0.882353,2,0,0,0,2,58:32,True,L,17,15,Samuel,Ersson,PHI,2025020353,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,20/20,0/0,0/0,20/20,1.0,0,0,0,0,0,60:00,True,W,20,20,Andrei,Vasilevskiy,TBL,2025020353,1
+8475660,39,{'default': 'C. Talbot'},G,16/20,0/0,0/0,16/20,0.8,4,0,0,0,4,57:50,True,L,20,16,Cam,Talbot,DET,2025020354,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,29/31,3/4,0/0,32/35,0.914286,2,1,0,2,3,59:42,True,W,35,32,Jacob,Markstrom,NJD,2025020354,1
+8480981,30,{'default': 'J. Hofer'},G,18/21,0/0,0/0,18/21,0.857143,3,0,0,0,3,57:00,True,L,21,18,Joel,Hofer,STL,2025020355,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,16/18,3/3,0/0,19/21,0.904762,2,0,0,0,2,60:00,True,W,21,19,Igor,Shesterkin,NYR,2025020355,1
+8478007,90,{'default': 'E. Merzlikins'},G,21/25,3/4,2/2,26/31,0.83871,4,1,0,0,5,60:00,True,L,31,26,Elvis,Merzlikins,CBJ,2025020356,0
+8480313,48,{'default': 'L. Thompson'},G,20/21,2/2,0/0,22/23,0.956522,1,0,0,0,1,60:00,True,W,23,22,Logan,Thompson,WSH,2025020356,1
+8480193,40,{'default': 'D. Tarasov'},G,30/32,4/5,2/2,36/39,0.923077,2,1,0,0,3,59:38,True,W,39,36,Daniil,Tarasov,FLA,2025020357,0
+8477424,74,{'default': 'J. Saros'},G,9/14,2/2,0/0,11/16,0.6875,5,0,0,0,5,21:24,True,L,16,11,Juuse,Saros,NSH,2025020357,1
+8482761,30,{'default': 'C. Lindbom'},G,15/18,3/3,0/0,18/21,0.857143,3,0,0,0,3,58:36,True,L,21,18,Carl,Lindbom,VGK,2025020358,0
+8478872,70,{'default': 'K. Vejmelka'},G,24/25,8/8,1/1,33/34,0.970588,1,0,0,0,1,59:54,True,W,34,33,Karel,Vejmelka,UTA,2025020358,1
+8482447,1,{'default': 'L. Meriläinen'},G,18/19,2/3,0/0,20/22,0.909091,1,1,0,0,2,57:34,True,L,22,20,Leevi,Meriläinen,OTT,2025020359,0
+8475311,35,{'default': 'D. Kuemper'},G,24/25,3/3,0/0,27/28,0.964286,1,0,0,0,1,59:40,True,W,28,27,Darcy,Kuemper,LAK,2025020359,1
+8479979,29,{'default': 'J. Oettinger'},G,19/22,2/2,1/1,22/25,0.88,3,0,0,0,3,59:43,True,W,25,22,Jake,Oettinger,DAL,2025020360,0
+8479973,74,{'default': 'S. Skinner'},G,3/6,1/2,0/0,4/8,0.5,3,1,0,0,4,19:46,True,L,8,4,Stuart,Skinner,PIT,2025020360,1
+8481020,29,{'default': 'J. Annunen'},G,23/24,2/4,3/3,28/31,0.903226,1,2,0,0,3,60:00,True,W,31,28,Justus,Annunen,NSH,2025020361,0
+8475660,39,{'default': 'C. Talbot'},G,20/24,3/4,0/0,23/28,0.821429,4,1,0,0,5,57:13,True,L,28,23,Cam,Talbot,DET,2025020361,1
+8481692,32,{'default': 'D. Wolf'},G,1/4,0/0,0/0,1/4,0.25,3,0,0,0,3,05:52,True,L,4,1,Dustin,Wolf,CGY,2025020362,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,26/26,5/5,0/1,31/32,0.96875,0,0,1,0,1,60:00,True,W,32,31,Andrei,Vasilevskiy,TBL,2025020362,1
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,21/23,4/4,0/0,25/27,0.925926,2,0,0,0,2,60:00,True,W,27,25,Dan,Vladar,PHI,2025020363,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,14/18,0/0,0/0,14/18,0.777778,4,0,0,0,4,60:00,True,L,18,14,Sergei,Bobrovsky,FLA,2025020363,1
+8476412,50,{'default': 'J. Binnington'},G,24/26,1/2,1/1,26/29,0.896552,2,1,0,0,3,62:31,True,O,29,26,Jordan,Binnington,STL,2025020364,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,14/15,6/7,1/1,21/23,0.913043,1,1,0,0,2,62:58,True,W,23,21,Jacob,Markstrom,NJD,2025020364,1
+8480280,1,{'default': 'J. Swayman'},G,39/40,4/4,0/0,43/44,0.977273,1,0,0,0,1,60:00,True,W,44,43,Jeremy,Swayman,BOS,2025020365,0
+8478009,30,{'default': 'I. Sorokin'},G,9/11,1/1,1/2,11/14,0.785714,2,0,1,0,3,55:26,True,L,14,11,Ilya,Sorokin,NYI,2025020365,1
+8480045,1,{'default': 'U. Luukkonen'},G,14/17,1/1,0/0,15/18,0.833333,3,0,0,0,3,59:23,True,L,18,15,Ukko-Pekka,Luukkonen,BUF,2025020366,0
+8477465,35,{'default': 'T. Jarry'},G,28/30,0/0,1/1,29/31,0.935484,2,0,0,0,2,60:00,True,W,31,29,Tristan,Jarry,EDM,2025020366,1
+8477480,1,{'default': 'E. Comrie'},G,28/32,3/3,0/0,31/35,0.885714,4,0,0,0,4,58:19,True,L,35,31,Eric,Comrie,WPG,2025020367,0
+8479292,79,{'default': 'C. Lindgren'},G,16/18,1/2,1/1,18/21,0.857143,2,1,0,0,3,60:00,True,W,21,18,Charlie,Lindgren,WSH,2025020367,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,25/26,10/11,1/1,36/38,0.947368,1,1,0,0,2,60:00,True,W,38,36,Igor,Shesterkin,NYR,2025020368,0
+8475883,31,{'default': 'F. Andersen'},G,13/16,1/1,0/0,14/17,0.823529,3,0,0,0,3,58:05,True,L,17,14,Frederik,Andersen,CAR,2025020368,1
+8479361,60,{'default': 'J. Woll'},G,30/31,4/4,1/1,35/36,0.972222,1,0,0,0,1,64:28,True,W,36,35,Joseph,Woll,TOR,2025020369,0
+8482982,73,{'default': 'J. Greaves'},G,19/21,2/2,1/1,22/24,0.916667,2,0,0,0,2,64:40,True,O,24,22,Jet,Greaves,CBJ,2025020369,1
+8479406,32,{'default': 'F. Gustavsson'},G,27/30,6/6,1/1,34/37,0.918919,3,0,0,0,3,61:31,True,W,37,34,Filip,Gustavsson,MIN,2025020370,0
+8481519,30,{'default': 'S. Knight'},G,17/20,3/4,0/0,20/24,0.833333,3,1,0,0,4,61:38,True,O,24,20,Spencer,Knight,CHI,2025020370,1
+8482137,30,{'default': 'Y. Askarov'},G,9/12,6/7,0/0,15/19,0.789474,3,1,0,0,4,24:51,True,L,19,15,Yaroslav,Askarov,SJS,2025020371,0
+8478406,39,{'default': 'M. Blackwood'},G,18/18,8/8,0/0,26/26,1.0,0,0,0,0,0,60:00,True,W,26,26,Mackenzie,Blackwood,COL,2025020371,1
+8482487,75,{'default': 'J. Dobes'},G,29/31,2/3,0/0,31/34,0.911765,2,1,0,0,3,60:00,True,W,34,31,Jakub,Dobes,MTL,2025020372,0
+8478872,70,{'default': 'K. Vejmelka'},G,10/12,3/5,0/0,13/17,0.764706,2,2,0,0,4,57:15,True,L,17,13,Karel,Vejmelka,UTA,2025020372,1
+8476999,35,{'default': 'L. Ullmark'},G,27/29,5/6,0/0,32/35,0.914286,2,1,0,0,3,64:48,True,W,35,32,Linus,Ullmark,OTT,2025020373,0
+8481033,40,{'default': 'A. Schmid'},G,18/20,1/2,0/0,19/22,0.863636,2,1,0,0,3,64:35,True,O,22,19,Akira,Schmid,VGK,2025020373,1
+8484268,60,{'default': 'N. Tolopilo'},G,29/32,7/8,1/1,37/41,0.902439,3,1,0,0,4,59:52,True,W,41,37,Nikita,Tolopilo,VAN,2025020374,0
+8475852,34,"{'default': 'P. Mrazek', 'cs': 'P. Mrázek', 'sk': 'P. Mrázek'}",G,17/20,3/4,3/3,23/27,0.851852,3,1,0,0,4,58:13,True,L,27,23,Petr,Mrazek,ANA,2025020374,1
+8479193,1,{'default': 'C. DeSmith'},G,22/24,4/4,0/0,26/28,0.928571,2,0,0,0,2,59:52,True,W,28,26,Casey,DeSmith,DAL,2025020375,0
+8478916,35,{'default': 'J. Daccord'},G,15/18,3/3,0/0,18/21,0.857143,3,0,0,0,3,58:29,True,L,21,18,Joey,Daccord,SEA,2025020375,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,15/17,4/4,0/0,19/21,0.904762,2,0,0,0,2,60:00,True,W,21,19,Igor,Shesterkin,NYR,2025020376,0
+8476914,70,{'default': 'J. Korpisalo'},G,26/29,5/7,0/0,31/36,0.861111,3,2,0,0,5,59:26,True,L,36,31,Joonas,Korpisalo,BOS,2025020376,1
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,31/34,3/3,0/0,34/37,0.918919,3,0,0,0,3,60:00,True,W,37,34,Andrei,Vasilevskiy,TBL,2025020377,0
+8476434,36,{'default': 'J. Gibson'},G,21/25,0/1,0/0,21/26,0.807692,4,1,0,0,5,59:22,True,L,26,21,John,Gibson,DET,2025020377,1
+8475809,41,{'default': 'S. Wedgewood'},G,35/37,2/2,0/0,37/39,0.948718,2,0,0,0,2,64:37,True,O,39,37,Scott,Wedgewood,COL,2025020378,0
+8482661,30,{'default': 'J. Wallstedt'},G,34/36,4/4,1/1,39/41,0.95122,2,0,0,0,2,65:00,True,W,41,39,Jesper,Wallstedt,MIN,2025020378,1
+8474596,34,{'default': 'J. Allen'},G,38/38,4/4,0/0,42/42,1.0,0,0,0,0,0,60:00,True,W,42,42,Jake,Allen,NJD,2025020379,0
+8479312,34,{'default': 'A. Lyon'},G,17/22,1/1,0/0,18/23,0.782609,5,0,0,0,5,60:00,True,L,23,18,Alex,Lyon,BUF,2025020379,1
+8482445,1,{'default': 'D. Cooley'},G,32/35,6/6,0/0,38/41,0.926829,3,0,0,0,3,60:00,True,W,41,38,Devin,Cooley,CGY,2025020380,0
+8480193,40,{'default': 'D. Tarasov'},G,27/30,2/3,0/0,29/33,0.878788,3,1,0,0,4,57:21,True,L,33,29,Daniil,Tarasov,FLA,2025020380,1
+8481035,33,{'default': 'S. Ersson'},G,22/24,5/6,1/1,28/31,0.903226,2,1,0,0,3,65:00,True,W,31,28,Samuel,Ersson,PHI,2025020381,0
+8479496,33,{'default': 'D. Rittich'},G,12/14,5/6,1/1,18/21,0.857143,2,1,0,0,3,65:00,True,O,21,18,David,Rittich,NYI,2025020381,1
+8482447,1,{'default': 'L. Meriläinen'},G,22/26,5/5,0/0,27/31,0.870968,4,0,0,0,4,57:13,True,L,31,27,Leevi,Meriläinen,OTT,2025020382,0
+8476412,50,{'default': 'J. Binnington'},G,24/27,1/1,0/0,25/28,0.892857,3,0,0,0,3,59:33,True,W,28,25,Jordan,Binnington,STL,2025020382,1
+8478470,35,{'default': 'S. Montembeault'},G,25/26,5/5,0/0,30/31,0.967742,1,0,0,0,1,59:28,True,W,31,30,Samuel,Montembeault,MTL,2025020383,0
+8481033,40,{'default': 'A. Schmid'},G,15/18,0/0,0/0,15/18,0.833333,3,0,0,0,3,58:48,True,L,18,15,Akira,Schmid,VGK,2025020383,1
+8475311,35,{'default': 'D. Kuemper'},G,27/30,0/1,0/0,27/31,0.870968,3,1,0,0,4,64:55,True,O,31,27,Darcy,Kuemper,LAK,2025020384,0
+8478024,33,{'default': 'V. Husso'},G,22/26,1/1,0/0,23/27,0.851852,4,0,0,0,4,64:11,True,W,27,23,Ville,Husso,ANA,2025020384,1
+8484268,60,{'default': 'N. Tolopilo'},G,13/14,5/7,3/3,21/24,0.875,1,2,0,0,3,58:11,True,L,24,21,Nikita,Tolopilo,VAN,2025020385,0
+8482137,30,{'default': 'Y. Askarov'},G,18/20,11/11,3/3,32/34,0.941176,2,0,0,0,2,59:42,True,W,34,32,Yaroslav,Askarov,SJS,2025020385,1
+8479361,60,{'default': 'J. Woll'},G,26/29,4/4,0/0,30/33,0.909091,3,0,0,0,3,58:23,True,L,33,30,Joseph,Woll,TOR,2025020386,0
+8480313,48,{'default': 'L. Thompson'},G,20/22,0/0,0/0,20/22,0.909091,2,0,0,0,2,60:00,True,W,22,20,Logan,Thompson,WSH,2025020386,1
+8483114,32,{'default': 'T. Milic'},G,25/29,2/2,3/3,30/34,0.882353,4,0,0,2,4,58:38,True,L,34,30,Thomas,Milic,WPG,2025020387,0
+8483548,32,{'default': 'B. Bussi'},G,9/10,1/1,2/2,12/13,0.923077,1,0,0,0,1,60:00,True,W,13,12,Brandon,Bussi,CAR,2025020387,1
+8477465,35,{'default': 'T. Jarry'},G,20/22,5/5,1/2,26/29,0.896552,2,0,1,0,3,59:36,True,W,29,26,Tristan,Jarry,EDM,2025020388,0
+8482982,73,{'default': 'J. Greaves'},G,19/23,1/1,0/0,20/24,0.833333,4,0,0,0,4,60:56,True,O,24,20,Jet,Greaves,CBJ,2025020388,1
+8477424,74,{'default': 'J. Saros'},G,19/21,4/5,1/1,24/27,0.888889,2,1,0,0,3,59:47,True,W,27,24,Juuse,Saros,NSH,2025020389,0
+8482821,40,"{'default': 'A. Soderblom', 'cs': 'A. Söderblom', 'fi': 'A. Söderblom', 'sk': 'A. Söderblom', 'sv': 'A. Söderblom'}",G,21/25,2/2,2/2,25/29,0.862069,4,0,0,0,4,58:45,True,L,29,25,Arvid,Soderblom,CHI,2025020389,1
+8477970,41,"{'default': 'V. Vanecek', 'cs': 'V. Vaněček', 'sk': 'V. Vaněček'}",G,18/20,6/8,0/0,24/28,0.857143,2,2,0,0,4,58:25,True,L,28,24,Vitek,Vanecek,UTA,2025020390,0
+8479979,29,{'default': 'J. Oettinger'},G,25/28,2/2,0/0,27/30,0.9,3,0,0,0,3,60:00,True,W,30,27,Jake,Oettinger,DAL,2025020390,1
+8477992,31,{'default': 'J. Johansson'},G,9/10,2/2,1/1,12/13,0.923077,1,0,0,0,1,60:00,True,W,13,12,Jonas,Johansson,TBL,2025020391,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,27/30,4/4,0/0,31/34,0.911765,3,0,0,2,3,57:35,True,L,34,31,Igor,Shesterkin,NYR,2025020391,1
+8482487,75,{'default': 'J. Dobes'},G,21/27,8/9,0/0,29/36,0.805556,6,1,0,0,7,60:00,True,L,36,29,Jakub,Dobes,MTL,2025020392,0
+8478406,39,{'default': 'M. Blackwood'},G,16/17,4/5,1/1,21/23,0.913043,1,1,0,0,2,59:58,True,W,23,21,Mackenzie,Blackwood,COL,2025020392,1
+8479973,74,{'default': 'S. Skinner'},G,14/14,12/12,0/0,26/26,1.0,0,0,0,0,0,59:40,True,W,26,26,Stuart,Skinner,PIT,2025020393,0
+8478916,35,{'default': 'J. Daccord'},G,20/22,0/2,1/1,21/25,0.84,2,2,0,0,4,60:00,True,L,25,21,Joey,Daccord,SEA,2025020393,1
+8475660,39,{'default': 'C. Talbot'},G,16/17,1/2,1/1,18/20,0.9,1,1,0,0,2,63:49,True,O,20,18,Cam,Talbot,DET,2025020394,0
+8480280,1,{'default': 'J. Swayman'},G,18/20,6/6,0/0,24/26,0.923077,2,0,0,0,2,65:00,True,W,26,24,Jeremy,Swayman,BOS,2025020394,1
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,15/17,13/14,1/1,29/32,0.90625,2,1,0,0,3,60:00,True,W,32,29,Dan,Vladar,PHI,2025020395,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,23/27,4/4,0/0,27/31,0.870968,4,0,0,0,4,59:47,True,L,31,27,Jacob,Markstrom,NJD,2025020395,1
+8483710,35,{'default': 'D. Hildeby'},G,27/28,5/6,1/1,33/35,0.942857,1,1,0,0,2,59:45,True,W,35,33,Dennis,Hildeby,TOR,2025020396,0
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,3/7,3/3,0/0,6/10,0.6,4,0,0,0,4,24:37,True,L,10,6,Arturs,Silovs,PIT,2025020396,1
+8477480,1,{'default': 'E. Comrie'},G,19/20,1/2,1/1,21/23,0.913043,1,1,0,0,2,59:40,True,W,23,21,Eric,Comrie,WPG,2025020397,0
+8481020,29,{'default': 'J. Annunen'},G,20/24,2/2,0/0,22/26,0.846154,4,0,0,0,4,56:28,True,L,26,22,Justus,Annunen,NSH,2025020397,1
+8478872,70,{'default': 'K. Vejmelka'},G,14/15,3/3,1/1,18/19,0.947368,1,0,0,0,1,58:31,True,L,19,18,Karel,Vejmelka,UTA,2025020398,0
+8480981,30,{'default': 'J. Hofer'},G,15/15,3/3,0/0,18/18,1.0,0,0,0,0,0,60:00,True,W,18,18,Joel,Hofer,STL,2025020398,1
+8481551,92,{'default': 'C. Ellis'},G,17/19,4/4,1/1,22/24,0.916667,2,0,0,0,2,65:00,True,W,24,22,Colten,Ellis,BUF,2025020399,0
+8479406,32,{'default': 'F. Gustavsson'},G,29/31,2/2,0/0,31/33,0.939394,2,0,0,0,2,64:51,True,O,33,31,Filip,Gustavsson,MIN,2025020399,1
+8477968,33,{'default': 'A. Nedeljkovic'},G,18/21,2/3,0/0,20/24,0.833333,3,1,0,0,4,58:16,True,L,24,20,Alex,Nedeljkovic,SJS,2025020400,0
+8482761,30,{'default': 'C. Lindbom'},G,17/19,1/2,0/0,18/21,0.857143,2,1,0,0,3,60:00,True,W,21,18,Carl,Lindbom,VGK,2025020400,1
+8480947,32,{'default': 'K. Lankinen'},G,12/14,7/7,2/2,21/23,0.913043,2,0,0,0,2,63:58,True,O,23,21,Kevin,Lankinen,VAN,2025020401,0
+8476341,31,{'default': 'A. Forsberg'},G,15/16,4/4,0/0,19/20,0.95,1,0,0,0,1,63:17,True,W,20,19,Anton,Forsberg,LAK,2025020401,1
+8480313,48,{'default': 'L. Thompson'},G,24/24,6/7,0/0,30/31,0.967742,0,1,0,0,1,60:00,True,W,31,30,Logan,Thompson,WSH,2025020402,0
+8478009,30,{'default': 'I. Sorokin'},G,15/16,0/1,0/0,15/17,0.882353,1,1,0,0,2,57:33,True,L,17,15,Ilya,Sorokin,NYI,2025020402,1
+8475852,34,"{'default': 'P. Mrazek', 'cs': 'P. Mrázek', 'sk': 'P. Mrázek'}",G,11/12,2/4,0/0,13/16,0.8125,1,2,0,0,3,48:27,True,,16,13,Petr,Mrazek,ANA,2025020403,0
+8481519,30,{'default': 'S. Knight'},G,18/21,3/3,2/2,23/26,0.884615,3,0,0,0,3,59:37,True,W,26,23,Spencer,Knight,CHI,2025020403,1
+8482445,1,{'default': 'D. Cooley'},G,16/17,0/0,0/0,16/17,0.941176,1,0,0,0,1,62:39,True,O,17,16,Devin,Cooley,CGY,2025020404,0
+8483548,32,{'default': 'B. Bussi'},G,13/13,3/3,0/0,16/16,1.0,0,0,0,0,0,62:52,True,W,16,16,Brandon,Bussi,CAR,2025020404,1
+8476999,35,{'default': 'L. Ullmark'},G,14/18,6/8,0/0,20/26,0.769231,4,2,0,0,6,60:00,True,L,26,20,Linus,Ullmark,OTT,2025020405,0
+8479193,1,{'default': 'C. DeSmith'},G,14/15,1/1,0/0,15/16,0.9375,1,0,0,0,1,60:00,True,W,16,15,Casey,DeSmith,DAL,2025020405,1
+8478007,90,{'default': 'E. Merzlikins'},G,27/28,2/4,1/1,30/33,0.909091,1,2,0,0,3,59:56,True,W,33,30,Elvis,Merzlikins,CBJ,2025020406,0
+8474596,34,{'default': 'J. Allen'},G,15/19,2/3,3/3,20/25,0.8,4,1,0,0,5,54:27,True,L,25,20,Jake,Allen,NJD,2025020406,1
+8477465,35,{'default': 'T. Jarry'},G,20/20,8/9,0/0,28/29,0.965517,0,1,0,0,1,60:00,True,W,29,28,Tristan,Jarry,EDM,2025020407,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,17/19,3/6,2/2,22/27,0.814815,2,3,0,0,5,60:00,True,L,27,22,Dan,Vladar,PHI,2025020407,1
+8477480,1,{'default': 'E. Comrie'},G,10/12,1/2,0/0,11/14,0.785714,2,1,0,0,3,20:00,True,L,14,11,Eric,Comrie,WPG,2025020408,0
+8480045,1,{'default': 'U. Luukkonen'},G,18/19,4/4,1/1,23/24,0.958333,1,0,0,0,1,60:00,True,W,24,23,Ukko-Pekka,Luukkonen,BUF,2025020408,1
+8478024,33,{'default': 'V. Husso'},G,16/17,5/5,0/0,21/22,0.954545,1,0,0,0,1,60:00,True,W,22,21,Ville,Husso,ANA,2025020409,0
+8476412,50,{'default': 'J. Binnington'},G,3/5,0/0,0/0,3/5,0.6,2,0,0,0,2,10:24,True,L,5,3,Jordan,Binnington,STL,2025020409,1
+8478872,70,{'default': 'K. Vejmelka'},G,5/7,1/2,0/0,6/9,0.666667,2,1,0,0,3,12:59,True,,9,6,Karel,Vejmelka,UTA,2025020410,0
+8482137,30,{'default': 'Y. Askarov'},G,28/30,2/2,1/2,31/34,0.911765,2,0,1,0,3,60:00,True,W,34,31,Yaroslav,Askarov,SJS,2025020410,1
+8476999,35,{'default': 'L. Ullmark'},G,19/19,1/3,0/0,20/22,0.909091,0,2,0,0,2,59:21,True,W,22,20,Linus,Ullmark,OTT,2025020411,0
+8478470,35,{'default': 'S. Montembeault'},G,20/25,4/4,0/0,24/29,0.827586,5,0,0,0,5,59:56,True,L,29,24,Samuel,Montembeault,MTL,2025020411,1
+8480280,1,{'default': 'J. Swayman'},G,18/22,0/1,0/0,18/23,0.782609,4,1,0,0,5,43:55,True,L,23,18,Jeremy,Swayman,BOS,2025020412,0
+8476434,36,{'default': 'J. Gibson'},G,30/34,3/3,1/1,34/38,0.894737,4,0,0,0,4,60:00,True,W,38,34,John,Gibson,DET,2025020412,1
+8479361,60,{'default': 'J. Woll'},G,22/22,2/2,1/2,25/26,0.961538,0,0,1,0,1,60:00,True,W,26,25,Joseph,Woll,TOR,2025020413,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,21/24,5/5,1/1,27/30,0.9,3,0,0,0,3,58:53,True,L,30,27,Sergei,Bobrovsky,FLA,2025020413,1
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,20/22,2/2,0/0,22/24,0.916667,2,0,0,0,2,56:40,True,L,24,22,Andrei,Vasilevskiy,TBL,2025020414,0
+8478009,30,{'default': 'I. Sorokin'},G,27/28,2/2,1/1,30/31,0.967742,1,0,0,0,1,60:00,True,W,31,30,Ilya,Sorokin,NYI,2025020414,1
+8479193,1,{'default': 'C. DeSmith'},G,25/28,10/10,3/3,38/41,0.926829,3,0,0,0,3,60:14,True,O,41,38,Casey,DeSmith,DAL,2025020415,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,18/20,3/3,3/3,24/26,0.923077,2,0,0,0,2,60:54,True,W,26,24,Igor,Shesterkin,NYR,2025020415,1
+8482445,1,{'default': 'D. Cooley'},G,9/13,2/2,1/1,12/16,0.75,4,0,0,0,4,40:00,True,L,16,12,Devin,Cooley,CGY,2025020416,0
+8477424,74,{'default': 'J. Saros'},G,24/24,2/3,1/1,27/28,0.964286,0,1,0,0,1,60:00,True,W,28,27,Juuse,Saros,NSH,2025020416,1
+8480947,32,{'default': 'K. Lankinen'},G,24/27,4/4,0/0,28/31,0.903226,3,0,0,0,3,56:36,True,L,31,28,Kevin,Lankinen,VAN,2025020417,0
+8475809,41,{'default': 'S. Wedgewood'},G,9/10,1/1,0/0,10/11,0.909091,1,0,0,0,1,32:28,True,,11,10,Scott,Wedgewood,COL,2025020417,1
+8482661,30,{'default': 'J. Wallstedt'},G,30/30,3/3,0/0,33/33,1.0,0,0,0,0,0,60:00,True,W,33,33,Jesper,Wallstedt,MIN,2025020418,0
+8479973,74,{'default': 'S. Skinner'},G,17/18,6/6,0/0,23/24,0.958333,1,0,0,0,1,58:21,True,L,24,23,Stuart,Skinner,PIT,2025020418,1
+8481519,30,{'default': 'S. Knight'},G,23/26,1/1,1/1,25/28,0.892857,3,0,0,0,3,64:53,True,O,28,25,Spencer,Knight,CHI,2025020419,0
+8479394,79,{'default': 'C. Hart'},G,23/26,4/4,0/0,27/30,0.9,3,0,0,2,3,65:00,True,W,30,27,Carter,Hart,VGK,2025020419,1
+8480313,48,{'default': 'L. Thompson'},G,17/18,7/7,0/0,24/25,0.96,1,0,0,0,1,60:00,True,W,25,24,Logan,Thompson,WSH,2025020420,0
+8475311,35,{'default': 'D. Kuemper'},G,17/18,5/6,0/0,22/24,0.916667,1,1,0,0,2,57:57,True,L,24,22,Darcy,Kuemper,LAK,2025020420,1
+8479979,29,{'default': 'J. Oettinger'},G,28/28,0/0,2/2,30/30,1.0,0,0,0,0,0,60:00,True,W,30,30,Jake,Oettinger,DAL,2025020421,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,23/26,2/2,0/0,25/28,0.892857,3,0,0,0,3,60:00,True,L,28,25,Jacob,Markstrom,NJD,2025020421,1
+8477480,1,{'default': 'E. Comrie'},G,29/30,0/1,0/0,29/31,0.935484,1,1,0,0,2,65:00,True,O,31,29,Eric,Comrie,WPG,2025020422,0
+8482487,75,{'default': 'J. Dobes'},G,29/31,1/1,0/0,30/32,0.9375,2,0,0,0,2,64:51,True,W,32,30,Jakub,Dobes,MTL,2025020422,1
+8481551,92,{'default': 'C. Ellis'},G,20/23,9/11,1/1,30/35,0.857143,3,2,0,0,5,60:00,True,L,35,30,Colten,Ellis,BUF,2025020423,0
+8481035,33,{'default': 'S. Ersson'},G,21/22,5/6,1/1,27/29,0.931034,1,1,0,0,2,59:57,True,W,29,27,Samuel,Ersson,PHI,2025020423,1
+8478872,70,{'default': 'K. Vejmelka'},G,21/21,5/5,1/1,27/27,1.0,0,0,0,0,0,60:00,True,W,27,27,Karel,Vejmelka,UTA,2025020424,0
+8478024,33,{'default': 'V. Husso'},G,16/20,1/1,0/0,17/21,0.809524,4,0,0,0,4,40:00,True,L,21,17,Ville,Husso,ANA,2025020424,1
+8479292,79,{'default': 'C. Lindgren'},G,14/14,8/9,1/1,23/24,0.958333,0,1,0,0,1,60:00,True,W,24,23,Charlie,Lindgren,WSH,2025020425,0
+8482137,30,{'default': 'Y. Askarov'},G,7/10,0/0,1/2,8/12,0.666667,3,0,1,0,4,17:07,True,L,12,8,Yaroslav,Askarov,SJS,2025020425,1
+8476412,50,{'default': 'J. Binnington'},G,19/23,2/3,1/1,22/27,0.814815,4,1,0,0,5,60:00,True,L,27,22,Jordan,Binnington,STL,2025020426,0
+8476914,70,{'default': 'J. Korpisalo'},G,37/39,0/0,0/0,37/39,0.948718,2,0,0,0,2,60:00,True,W,39,37,Joonas,Korpisalo,BOS,2025020426,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,25/25,0/2,0/0,25/27,0.925926,0,2,0,0,2,60:00,True,W,27,25,Igor,Shesterkin,NYR,2025020427,0
+8482447,1,{'default': 'L. Meriläinen'},G,23/26,0/0,1/1,24/27,0.888889,3,0,0,0,3,57:57,True,L,27,24,Leevi,Meriläinen,OTT,2025020427,1
+8477465,35,{'default': 'T. Jarry'},G,23/25,9/10,5/5,37/40,0.925,2,1,0,0,3,60:00,True,W,40,37,Tristan,Jarry,EDM,2025020428,0
+8477992,31,{'default': 'J. Johansson'},G,23/25,2/4,2/2,27/31,0.870968,2,2,0,0,4,57:48,True,L,31,27,Jonas,Johansson,TBL,2025020428,1
+8477424,74,{'default': 'J. Saros'},G,16/17,10/10,4/4,30/31,0.967742,1,0,0,0,1,64:03,True,W,31,30,Juuse,Saros,NSH,2025020429,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,20/22,6/6,1/1,27/29,0.931034,2,0,0,0,2,64:03,True,O,29,27,Sergei,Bobrovsky,FLA,2025020429,1
+8478406,39,{'default': 'M. Blackwood'},G,26/30,8/9,2/2,36/41,0.878049,4,1,0,0,5,57:37,True,L,41,36,Mackenzie,Blackwood,COL,2025020430,0
+8478009,30,{'default': 'I. Sorokin'},G,32/35,3/3,0/0,35/38,0.921053,3,0,0,0,3,60:00,True,W,38,35,Ilya,Sorokin,NYI,2025020430,1
+8479361,60,{'default': 'J. Woll'},G,20/21,3/3,0/0,23/24,0.958333,1,0,0,0,1,40:00,True,W,24,23,Joseph,Woll,TOR,2025020431,0
+8475883,31,{'default': 'F. Andersen'},G,15/19,4/4,0/0,19/23,0.826087,4,0,0,0,4,57:23,True,L,23,19,Frederik,Andersen,CAR,2025020431,1
+8475660,39,{'default': 'C. Talbot'},G,24/27,3/5,0/0,27/32,0.84375,3,2,0,0,5,65:00,True,O,32,27,Cam,Talbot,DET,2025020432,0
+8478007,90,{'default': 'E. Merzlikins'},G,19/21,8/11,1/1,28/33,0.848485,2,3,0,0,5,63:36,True,W,33,28,Elvis,Merzlikins,CBJ,2025020432,1
+8479406,32,{'default': 'F. Gustavsson'},G,25/28,0/0,2/2,27/30,0.9,3,0,0,0,3,57:20,True,L,30,27,Filip,Gustavsson,MIN,2025020433,0
+8481692,32,{'default': 'D. Wolf'},G,20/21,6/6,0/0,26/27,0.962963,1,0,0,0,1,60:00,True,W,27,26,Dustin,Wolf,CGY,2025020433,1
+8478916,35,{'default': 'J. Daccord'},G,8/10,1/3,0/1,9/14,0.642857,2,2,1,0,5,25:58,True,L,14,9,Joey,Daccord,SEA,2025020434,0
+8475717,30,{'default': 'C. Pickard'},G,26/29,2/3,0/0,28/32,0.875,3,1,0,0,4,60:00,True,W,32,28,Calvin,Pickard,EDM,2025020434,1
+8481519,30,{'default': 'S. Knight'},G,21/22,4/4,1/1,26/27,0.962963,1,0,0,0,1,59:51,True,W,27,26,Spencer,Knight,CHI,2025020435,0
+8475311,35,{'default': 'D. Kuemper'},G,30/31,2/3,2/2,34/36,0.944444,1,1,0,0,2,57:14,True,L,36,34,Darcy,Kuemper,LAK,2025020435,1
+8481033,40,{'default': 'A. Schmid'},G,22/22,1/1,1/1,24/24,1.0,0,0,0,0,0,60:00,True,W,24,24,Akira,Schmid,VGK,2025020436,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,21/22,1/3,0/0,22/25,0.88,1,2,0,0,3,59:14,True,L,25,22,Jacob,Markstrom,NJD,2025020436,1
+8480045,1,{'default': 'U. Luukkonen'},G,17/20,2/2,0/0,19/22,0.863636,3,0,0,0,3,58:30,True,L,22,19,Ukko-Pekka,Luukkonen,BUF,2025020437,0
+8477480,1,{'default': 'E. Comrie'},G,29/29,5/6,0/0,34/35,0.971429,0,1,0,0,1,60:00,True,W,35,34,Eric,Comrie,WPG,2025020437,1
+8482137,30,{'default': 'Y. Askarov'},G,19/21,1/2,0/0,20/23,0.869565,2,1,0,0,3,59:35,True,L,23,20,Yaroslav,Askarov,SJS,2025020438,0
+8479979,29,{'default': 'J. Oettinger'},G,13/14,3/3,0/0,16/17,0.941176,1,0,0,0,1,60:00,True,W,17,16,Jake,Oettinger,DAL,2025020438,1
+8478872,70,{'default': 'K. Vejmelka'},G,27/28,5/5,0/0,32/33,0.969697,1,0,0,0,1,60:00,True,W,33,32,Karel,Vejmelka,UTA,2025020439,0
+8480947,32,{'default': 'K. Lankinen'},G,14/16,0/1,0/0,14/17,0.823529,2,1,0,0,3,58:36,True,L,17,14,Kevin,Lankinen,VAN,2025020439,1
+8480313,48,{'default': 'L. Thompson'},G,28/31,5/5,2/2,35/38,0.921053,3,0,0,0,3,65:00,True,O,38,35,Logan,Thompson,WSH,2025020440,0
+8478024,33,{'default': 'V. Husso'},G,14/17,2/2,2/2,18/21,0.857143,3,0,0,0,3,64:39,True,W,21,18,Ville,Husso,ANA,2025020440,1
+8478406,39,{'default': 'M. Blackwood'},G,22/24,3/3,0/0,25/27,0.925926,2,0,0,0,2,62:46,True,W,27,25,Mackenzie,Blackwood,COL,2025020441,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,35/38,4/4,0/0,39/42,0.928571,3,0,0,0,3,61:22,True,O,42,39,Igor,Shesterkin,NYR,2025020441,1
+8478007,90,{'default': 'E. Merzlikins'},G,23/28,6/8,4/4,33/40,0.825,5,2,0,0,7,64:31,True,O,40,33,Elvis,Merzlikins,CBJ,2025020442,0
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,21/26,4/5,0/0,25/31,0.806452,5,1,0,0,6,64:56,True,W,31,25,Sergei,Bobrovsky,FLA,2025020442,1
+8474596,34,{'default': 'J. Allen'},G,16/19,1/1,1/1,18/21,0.857143,3,0,0,0,3,59:32,True,L,21,18,Jake,Allen,NJD,2025020443,0
+8480280,1,{'default': 'J. Swayman'},G,27/28,1/1,1/1,29/30,0.966667,1,0,0,0,1,60:00,True,W,30,29,Jeremy,Swayman,BOS,2025020443,1
+8482487,75,{'default': 'J. Dobes'},G,21/21,1/1,0/1,22/23,0.956522,0,0,1,0,1,64:29,True,W,23,22,Jakub,Dobes,MTL,2025020444,0
+8483710,35,{'default': 'D. Hildeby'},G,25/25,7/8,1/1,33/34,0.970588,0,1,0,0,1,64:43,True,O,34,33,Dennis,Hildeby,TOR,2025020444,1
+8480981,30,{'default': 'J. Hofer'},G,28/28,13/14,0/0,41/42,0.97619,0,1,0,2,1,59:49,True,W,42,41,Joel,Hofer,STL,2025020445,0
+8476999,35,{'default': 'L. Ullmark'},G,17/19,1/1,0/0,18/20,0.9,2,0,0,0,2,57:55,True,L,20,18,Linus,Ullmark,OTT,2025020445,1
+8478009,30,{'default': 'I. Sorokin'},G,26/26,5/5,1/1,32/32,1.0,0,0,0,0,0,59:50,True,W,32,32,Ilya,Sorokin,NYI,2025020446,0
+8477992,31,{'default': 'J. Johansson'},G,16/16,1/2,0/0,17/18,0.944444,0,1,0,0,1,56:46,True,L,18,17,Jonas,Johansson,TBL,2025020446,1
+8477424,74,{'default': 'J. Saros'},G,19/23,11/13,2/2,32/38,0.842105,4,2,0,0,6,48:12,True,L,38,32,Juuse,Saros,NSH,2025020447,0
+8483548,32,{'default': 'B. Bussi'},G,16/18,2/3,1/1,19/22,0.863636,2,1,0,0,3,59:56,True,W,22,19,Brandon,Bussi,CAR,2025020447,1
+8477970,41,"{'default': 'V. Vanecek', 'cs': 'V. Vaněček', 'sk': 'V. Vaněček'}",G,17/18,4/4,0/0,21/22,0.954545,1,0,0,0,1,59:10,True,L,22,21,Vitek,Vanecek,UTA,2025020448,0
+8481692,32,{'default': 'D. Wolf'},G,28/28,0/0,0/0,28/28,1.0,0,0,0,0,0,60:00,True,W,28,28,Dustin,Wolf,CGY,2025020448,1
+8481519,30,{'default': 'S. Knight'},G,23/28,2/3,1/1,26/32,0.8125,5,1,0,0,6,59:42,True,L,32,26,Spencer,Knight,CHI,2025020449,0
+8475311,35,{'default': 'D. Kuemper'},G,22/22,0/0,1/1,23/23,1.0,0,0,0,0,0,60:00,True,W,23,23,Darcy,Kuemper,LAK,2025020449,1
+8477480,1,{'default': 'E. Comrie'},G,12/15,0/1,0/0,12/16,0.75,3,1,0,0,4,19:44,True,L,16,12,Eric,Comrie,WPG,2025020450,0
+8479973,74,{'default': 'S. Skinner'},G,17/19,2/2,0/0,19/21,0.904762,2,0,0,0,2,60:00,True,W,21,19,Stuart,Skinner,PIT,2025020450,1
+8482661,30,{'default': 'J. Wallstedt'},G,16/20,0/0,1/1,17/21,0.809524,4,0,0,2,4,57:05,True,L,21,17,Jesper,Wallstedt,MIN,2025020451,0
+8484268,60,{'default': 'N. Tolopilo'},G,27/28,1/2,0/0,28/30,0.933333,1,1,0,0,2,59:32,True,W,30,28,Nikita,Tolopilo,VAN,2025020451,1
+8476434,36,{'default': 'J. Gibson'},G,21/24,3/3,0/0,24/27,0.888889,3,0,0,0,3,59:58,True,W,27,24,John,Gibson,DET,2025020452,0
+8478916,35,{'default': 'J. Daccord'},G,19/22,2/3,0/0,21/25,0.84,3,1,0,0,4,58:48,True,L,25,21,Joey,Daccord,SEA,2025020452,1
+8478406,39,{'default': 'M. Blackwood'},G,23/25,0/0,0/0,23/25,0.92,2,0,0,0,2,60:00,True,W,25,23,Mackenzie,Blackwood,COL,2025020453,0
+8481035,33,{'default': 'S. Ersson'},G,21/23,4/5,0/0,25/28,0.892857,2,1,0,0,3,58:09,True,L,28,25,Samuel,Ersson,PHI,2025020453,1
+8479496,33,{'default': 'D. Rittich'},G,25/28,1/1,0/0,26/29,0.896552,3,0,0,0,3,59:22,True,L,29,26,David,Rittich,NYI,2025020454,0
+8480193,40,{'default': 'D. Tarasov'},G,17/18,2/2,1/1,20/21,0.952381,1,0,0,0,1,60:00,True,W,21,20,Daniil,Tarasov,FLA,2025020454,1
+8477968,33,{'default': 'A. Nedeljkovic'},G,24/24,4/5,0/0,28/29,0.965517,0,1,0,0,1,60:00,True,W,29,28,Alex,Nedeljkovic,SJS,2025020455,0
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,15/17,4/5,0/0,19/22,0.863636,2,1,0,0,3,59:03,True,L,22,19,Pyotr,Kochetkov,CAR,2025020455,1
+8477465,35,{'default': 'T. Jarry'},G,19/21,1/1,1/1,21/23,0.913043,2,0,0,0,2,64:50,True,O,23,21,Tristan,Jarry,EDM,2025020456,0
+8479979,29,{'default': 'J. Oettinger'},G,25/27,2/2,0/0,27/29,0.931034,2,0,0,0,2,63:36,True,W,29,27,Jake,Oettinger,DAL,2025020456,1
+8476412,50,{'default': 'J. Binnington'},G,21/24,2/2,0/0,23/26,0.884615,3,0,0,0,3,60:00,True,W,26,23,Jordan,Binnington,STL,2025020457,0
+8482487,75,{'default': 'J. Dobes'},G,13/16,1/2,0/0,14/18,0.777778,3,1,0,0,4,57:33,True,L,18,14,Jakub,Dobes,MTL,2025020457,1
+8479394,79,{'default': 'C. Hart'},G,21/23,0/0,1/1,22/24,0.916667,2,0,0,0,2,64:09,True,W,24,22,Carter,Hart,VGK,2025020458,0
+8471734,32,{'default': 'J. Quick'},G,22/25,3/3,0/0,25/28,0.892857,3,0,0,0,3,64:52,True,O,28,25,Jonathan,Quick,NYR,2025020458,1
+8482982,73,{'default': 'J. Greaves'},G,21/22,14/14,1/1,36/37,0.972973,1,0,0,0,1,57:20,True,L,37,36,Jet,Greaves,CBJ,2025020459,0
+8480313,48,{'default': 'L. Thompson'},G,32/32,5/5,2/2,39/39,1.0,0,0,0,0,0,59:49,True,W,39,39,Logan,Thompson,WSH,2025020459,1
+8482821,40,"{'default': 'A. Soderblom', 'cs': 'A. Söderblom', 'fi': 'A. Söderblom', 'sk': 'A. Söderblom', 'sv': 'A. Söderblom'}",G,37/42,9/11,0/0,46/53,0.867925,5,2,0,0,7,60:00,True,L,53,46,Arvid,Soderblom,CHI,2025020460,0
+8478024,33,{'default': 'V. Husso'},G,17/17,1/2,1/1,19/20,0.95,0,1,0,0,1,60:00,True,W,20,19,Ville,Husso,ANA,2025020460,1
+8477992,31,{'default': 'J. Johansson'},G,20/21,3/3,0/0,23/24,0.958333,1,0,0,0,1,57:45,True,L,24,23,Jonas,Johansson,TBL,2025020461,0
+8483710,35,{'default': 'D. Hildeby'},G,28/28,1/1,0/0,29/29,1.0,0,0,0,0,0,59:42,True,W,29,29,Dennis,Hildeby,TOR,2025020461,1
+8475311,35,{'default': 'D. Kuemper'},G,17/18,2/3,0/0,19/21,0.904762,1,1,0,0,2,60:00,True,W,21,19,Darcy,Kuemper,LAK,2025020462,0
+8478872,70,{'default': 'K. Vejmelka'},G,23/26,0/0,0/0,23/26,0.884615,3,0,0,0,3,58:08,True,L,26,23,Karel,Vejmelka,UTA,2025020462,1
+8480045,1,{'default': 'U. Luukkonen'},G,15/18,2/4,0/0,17/22,0.772727,3,2,0,0,5,40:00,True,L,22,17,Ukko-Pekka,Luukkonen,BUF,2025020463,0
+8481692,32,{'default': 'D. Wolf'},G,20/22,5/7,0/0,25/29,0.862069,2,2,0,2,4,60:00,True,W,29,25,Dustin,Wolf,CGY,2025020463,1
+8476434,36,{'default': 'J. Gibson'},G,34/34,5/5,0/0,39/39,1.0,0,0,0,0,0,60:00,True,W,39,39,John,Gibson,DET,2025020464,0
+8480947,32,{'default': 'K. Lankinen'},G,11/14,0/0,0/0,11/14,0.785714,3,0,0,0,3,39:53,True,L,14,11,Kevin,Lankinen,VAN,2025020464,1
+8479406,32,{'default': 'F. Gustavsson'},G,21/21,2/3,0/0,23/24,0.958333,0,1,0,0,1,59:59,True,W,24,23,Filip,Gustavsson,MIN,2025020465,0
+8475831,31,{'default': 'P. Grubauer'},G,16/18,8/8,1/1,25/27,0.925926,2,0,0,0,2,58:42,True,L,27,25,Philipp,Grubauer,SEA,2025020465,1
+8477992,31,{'default': 'J. Johansson'},G,18/18,6/7,2/2,26/27,0.962963,0,1,0,0,1,60:00,True,W,27,26,Jonas,Johansson,TBL,2025020466,0
+8482487,75,{'default': 'J. Dobes'},G,10/13,0/0,1/1,11/14,0.785714,3,0,0,0,3,19:50,True,L,14,11,Jakub,Dobes,MTL,2025020466,1
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,34/34,1/4,0/0,35/38,0.921053,0,3,0,0,3,59:22,True,W,38,35,Jacob,Markstrom,NJD,2025020467,0
+8476999,35,{'default': 'L. Ullmark'},G,21/25,6/6,1/1,28/32,0.875,4,0,0,0,4,57:41,True,L,32,28,Linus,Ullmark,OTT,2025020467,1
+8479394,79,{'default': 'C. Hart'},G,20/23,2/3,1/1,23/27,0.851852,3,1,0,0,4,63:48,True,O,27,23,Carter,Hart,VGK,2025020468,0
+8478009,30,{'default': 'I. Sorokin'},G,24/28,9/9,0/0,33/37,0.891892,4,0,0,2,4,65:00,True,W,37,33,Ilya,Sorokin,NYI,2025020468,1
+8477968,33,{'default': 'A. Nedeljkovic'},G,21/24,5/5,0/0,26/29,0.896552,3,0,0,0,3,58:06,True,L,29,26,Alex,Nedeljkovic,SJS,2025020469,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,14/15,2/2,1/1,17/18,0.944444,1,0,0,0,1,60:00,True,W,18,17,Dan,Vladar,PHI,2025020469,1
+8478024,33,{'default': 'V. Husso'},G,37/39,7/8,0/0,44/47,0.93617,2,1,0,2,3,62:47,True,W,47,44,Ville,Husso,ANA,2025020470,0
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,22/24,2/2,2/2,26/28,0.928571,2,0,1,0,3,64:48,True,O,28,26,Arturs,Silovs,PIT,2025020470,1
+8482982,73,{'default': 'J. Greaves'},G,23/25,4/5,1/1,28/31,0.903226,2,1,0,0,3,57:23,True,L,31,28,Jet,Greaves,CBJ,2025020471,0
+8483548,32,{'default': 'B. Bussi'},G,21/21,2/3,0/0,23/24,0.958333,0,1,0,0,1,60:00,True,W,24,23,Brandon,Bussi,CAR,2025020471,1
+8480280,1,{'default': 'J. Swayman'},G,22/23,2/3,0/0,24/26,0.923077,1,1,0,0,2,60:00,True,W,26,24,Jeremy,Swayman,BOS,2025020472,0
+8480981,30,{'default': 'J. Hofer'},G,23/27,2/2,1/1,26/30,0.866667,4,0,0,0,4,58:00,True,L,30,26,Joel,Hofer,STL,2025020472,1
+8479193,1,{'default': 'C. DeSmith'},G,21/24,8/8,1/1,30/33,0.909091,3,0,0,0,3,59:47,True,W,33,30,Casey,DeSmith,DAL,2025020473,0
+8477480,1,{'default': 'E. Comrie'},G,12/14,2/4,1/1,15/19,0.789474,2,2,0,0,4,57:52,True,L,19,15,Eric,Comrie,WPG,2025020473,1
+8481551,92,{'default': 'C. Ellis'},G,6/6,0/0,0/0,6/6,1.0,0,0,0,0,0,19:01,True,,6,6,Colten,Ellis,BUF,2025020474,0
+8479973,74,{'default': 'S. Skinner'},G,15/17,9/11,0/0,24/28,0.857143,2,2,0,0,4,59:22,True,O,28,24,Stuart,Skinner,PIT,2025020474,1
+8475809,41,{'default': 'S. Wedgewood'},G,25/27,3/4,0/0,28/31,0.903226,2,1,0,0,3,62:20,True,O,31,28,Scott,Wedgewood,COL,2025020475,0
+8477424,74,{'default': 'J. Saros'},G,33/35,6/7,0/0,39/42,0.928571,2,1,0,0,3,64:52,True,W,42,39,Juuse,Saros,NSH,2025020475,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,20/22,2/2,0/1,22/25,0.88,2,0,1,0,3,60:00,True,L,25,22,Igor,Shesterkin,NYR,2025020476,0
+8481519,30,{'default': 'S. Knight'},G,19/19,1/1,1/1,21/21,1.0,0,0,0,0,0,59:58,True,W,21,21,Spencer,Knight,CHI,2025020476,1
+8476434,36,{'default': 'J. Gibson'},G,30/32,3/3,1/2,34/37,0.918919,2,0,1,2,3,60:00,True,W,37,34,John,Gibson,DET,2025020477,0
+8482445,1,{'default': 'D. Cooley'},G,25/29,0/0,0/0,25/29,0.862069,4,0,0,0,4,58:11,True,L,29,25,Devin,Cooley,CGY,2025020477,1
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,22/25,5/5,0/0,27/30,0.9,3,0,0,0,3,60:00,True,W,30,27,Sergei,Bobrovsky,FLA,2025020478,0
+8478872,70,{'default': 'K. Vejmelka'},G,21/25,8/8,3/3,32/36,0.888889,4,0,0,0,4,59:24,True,L,36,32,Karel,Vejmelka,UTA,2025020478,1
+8476341,31,{'default': 'A. Forsberg'},G,21/21,9/12,0/0,30/33,0.909091,0,3,0,2,3,60:48,True,O,33,30,Anton,Forsberg,LAK,2025020479,0
+8478916,35,{'default': 'J. Daccord'},G,17/17,7/8,0/1,24/26,0.923077,0,1,1,0,2,59:50,True,W,26,24,Joey,Daccord,SEA,2025020479,1
+8477968,33,{'default': 'A. Nedeljkovic'},G,22/23,6/7,0/0,28/30,0.933333,1,1,0,0,2,62:00,True,W,30,28,Alex,Nedeljkovic,SJS,2025020480,0
+8483710,35,{'default': 'D. Hildeby'},G,26/29,3/3,0/0,29/32,0.90625,3,0,0,0,3,62:49,True,O,32,29,Dennis,Hildeby,TOR,2025020480,1
+8477992,31,{'default': 'J. Johansson'},G,28/31,5/6,0/0,33/37,0.891892,3,1,0,0,4,59:22,True,W,37,33,Jonas,Johansson,TBL,2025020481,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,4/7,0/0,0/0,4/7,0.571429,3,0,0,0,3,07:56,True,,7,4,Jacob,Markstrom,NJD,2025020481,1
+8478024,33,{'default': 'V. Husso'},G,27/30,5/7,0/0,32/37,0.864865,3,2,0,0,5,56:30,True,L,37,32,Ville,Husso,ANA,2025020482,0
+8479496,33,{'default': 'D. Rittich'},G,30/31,0/0,1/2,31/33,0.939394,1,0,1,0,2,60:00,True,W,33,31,David,Rittich,NYI,2025020482,1
+8481033,40,{'default': 'A. Schmid'},G,15/17,1/1,1/1,17/19,0.894737,2,0,0,0,2,62:47,True,W,19,17,Akira,Schmid,VGK,2025020483,0
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,17/19,2/3,0/0,19/22,0.863636,2,1,0,0,3,62:44,True,O,22,19,Dan,Vladar,PHI,2025020483,1
+8484170,32,{'default': 'J. Fowler'},G,21/22,15/16,0/0,36/38,0.947368,1,1,0,0,2,59:51,True,W,38,36,Jacob,Fowler,MTL,2025020484,0
+8477465,35,{'default': 'T. Jarry'},G,24/27,1/2,0/0,25/29,0.862069,3,1,0,0,4,56:00,True,L,29,25,Tristan,Jarry,EDM,2025020484,1
+8483548,32,{'default': 'B. Bussi'},G,21/23,2/2,0/0,23/25,0.92,2,0,0,0,2,64:56,True,W,25,23,Brandon,Bussi,CAR,2025020485,0
+8480313,48,{'default': 'L. Thompson'},G,33/35,4/4,0/0,37/39,0.948718,2,0,0,0,2,65:00,True,O,39,37,Logan,Thompson,WSH,2025020485,1
+8476999,35,{'default': 'L. Ullmark'},G,22/24,0/1,2/2,24/27,0.888889,2,1,0,0,3,60:00,True,W,27,24,Linus,Ullmark,OTT,2025020486,0
+8478007,90,{'default': 'E. Merzlikins'},G,2/4,0/1,0/0,2/5,0.4,2,1,0,0,3,14:55,True,,5,2,Elvis,Merzlikins,CBJ,2025020486,1
+8476412,50,{'default': 'J. Binnington'},G,15/21,4/4,0/0,19/25,0.76,6,0,0,0,6,40:00,True,L,25,19,Jordan,Binnington,STL,2025020487,0
+8477424,74,{'default': 'J. Saros'},G,16/18,5/5,3/3,24/26,0.923077,2,0,0,0,2,58:46,True,W,26,24,Juuse,Saros,NSH,2025020487,1
+8479979,29,{'default': 'J. Oettinger'},G,24/27,3/3,0/0,27/30,0.9,3,0,0,0,3,58:40,True,L,30,27,Jake,Oettinger,DAL,2025020488,0
+8479406,32,{'default': 'F. Gustavsson'},G,15/15,0/1,1/2,16/18,0.888889,0,1,1,0,2,60:00,True,W,18,16,Filip,Gustavsson,MIN,2025020488,1
+8476914,70,{'default': 'J. Korpisalo'},G,20/22,4/5,2/2,26/29,0.896552,2,1,0,0,3,60:00,True,W,29,26,Joonas,Korpisalo,BOS,2025020489,0
+8477480,1,{'default': 'E. Comrie'},G,16/19,1/3,1/1,18/23,0.782609,3,2,0,0,5,58:34,True,L,23,18,Eric,Comrie,WPG,2025020489,1
+8480193,40,{'default': 'D. Tarasov'},G,35/41,1/1,0/0,36/42,0.857143,6,0,0,0,6,59:56,True,L,42,36,Daniil,Tarasov,FLA,2025020490,0
+8478406,39,{'default': 'M. Blackwood'},G,19/21,3/3,1/1,23/25,0.92,2,0,0,0,2,60:00,True,W,25,23,Mackenzie,Blackwood,COL,2025020490,1
+8475660,39,{'default': 'C. Talbot'},G,24/26,1/2,0/0,25/28,0.892857,2,1,0,0,3,58:17,True,L,28,25,Cam,Talbot,DET,2025020491,0
+8479973,74,{'default': 'S. Skinner'},G,23/24,4/4,0/0,27/28,0.964286,1,0,0,0,1,60:00,True,W,28,27,Stuart,Skinner,PIT,2025020491,1
+8475660,39,{'default': 'C. Talbot'},G,24/26,1/2,0/0,25/28,0.892857,2,1,0,0,3,58:17,True,L,28,25,Cam,Talbot,DET,2025020491,0
+8479973,74,{'default': 'S. Skinner'},G,23/24,4/4,0/0,27/28,0.964286,1,0,0,0,1,60:00,True,W,28,27,Stuart,Skinner,PIT,2025020491,1
+8479312,34,{'default': 'A. Lyon'},G,28/29,1/2,1/1,30/32,0.9375,1,1,0,0,2,59:56,True,W,32,30,Alex,Lyon,BUF,2025020492,0
+8477967,35,{'default': 'T. Demko'},G,12/14,0/1,0/0,12/15,0.8,2,1,0,0,3,57:54,True,L,15,12,Thatcher,Demko,VAN,2025020492,1
+8481519,30,{'default': 'S. Knight'},G,21/24,2/2,0/0,23/26,0.884615,3,0,0,0,3,58:00,True,L,26,23,Spencer,Knight,CHI,2025020493,0
+8480981,30,{'default': 'J. Hofer'},G,27/29,0/0,0/0,27/29,0.931034,2,0,0,0,2,59:54,True,W,29,27,Joel,Hofer,STL,2025020493,1
+8475831,31,{'default': 'P. Grubauer'},G,26/28,2/3,0/0,28/31,0.903226,2,1,0,0,3,58:28,True,L,31,28,Philipp,Grubauer,SEA,2025020494,0
+8478872,70,{'default': 'K. Vejmelka'},G,27/30,7/7,0/0,34/37,0.918919,3,0,0,0,3,59:42,True,W,37,34,Karel,Vejmelka,UTA,2025020494,1
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,13/16,4/4,1/1,18/21,0.857143,3,0,0,0,3,57:50,True,L,21,18,Lukas,Dostal,ANA,2025020495,0
+8474596,34,{'default': 'J. Allen'},G,26/27,4/4,0/0,30/31,0.967742,1,0,0,0,1,60:00,True,W,31,30,Jake,Allen,NJD,2025020495,1
+8482447,1,{'default': 'L. Meriläinen'},G,18/20,4/5,0/0,22/25,0.88,2,1,0,0,3,58:59,True,L,25,22,Leevi,Meriläinen,OTT,2025020496,0
+8482661,30,{'default': 'J. Wallstedt'},G,25/25,8/10,1/1,34/36,0.944444,0,2,0,0,2,60:00,True,W,36,34,Jesper,Wallstedt,MIN,2025020496,1
+8482137,30,{'default': 'Y. Askarov'},G,29/31,7/10,2/2,38/43,0.883721,2,3,0,0,5,61:11,True,W,43,38,Yaroslav,Askarov,SJS,2025020497,0
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,22/27,3/4,0/0,25/31,0.806452,5,1,0,0,6,62:44,True,O,31,25,Arturs,Silovs,PIT,2025020497,1
+8477992,31,{'default': 'J. Johansson'},G,15/16,0/1,0/0,15/17,0.882353,1,1,0,0,2,64:54,True,O,17,15,Jonas,Johansson,TBL,2025020498,0
+8478009,30,{'default': 'I. Sorokin'},G,23/24,8/9,1/1,32/34,0.941176,1,1,0,0,2,65:00,True,W,34,32,Ilya,Sorokin,NYI,2025020498,1
+8477465,35,{'default': 'T. Jarry'},G,20/23,3/3,2/2,25/28,0.892857,3,0,0,0,3,60:00,True,W,28,25,Tristan,Jarry,EDM,2025020499,0
+8483710,35,{'default': 'D. Hildeby'},G,20/25,7/7,0/0,27/32,0.84375,6,0,0,0,6,49:28,True,L,32,27,Dennis,Hildeby,TOR,2025020499,1
+8484170,32,{'default': 'J. Fowler'},G,20/23,4/6,0/0,24/29,0.827586,3,2,0,0,5,62:56,True,O,29,24,Jacob,Fowler,MTL,2025020500,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,12/16,1/1,0/0,13/17,0.764706,4,0,0,0,4,62:05,True,W,17,13,Igor,Shesterkin,NYR,2025020500,1
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,11/14,0/0,4/4,15/18,0.833333,3,0,0,0,3,64:57,True,W,18,15,Pyotr,Kochetkov,CAR,2025020501,0
+8481035,33,{'default': 'S. Ersson'},G,15/18,3/3,0/0,18/21,0.857143,3,0,0,0,3,65:00,True,O,21,18,Samuel,Ersson,PHI,2025020501,1
+8479394,79,{'default': 'C. Hart'},G,24/26,4/4,0/0,28/30,0.933333,2,0,0,0,2,60:00,True,W,30,28,Carter,Hart,VGK,2025020502,0
+8482982,73,{'default': 'J. Greaves'},G,20/22,3/4,0/0,23/26,0.884615,2,1,0,0,3,58:52,True,L,26,23,Jet,Greaves,CBJ,2025020502,1
+8480313,48,{'default': 'L. Thompson'},G,21/25,6/7,3/3,30/35,0.857143,4,1,0,0,5,59:53,True,L,35,30,Logan,Thompson,WSH,2025020503,0
+8476945,37,{'default': 'C. Hellebuyck'},G,17/17,6/7,1/1,24/25,0.96,0,1,0,0,1,60:00,True,W,25,24,Connor,Hellebuyck,WPG,2025020503,1
+8476434,36,{'default': 'J. Gibson'},G,22/22,3/3,1/1,26/26,1.0,0,0,0,0,0,59:48,True,W,26,26,John,Gibson,DET,2025020504,0
+8482821,40,"{'default': 'A. Soderblom', 'cs': 'A. Söderblom', 'fi': 'A. Söderblom', 'sk': 'A. Söderblom', 'sv': 'A. Söderblom'}",G,16/19,3/3,1/1,20/23,0.869565,3,0,0,0,3,58:37,True,L,23,20,Arvid,Soderblom,CHI,2025020504,1
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,14/14,1/1,0/0,15/15,1.0,0,0,0,0,0,60:00,True,W,15,15,Sergei,Bobrovsky,FLA,2025020505,0
+8479979,29,{'default': 'J. Oettinger'},G,13/15,3/4,3/3,19/22,0.863636,2,1,0,0,3,56:59,True,L,22,19,Jake,Oettinger,DAL,2025020505,1
+8481020,29,{'default': 'J. Annunen'},G,27/30,9/9,1/1,37/40,0.925,3,0,0,0,3,59:02,True,L,40,37,Justus,Annunen,NSH,2025020506,0
+8475809,41,{'default': 'S. Wedgewood'},G,22/23,5/6,0/0,27/29,0.931034,1,1,0,0,2,59:15,True,W,29,27,Scott,Wedgewood,COL,2025020506,1
+8481692,32,{'default': 'D. Wolf'},G,14/15,4/4,3/3,21/22,0.954545,1,0,0,0,1,61:06,True,W,22,21,Dustin,Wolf,CGY,2025020507,0
+8475311,35,{'default': 'D. Kuemper'},G,28/29,8/8,0/1,36/38,0.947368,1,0,1,0,2,61:06,True,O,38,36,Darcy,Kuemper,LAK,2025020507,1
+8477967,35,{'default': 'T. Demko'},G,21/22,4/4,0/0,25/26,0.961538,1,0,0,0,1,60:00,True,W,26,25,Thatcher,Demko,VAN,2025020508,0
+8474593,25,"{'default': 'J. Markstrom', 'cs': 'J. Markström', 'fi': 'J. Markström', 'sk': 'J. Markström', 'sv': 'J. Markström'}",G,10/10,3/5,0/0,13/15,0.866667,0,2,0,0,2,57:52,True,L,15,13,Jacob,Markstrom,NJD,2025020508,1
+8478872,70,{'default': 'K. Vejmelka'},G,10/14,1/1,1/1,12/16,0.75,4,0,0,0,4,60:16,True,W,16,12,Karel,Vejmelka,UTA,2025020509,0
+8483703,1,{'default': 'S. Murashov'},G,21/25,10/11,0/0,31/36,0.861111,4,1,0,0,5,60:06,True,O,36,31,Sergei,Murashov,PIT,2025020509,1
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,26/27,4/5,0/0,30/32,0.9375,1,1,0,0,2,63:45,True,O,32,30,Dan,Vladar,PHI,2025020510,0
+8483548,32,{'default': 'B. Bussi'},G,17/19,3/3,4/4,24/26,0.923077,2,0,0,0,2,65:00,True,W,26,24,Brandon,Bussi,CAR,2025020510,1
+8480280,1,{'default': 'J. Swayman'},G,21/25,4/6,0/0,25/31,0.806452,4,2,0,0,6,60:00,True,L,31,25,Jeremy,Swayman,BOS,2025020511,0
+8479406,32,{'default': 'F. Gustavsson'},G,26/28,3/3,0/0,29/31,0.935484,2,0,0,0,2,59:54,True,W,31,29,Filip,Gustavsson,MIN,2025020511,1
+8475717,30,{'default': 'C. Pickard'},G,18/20,4/6,1/1,23/27,0.851852,2,2,0,0,4,55:37,True,L,27,23,Calvin,Pickard,EDM,2025020512,0
+8482487,75,{'default': 'J. Dobes'},G,19/19,8/9,0/0,27/28,0.964286,0,1,0,0,1,59:33,True,W,28,27,Jakub,Dobes,MTL,2025020512,1
+8479312,34,{'default': 'A. Lyon'},G,20/20,2/3,1/1,23/24,0.958333,0,1,0,0,1,60:00,True,W,24,23,Alex,Lyon,BUF,2025020513,0
+8478916,35,{'default': 'J. Daccord'},G,16/18,3/3,1/1,20/22,0.909091,2,0,0,0,2,59:32,True,L,22,20,Joey,Daccord,SEA,2025020513,1
+8475683,72,"{'default': 'S. Bobrovsky', 'cs': 'S. Bobrovskij', 'fi': 'S. Bobrovski', 'sk': 'S. Bobrovskij'}",G,20/22,6/6,0/0,26/28,0.928571,2,0,0,0,2,60:00,True,W,28,26,Sergei,Bobrovsky,FLA,2025020514,0
+8477992,31,{'default': 'J. Johansson'},G,11/14,8/9,0/1,19/24,0.791667,3,1,1,0,5,59:56,True,L,24,19,Jonas,Johansson,TBL,2025020514,1
+8480843,1,"{'default': 'L. Dostal', 'cs': 'L. Dostál', 'sk': 'L. Dostál'}",G,16/17,10/10,0/0,26/27,0.962963,1,0,0,0,1,59:48,True,W,27,26,Lukas,Dostal,ANA,2025020515,0
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,14/15,3/4,5/6,22/25,0.88,1,1,1,0,3,59:13,True,L,25,22,Igor,Shesterkin,NYR,2025020515,1
+8476999,35,{'default': 'L. Ullmark'},G,21/23,1/1,1/1,23/25,0.92,2,0,0,0,2,61:28,True,W,25,23,Linus,Ullmark,OTT,2025020516,0
+8476945,37,{'default': 'C. Hellebuyck'},G,23/26,3/3,2/2,28/31,0.903226,3,0,0,0,3,62:11,True,O,31,28,Connor,Hellebuyck,WPG,2025020516,1
+8477424,74,{'default': 'J. Saros'},G,14/15,2/3,4/4,20/22,0.909091,1,1,0,2,2,60:00,True,W,22,20,Juuse,Saros,NSH,2025020517,0
+8480981,30,{'default': 'J. Hofer'},G,16/19,5/6,0/0,21/25,0.84,3,1,0,0,4,59:39,True,L,25,21,Joel,Hofer,STL,2025020517,1
+8475311,35,{'default': 'D. Kuemper'},G,5/5,0/0,0/0,5/5,1.0,0,0,0,0,0,16:00,True,,5,5,Darcy,Kuemper,LAK,2025020518,0
+8479193,1,{'default': 'C. DeSmith'},G,21/21,5/6,1/1,27/28,0.964286,0,1,0,0,1,59:42,True,W,28,27,Casey,DeSmith,DAL,2025020518,1
+8477970,41,"{'default': 'V. Vanecek', 'cs': 'V. Vaněček', 'sk': 'V. Vaněček'}",G,17/20,2/3,0/0,19/23,0.826087,3,1,0,0,4,60:00,True,L,23,19,Vitek,Vanecek,UTA,2025020519,0
+8480280,1,{'default': 'J. Swayman'},G,16/16,4/5,0/0,20/21,0.952381,0,1,0,0,1,58:54,True,W,21,20,Jeremy,Swayman,BOS,2025020519,1
+8481519,30,{'default': 'S. Knight'},G,18/20,5/6,1/1,24/27,0.888889,2,1,0,0,3,58:59,True,L,27,24,Spencer,Knight,CHI,2025020520,0
+8479361,60,{'default': 'J. Woll'},G,21/22,1/1,1/2,23/25,0.92,1,0,1,0,2,60:00,True,W,25,23,Joseph,Woll,TOR,2025020520,1
+8478435,80,"{'default': 'D. Vladar', 'cs': 'D. Vladař', 'sk': 'D. Vladař'}",G,19/20,1/1,1/1,21/22,0.954545,1,0,0,0,1,60:00,True,W,22,21,Dan,Vladar,PHI,2025020521,0
+8484170,32,{'default': 'J. Fowler'},G,12/15,5/5,0/0,17/20,0.85,3,0,0,0,3,58:09,True,L,20,17,Jacob,Fowler,MTL,2025020521,1
+8478009,30,{'default': 'I. Sorokin'},G,18/19,0/2,0/0,18/21,0.857143,1,2,0,0,3,58:06,True,L,21,18,Ilya,Sorokin,NYI,2025020522,0
+8476434,36,{'default': 'J. Gibson'},G,15/17,1/1,0/0,16/18,0.888889,2,0,0,0,2,60:00,True,W,18,16,John,Gibson,DET,2025020522,1
+8477967,35,{'default': 'T. Demko'},G,17/17,6/6,0/0,23/23,1.0,0,0,0,0,0,59:51,True,W,23,23,Thatcher,Demko,VAN,2025020523,0
+8471734,32,{'default': 'J. Quick'},G,13/15,1/1,0/0,14/16,0.875,2,0,0,0,2,58:26,True,L,16,14,Jonathan,Quick,NYR,2025020523,1
+8477465,35,{'default': 'T. Jarry'},G,19/22,7/8,0/0,26/30,0.866667,3,1,0,0,4,59:55,True,W,30,26,Tristan,Jarry,EDM,2025020524,0
+8479973,74,{'default': 'S. Skinner'},G,14/16,3/6,0/0,17/22,0.772727,2,3,0,0,5,57:26,True,L,22,17,Stuart,Skinner,PIT,2025020524,1
+8478024,33,{'default': 'V. Husso'},G,20/24,3/3,1/1,24/28,0.857143,4,0,0,0,4,63:30,True,O,28,24,Ville,Husso,ANA,2025020525,0
+8482982,73,{'default': 'J. Greaves'},G,18/21,5/5,1/1,24/27,0.888889,3,0,0,0,3,63:01,True,W,27,24,Jet,Greaves,CBJ,2025020525,1
+8479292,79,{'default': 'C. Lindgren'},G,22/25,4/5,1/2,27/32,0.84375,3,1,1,0,5,60:00,True,L,32,27,Charlie,Lindgren,WSH,2025020526,0
+8479406,32,{'default': 'F. Gustavsson'},G,21/21,3/3,1/1,25/25,1.0,0,0,0,0,0,60:00,True,W,25,25,Filip,Gustavsson,MIN,2025020526,1
+8481692,32,{'default': 'D. Wolf'},G,17/22,2/2,1/1,20/25,0.8,5,0,0,0,5,57:51,True,L,25,20,Dustin,Wolf,CGY,2025020527,0
+8482137,30,{'default': 'Y. Askarov'},G,26/29,1/1,0/0,27/30,0.9,3,0,0,0,3,60:00,True,W,30,27,Yaroslav,Askarov,SJS,2025020527,1
+8478406,39,{'default': 'M. Blackwood'},G,29/31,6/7,0/0,35/38,0.921053,2,1,0,0,3,60:00,True,W,38,35,Mackenzie,Blackwood,COL,2025020528,0
+8475831,31,{'default': 'P. Grubauer'},G,23/26,9/10,2/2,34/38,0.894737,3,1,0,0,4,58:36,True,L,38,34,Philipp,Grubauer,SEA,2025020528,1
+8476341,31,{'default': 'A. Forsberg'},G,22/24,4/5,0/0,26/29,0.896552,2,1,0,0,3,57:43,True,L,29,26,Anton,Forsberg,LAK,2025020529,0
+8480193,40,{'default': 'D. Tarasov'},G,22/23,4/5,1/1,27/29,0.931034,1,1,0,0,2,60:00,True,W,29,27,Daniil,Tarasov,FLA,2025020529,1
+8478872,70,{'default': 'K. Vejmelka'},G,21/21,6/7,0/0,27/28,0.964286,0,1,0,0,1,59:57,True,W,28,27,Karel,Vejmelka,UTA,2025020530,0
+8475660,39,{'default': 'C. Talbot'},G,21/25,2/2,1/1,24/28,0.857143,4,0,0,0,4,60:00,True,L,28,24,Cam,Talbot,DET,2025020530,1
+8476945,37,{'default': 'C. Hellebuyck'},G,19/20,6/6,0/0,25/26,0.961538,1,0,0,0,1,59:43,True,L,26,25,Connor,Hellebuyck,WPG,2025020531,0
+8480981,30,{'default': 'J. Hofer'},G,19/19,5/5,0/0,24/24,1.0,0,0,0,0,0,60:00,True,W,24,24,Joel,Hofer,STL,2025020531,1
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,21/22,2/2,2/2,25/26,0.961538,1,0,0,0,1,59:57,True,W,26,25,Pyotr,Kochetkov,CAR,2025020532,0
+8477424,74,{'default': 'J. Saros'},G,22/24,7/8,4/4,33/36,0.916667,2,1,0,0,3,57:58,True,L,36,33,Juuse,Saros,NSH,2025020532,1
+8481611,52,"{'default': 'P. Kochetkov', 'fi': 'P. Kotshetkov'}",G,21/22,2/2,2/2,25/26,0.961538,1,0,0,0,1,59:57,True,W,26,25,Pyotr,Kochetkov,CAR,2025020532,0
+8477424,74,{'default': 'J. Saros'},G,22/24,7/8,4/4,33/36,0.916667,2,1,0,0,3,57:58,True,L,36,33,Juuse,Saros,NSH,2025020532,1
+8474596,34,{'default': 'J. Allen'},G,30/30,4/5,2/2,36/37,0.972973,0,1,0,0,1,65:00,True,W,37,36,Jake,Allen,NJD,2025020533,0
+8479394,79,{'default': 'C. Hart'},G,26/27,6/6,0/0,32/33,0.969697,1,0,0,0,1,65:00,True,O,33,32,Carter,Hart,VGK,2025020533,1
+8477465,35,{'default': 'T. Jarry'},G,11/11,0/1,1/1,12/13,0.923077,0,1,0,0,1,36:08,True,W,13,12,Tristan,Jarry,EDM,2025020534,0
+8480280,1,{'default': 'J. Swayman'},G,14/15,7/8,1/2,22/25,0.88,1,1,1,0,3,58:35,True,L,25,22,Jeremy,Swayman,BOS,2025020534,1
+8481035,33,{'default': 'S. Ersson'},G,17/20,5/6,1/1,23/27,0.851852,3,1,0,0,4,58:17,True,L,27,23,Samuel,Ersson,PHI,2025020535,0
+8479312,34,{'default': 'A. Lyon'},G,19/22,4/4,1/1,24/27,0.888889,3,0,0,0,3,59:52,True,W,27,24,Alex,Lyon,BUF,2025020535,1
+8481519,30,{'default': 'S. Knight'},G,25/28,6/6,0/0,31/34,0.911765,3,0,0,0,3,59:23,True,L,34,31,Spencer,Knight,CHI,2025020536,0
+8482487,75,{'default': 'J. Dobes'},G,13/14,1/1,0/0,14/15,0.933333,1,0,0,0,1,60:00,True,W,15,14,Jakub,Dobes,MTL,2025020536,1
+8481668,37,"{'default': 'A. Silovs', 'cs': 'A. Šilovs', 'sk': 'A. Šilovs'}",G,19/22,1/2,2/2,22/26,0.846154,3,1,0,2,4,59:53,True,L,26,22,Arturs,Silovs,PIT,2025020537,0
+8476999,35,{'default': 'L. Ullmark'},G,21/21,3/3,1/1,25/25,1.0,0,0,0,0,0,60:00,True,W,25,25,Linus,Ullmark,OTT,2025020537,1
+8476341,31,{'default': 'A. Forsberg'},G,24/24,6/7,1/1,31/32,0.96875,0,1,0,0,1,60:00,True,W,32,31,Anton,Forsberg,LAK,2025020538,0
+8476883,88,"{'default': 'A. Vasilevskiy', 'cs': 'A. Vasilevskij', 'fi': 'A. Vasilevski', 'sk': 'A. Vasilevskij'}",G,15/17,1/1,2/2,18/20,0.9,2,0,0,0,2,57:08,True,L,20,18,Andrei,Vasilevskiy,TBL,2025020538,1
+8483710,35,{'default': 'D. Hildeby'},G,18/22,7/7,0/0,25/29,0.862069,4,0,0,0,4,60:00,True,L,29,25,Dennis,Hildeby,TOR,2025020539,0
+8480313,48,{'default': 'L. Thompson'},G,16/16,5/5,1/1,22/22,1.0,0,0,0,0,0,59:48,True,W,22,22,Logan,Thompson,WSH,2025020539,1
+8482661,30,{'default': 'J. Wallstedt'},G,23/25,4/4,0/0,27/29,0.931034,2,0,0,0,2,60:00,True,W,29,27,Jesper,Wallstedt,MIN,2025020540,0
+8482982,73,{'default': 'J. Greaves'},G,22/24,1/2,0/0,23/26,0.884615,2,1,0,0,3,59:21,True,L,26,23,Jet,Greaves,CBJ,2025020540,1
+8478048,31,"{'default': 'I. Shesterkin', 'cs': 'I. Šesťorkin', 'fi': 'I. Shestjorkin', 'sk': 'I. Šesťorkin'}",G,22/23,4/4,0/0,26/27,0.962963,1,0,0,0,1,62:21,True,W,27,26,Igor,Shesterkin,NYR,2025020541,0
+8476412,50,{'default': 'J. Binnington'},G,22/23,6/7,1/1,29/31,0.935484,1,1,0,0,2,62:21,True,O,31,29,Jordan,Binnington,STL,2025020541,1
+8478916,35,{'default': 'J. Daccord'},G,31/33,10/11,1/1,42/45,0.933333,2,1,0,0,3,57:47,True,L,45,42,Joey,Daccord,SEA,2025020542,0
+8481692,32,{'default': 'D. Wolf'},G,21/22,0/1,0/0,21/23,0.913043,1,1,0,0,2,59:54,True,W,23,21,Dustin,Wolf,CGY,2025020542,1
+8479979,29,{'default': 'J. Oettinger'},G,27/30,7/7,0/0,34/37,0.918919,3,0,0,0,3,60:00,True,W,37,34,Jake,Oettinger,DAL,2025020543,0
+8477968,33,{'default': 'A. Nedeljkovic'},G,24/27,0/1,1/1,25/29,0.862069,3,1,0,0,4,58:04,True,L,29,25,Alex,Nedeljkovic,SJS,2025020543,1
